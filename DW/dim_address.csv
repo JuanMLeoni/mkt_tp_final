@@ -1,0 +1,3205 @@
+address_key,line1,line2,city,province_id,province_name,postal_code,country_code
+1,Sucursal Buenos Aires - Av. Principal 101,,Buenos Aires,1,Buenos Aires,1001,AR
+2,Sucursal Córdoba - Av. Principal 102,,Córdoba,2,Córdoba,1002,AR
+3,Sucursal Santa Fe - Av. Principal 103,,Santa Fe,3,Santa Fe,1003,AR
+4,Sucursal Mendoza - Av. Principal 104,,Mendoza,4,Mendoza,1004,AR
+1001,Calle 5545,Piso 4 Dto B,Córdoba,2,Córdoba,4934,AR
+1002,Calle 2808,Piso 9 Dto C,Rafaela,3,Santa Fe,2071,AR
+1003,Calle 3108,Piso 4 Dto C,CABA,1,Buenos Aires,7131,AR
+1004,Calle 4007,,Río Cuarto,2,Córdoba,9773,AR
+1005,Calle 4050,Piso 1 Dto C,Santa Fe,3,Santa Fe,3071,AR
+1006,Calle 3429,Piso 12 Dto A,Godoy Cruz,4,Mendoza,2062,AR
+1007,Calle 8343,Piso 6 Dto B,Mar del Plata,1,Buenos Aires,3932,AR
+1008,Calle 7919,Piso 12 Dto B,Río Cuarto,2,Córdoba,5396,AR
+1009,Calle 600,,Río Cuarto,2,Córdoba,8406,AR
+1010,Calle 6964,,La Plata,1,Buenos Aires,7129,AR
+1011,Calle 1377,Piso 5 Dto B,Córdoba,2,Córdoba,4771,AR
+1012,Calle 5512,Piso 7 Dto B,Mar del Plata,1,Buenos Aires,8086,AR
+1013,Calle 5195,,La Plata,1,Buenos Aires,3942,AR
+1014,Calle 1244,Piso 6 Dto A,Mar del Plata,1,Buenos Aires,9220,AR
+1015,Calle 4529,,CABA,1,Buenos Aires,2168,AR
+1016,Calle 5469,Piso 4 Dto C,CABA,1,Buenos Aires,5096,AR
+1017,Calle 4497,,Río Cuarto,2,Córdoba,9898,AR
+1018,Calle 4618,Piso 6 Dto B,La Plata,1,Buenos Aires,1194,AR
+1019,Calle 6513,,Córdoba,2,Córdoba,8773,AR
+1020,Calle 7680,Piso 12 Dto B,Mar del Plata,1,Buenos Aires,2406,AR
+1021,Calle 6844,Piso 4 Dto B,Santa Fe,3,Santa Fe,1493,AR
+1022,Calle 5007,Piso 12 Dto A,CABA,1,Buenos Aires,6810,AR
+1023,Calle 6609,Piso 12 Dto C,La Plata,1,Buenos Aires,6342,AR
+1024,Calle 2280,Piso 3 Dto B,Córdoba,2,Córdoba,7247,AR
+1025,Calle 8758,Piso 7 Dto A,Mendoza,4,Mendoza,2779,AR
+1026,Calle 4992,,Villa Carlos Paz,2,Córdoba,3910,AR
+1027,Calle 8006,,Rafaela,3,Santa Fe,2138,AR
+1028,Calle 4770,,CABA,1,Buenos Aires,8449,AR
+1029,Calle 2816,Piso 6 Dto B,CABA,1,Buenos Aires,3572,AR
+1030,Calle 7836,Piso 12 Dto A,La Plata,1,Buenos Aires,4382,AR
+1031,Calle 7082,Piso 12 Dto C,Santa Fe,3,Santa Fe,3601,AR
+1032,Calle 7520,,Río Cuarto,2,Córdoba,3337,AR
+1033,Calle 9910,Piso 4 Dto C,La Plata,1,Buenos Aires,9043,AR
+1034,Calle 1493,Piso 5 Dto C,CABA,1,Buenos Aires,6681,AR
+1035,Calle 6801,Piso 4 Dto A,CABA,1,Buenos Aires,8501,AR
+1036,Calle 9317,,Mendoza,4,Mendoza,4927,AR
+1037,Calle 8811,,Mar del Plata,1,Buenos Aires,4559,AR
+1038,Calle 1987,,Mar del Plata,1,Buenos Aires,9264,AR
+1039,Calle 4142,,CABA,1,Buenos Aires,8572,AR
+1040,Calle 7568,Piso 7 Dto B,Mar del Plata,1,Buenos Aires,4185,AR
+1041,Calle 1879,Piso 12 Dto A,La Plata,1,Buenos Aires,8606,AR
+1042,Calle 8986,Piso 11 Dto A,CABA,1,Buenos Aires,3297,AR
+1043,Calle 2795,,Rosario,3,Santa Fe,3903,AR
+1044,Calle 6404,,Mar del Plata,1,Buenos Aires,5476,AR
+1045,Calle 3550,,CABA,1,Buenos Aires,8242,AR
+1046,Calle 1685,Piso 7 Dto C,Rafaela,3,Santa Fe,8274,AR
+1047,Calle 6184,Piso 4 Dto A,Córdoba,2,Córdoba,4908,AR
+1048,Calle 458,,La Plata,1,Buenos Aires,2035,AR
+1049,Calle 2751,,Mendoza,4,Mendoza,7810,AR
+1050,Calle 5287,,La Plata,1,Buenos Aires,4393,AR
+1051,Calle 1980,,La Plata,1,Buenos Aires,6842,AR
+1052,Calle 5182,,La Plata,1,Buenos Aires,8516,AR
+1053,Calle 6046,,La Plata,1,Buenos Aires,7735,AR
+1054,Calle 1669,,Santa Fe,3,Santa Fe,5127,AR
+1055,Calle 6367,,Río Cuarto,2,Córdoba,6440,AR
+1056,Calle 5210,,Río Cuarto,2,Córdoba,6490,AR
+1057,Calle 7355,,Río Cuarto,2,Córdoba,9248,AR
+1058,Calle 2033,Piso 5 Dto A,Mar del Plata,1,Buenos Aires,4990,AR
+1059,Calle 8172,,La Plata,1,Buenos Aires,7156,AR
+1060,Calle 9799,Piso 8 Dto C,Córdoba,2,Córdoba,3199,AR
+1061,Calle 8534,Piso 7 Dto C,CABA,1,Buenos Aires,1388,AR
+1062,Calle 5616,,Santa Fe,3,Santa Fe,5068,AR
+1063,Calle 8544,Piso 6 Dto A,Villa Carlos Paz,2,Córdoba,1099,AR
+1064,Calle 3154,,Rosario,3,Santa Fe,4345,AR
+1065,Calle 8993,,Mar del Plata,1,Buenos Aires,7983,AR
+1066,Calle 3237,,Mar del Plata,1,Buenos Aires,5079,AR
+1067,Calle 3300,,La Plata,1,Buenos Aires,6891,AR
+1068,Calle 7232,Piso 7 Dto C,La Plata,1,Buenos Aires,3553,AR
+1069,Calle 7003,,La Plata,1,Buenos Aires,3878,AR
+1070,Calle 7432,Piso 5 Dto B,La Plata,1,Buenos Aires,2178,AR
+1071,Calle 3207,,La Plata,1,Buenos Aires,1210,AR
+1072,Calle 8052,Piso 7 Dto B,Villa Carlos Paz,2,Córdoba,7113,AR
+1073,Calle 9639,,Mar del Plata,1,Buenos Aires,3039,AR
+1074,Calle 3183,Piso 7 Dto B,Mendoza,4,Mendoza,9349,AR
+1075,Calle 946,Piso 11 Dto B,Villa Carlos Paz,2,Córdoba,5043,AR
+1076,Calle 463,,La Plata,1,Buenos Aires,5281,AR
+1077,Calle 4167,,Mendoza,4,Mendoza,1202,AR
+1078,Calle 6298,,Rafaela,3,Santa Fe,9495,AR
+1079,Calle 6994,Piso 5 Dto C,Rosario,3,Santa Fe,9202,AR
+1080,Calle 9603,Piso 5 Dto C,Villa Carlos Paz,2,Córdoba,2456,AR
+1081,Calle 2339,,Villa Carlos Paz,2,Córdoba,7520,AR
+1082,Calle 8057,,CABA,1,Buenos Aires,7845,AR
+1083,Calle 7061,Piso 3 Dto A,La Plata,1,Buenos Aires,4053,AR
+1084,Calle 8235,,CABA,1,Buenos Aires,4041,AR
+1085,Calle 3144,Piso 5 Dto B,CABA,1,Buenos Aires,2789,AR
+1086,Calle 6189,,CABA,1,Buenos Aires,6605,AR
+1087,Calle 7950,,Villa Carlos Paz,2,Córdoba,2000,AR
+1088,Calle 9543,,Rosario,3,Santa Fe,9557,AR
+1089,Calle 4356,Piso 8 Dto B,Mar del Plata,1,Buenos Aires,8036,AR
+1090,Calle 5165,Piso 4 Dto B,La Plata,1,Buenos Aires,7200,AR
+1091,Calle 1642,Piso 1 Dto B,Godoy Cruz,4,Mendoza,3275,AR
+1092,Calle 4579,Piso 12 Dto A,Río Cuarto,2,Córdoba,8404,AR
+1093,Calle 3080,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,1272,AR
+1094,Calle 5334,,Rafaela,3,Santa Fe,8938,AR
+1095,Calle 5708,,Córdoba,2,Córdoba,7305,AR
+1096,Calle 2346,,Río Cuarto,2,Córdoba,3094,AR
+1097,Calle 8991,Piso 8 Dto A,Santa Fe,3,Santa Fe,2895,AR
+1098,Calle 3988,,Córdoba,2,Córdoba,2728,AR
+1099,Calle 2626,Piso 6 Dto B,Mendoza,4,Mendoza,4610,AR
+1100,Calle 2017,Piso 11 Dto A,Río Cuarto,2,Córdoba,2481,AR
+1101,Calle 9842,Piso 2 Dto C,Rafaela,3,Santa Fe,7176,AR
+1102,Calle 7160,Piso 4 Dto A,Río Cuarto,2,Córdoba,2895,AR
+1103,Calle 5575,,CABA,1,Buenos Aires,2902,AR
+1104,Calle 6230,,La Plata,1,Buenos Aires,6092,AR
+1105,Calle 6360,Piso 7 Dto B,Córdoba,2,Córdoba,3069,AR
+1106,Calle 3640,,Río Cuarto,2,Córdoba,9819,AR
+1107,Calle 3587,Piso 8 Dto C,La Plata,1,Buenos Aires,3415,AR
+1108,Calle 563,Piso 10 Dto B,Mar del Plata,1,Buenos Aires,9230,AR
+1109,Calle 9404,,Mar del Plata,1,Buenos Aires,9110,AR
+1110,Calle 964,,Villa Carlos Paz,2,Córdoba,4687,AR
+1111,Calle 7988,Piso 12 Dto B,Mendoza,4,Mendoza,3608,AR
+1112,Calle 6922,Piso 11 Dto B,La Plata,1,Buenos Aires,7412,AR
+1113,Calle 4638,,Mar del Plata,1,Buenos Aires,9978,AR
+1114,Calle 9510,Piso 1 Dto C,La Plata,1,Buenos Aires,8496,AR
+1115,Calle 7905,,Villa Carlos Paz,2,Córdoba,4573,AR
+1116,Calle 5935,,Córdoba,2,Córdoba,3418,AR
+1117,Calle 2757,Piso 1 Dto A,Godoy Cruz,4,Mendoza,8763,AR
+1118,Calle 8445,Piso 11 Dto B,Mendoza,4,Mendoza,3434,AR
+1119,Calle 3947,Piso 7 Dto B,CABA,1,Buenos Aires,3826,AR
+1120,Calle 1469,Piso 8 Dto C,Rafaela,3,Santa Fe,5509,AR
+1121,Calle 1911,Piso 2 Dto A,CABA,1,Buenos Aires,9351,AR
+1122,Calle 9382,,Mar del Plata,1,Buenos Aires,3967,AR
+1123,Calle 7106,,Mar del Plata,1,Buenos Aires,2629,AR
+1124,Calle 3030,,Mar del Plata,1,Buenos Aires,7451,AR
+1125,Calle 8005,,Rafaela,3,Santa Fe,4399,AR
+1126,Calle 2949,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,6149,AR
+1127,Calle 3379,,Mar del Plata,1,Buenos Aires,5206,AR
+1128,Calle 8293,,CABA,1,Buenos Aires,7931,AR
+1129,Calle 8511,Piso 5 Dto C,CABA,1,Buenos Aires,3291,AR
+1130,Calle 5770,,Río Cuarto,2,Córdoba,2622,AR
+1131,Calle 2322,,CABA,1,Buenos Aires,4539,AR
+1132,Calle 6915,Piso 2 Dto C,Mar del Plata,1,Buenos Aires,5270,AR
+1133,Calle 6555,Piso 8 Dto A,Córdoba,2,Córdoba,7968,AR
+1134,Calle 4414,,CABA,1,Buenos Aires,7097,AR
+1135,Calle 9912,,Río Cuarto,2,Córdoba,6183,AR
+1136,Calle 4056,,Mar del Plata,1,Buenos Aires,9707,AR
+1137,Calle 1081,,Villa Carlos Paz,2,Córdoba,6944,AR
+1138,Calle 3699,,Rosario,3,Santa Fe,7179,AR
+1139,Calle 2024,Piso 3 Dto C,CABA,1,Buenos Aires,9021,AR
+1140,Calle 9375,Piso 5 Dto C,Mar del Plata,1,Buenos Aires,2623,AR
+1141,Calle 2961,Piso 6 Dto C,La Plata,1,Buenos Aires,8812,AR
+1142,Calle 8415,,Mar del Plata,1,Buenos Aires,3337,AR
+1143,Calle 867,Piso 12 Dto C,Villa Carlos Paz,2,Córdoba,5081,AR
+1144,Calle 7192,Piso 6 Dto B,Córdoba,2,Córdoba,5519,AR
+1145,Calle 3749,,Mar del Plata,1,Buenos Aires,6007,AR
+1146,Calle 1303,,Rosario,3,Santa Fe,2534,AR
+1147,Calle 4684,,Córdoba,2,Córdoba,7946,AR
+1148,Calle 7859,,Mendoza,4,Mendoza,7643,AR
+1149,Calle 120,Piso 12 Dto B,Río Cuarto,2,Córdoba,5001,AR
+1150,Calle 9952,,Córdoba,2,Córdoba,3864,AR
+1151,Calle 8417,Piso 6 Dto A,CABA,1,Buenos Aires,9118,AR
+1152,Calle 5538,,CABA,1,Buenos Aires,5752,AR
+1153,Calle 3491,Piso 1 Dto C,La Plata,1,Buenos Aires,4562,AR
+1154,Calle 8447,Piso 1 Dto B,San Rafael,4,Mendoza,1942,AR
+1155,Calle 5383,,La Plata,1,Buenos Aires,1084,AR
+1156,Calle 6588,,Rosario,3,Santa Fe,8058,AR
+1157,Calle 8427,,Mar del Plata,1,Buenos Aires,8985,AR
+1158,Calle 4099,Piso 4 Dto B,Mar del Plata,1,Buenos Aires,7132,AR
+1159,Calle 8789,Piso 5 Dto A,CABA,1,Buenos Aires,8198,AR
+1160,Calle 7111,,Mar del Plata,1,Buenos Aires,2813,AR
+1161,Calle 6465,Piso 7 Dto C,CABA,1,Buenos Aires,1517,AR
+1162,Calle 4355,Piso 2 Dto B,Villa Carlos Paz,2,Córdoba,9119,AR
+1163,Calle 8223,Piso 12 Dto C,La Plata,1,Buenos Aires,3153,AR
+1164,Calle 2067,,Mendoza,4,Mendoza,4874,AR
+1165,Calle 7040,,Villa Carlos Paz,2,Córdoba,8116,AR
+1166,Calle 1354,,La Plata,1,Buenos Aires,9376,AR
+1167,Calle 4318,Piso 12 Dto A,CABA,1,Buenos Aires,4250,AR
+1168,Calle 8231,,Córdoba,2,Córdoba,3436,AR
+1169,Calle 629,,La Plata,1,Buenos Aires,7984,AR
+1170,Calle 835,Piso 7 Dto B,Córdoba,2,Córdoba,4791,AR
+1171,Calle 1006,,La Plata,1,Buenos Aires,5985,AR
+1172,Calle 5752,,La Plata,1,Buenos Aires,6240,AR
+1173,Calle 855,Piso 11 Dto C,CABA,1,Buenos Aires,4473,AR
+1174,Calle 1651,Piso 7 Dto A,Mar del Plata,1,Buenos Aires,9049,AR
+1175,Calle 1588,,CABA,1,Buenos Aires,6426,AR
+1176,Calle 9649,Piso 9 Dto C,Villa Carlos Paz,2,Córdoba,4903,AR
+1177,Calle 1430,,La Plata,1,Buenos Aires,1672,AR
+1178,Calle 1617,Piso 2 Dto C,La Plata,1,Buenos Aires,5939,AR
+1179,Calle 8742,,Mendoza,4,Mendoza,3094,AR
+1180,Calle 4138,Piso 9 Dto B,Mar del Plata,1,Buenos Aires,8347,AR
+1181,Calle 7911,,Mendoza,4,Mendoza,3735,AR
+1182,Calle 4746,,Córdoba,2,Córdoba,4116,AR
+1183,Calle 8413,Piso 2 Dto A,Mar del Plata,1,Buenos Aires,9344,AR
+1184,Calle 6568,,Villa Carlos Paz,2,Córdoba,4015,AR
+1185,Calle 9702,Piso 12 Dto A,CABA,1,Buenos Aires,9254,AR
+1186,Calle 4856,,CABA,1,Buenos Aires,3803,AR
+1187,Calle 4782,,CABA,1,Buenos Aires,5550,AR
+1188,Calle 4080,,CABA,1,Buenos Aires,1022,AR
+1189,Calle 5318,Piso 2 Dto C,Villa Carlos Paz,2,Córdoba,3189,AR
+1190,Calle 5319,,Santa Fe,3,Santa Fe,6824,AR
+1191,Calle 2896,,Villa Carlos Paz,2,Córdoba,7258,AR
+1192,Calle 9902,Piso 9 Dto A,Rafaela,3,Santa Fe,4614,AR
+1193,Calle 6480,,Mar del Plata,1,Buenos Aires,8109,AR
+1194,Calle 1536,Piso 8 Dto A,La Plata,1,Buenos Aires,4031,AR
+1195,Calle 2956,,La Plata,1,Buenos Aires,6081,AR
+1196,Calle 9959,,Santa Fe,3,Santa Fe,2180,AR
+1197,Calle 6595,,Mar del Plata,1,Buenos Aires,1193,AR
+1198,Calle 1803,,CABA,1,Buenos Aires,3165,AR
+1199,Calle 2337,,Santa Fe,3,Santa Fe,1153,AR
+1200,Calle 1393,Piso 4 Dto A,La Plata,1,Buenos Aires,8279,AR
+1201,Calle 2532,Piso 4 Dto A,La Plata,1,Buenos Aires,9906,AR
+1202,Calle 1685,,CABA,1,Buenos Aires,9381,AR
+1203,Calle 394,Piso 4 Dto B,CABA,1,Buenos Aires,3414,AR
+1204,Calle 6304,,Córdoba,2,Córdoba,9057,AR
+1205,Calle 1667,,Mendoza,4,Mendoza,6467,AR
+1206,Calle 711,,CABA,1,Buenos Aires,8022,AR
+1207,Calle 6968,Piso 3 Dto C,CABA,1,Buenos Aires,5702,AR
+1208,Calle 8180,Piso 11 Dto B,Santa Fe,3,Santa Fe,2251,AR
+1209,Calle 2402,Piso 6 Dto A,Rosario,3,Santa Fe,8318,AR
+1210,Calle 9468,Piso 7 Dto C,Rosario,3,Santa Fe,3370,AR
+1211,Calle 2980,Piso 7 Dto B,CABA,1,Buenos Aires,9097,AR
+1212,Calle 9859,,La Plata,1,Buenos Aires,5028,AR
+1213,Calle 8827,,La Plata,1,Buenos Aires,7301,AR
+1214,Calle 8634,,Villa Carlos Paz,2,Córdoba,2429,AR
+1215,Calle 282,Piso 6 Dto C,CABA,1,Buenos Aires,3188,AR
+1216,Calle 5913,Piso 3 Dto B,La Plata,1,Buenos Aires,3361,AR
+1217,Calle 3974,,Godoy Cruz,4,Mendoza,3257,AR
+1218,Calle 2345,,San Rafael,4,Mendoza,7958,AR
+1219,Calle 9530,,CABA,1,Buenos Aires,1494,AR
+1220,Calle 4015,Piso 2 Dto A,CABA,1,Buenos Aires,3452,AR
+1221,Calle 8642,Piso 12 Dto B,CABA,1,Buenos Aires,7742,AR
+1222,Calle 217,,Mar del Plata,1,Buenos Aires,1983,AR
+1223,Calle 8246,Piso 3 Dto A,Córdoba,2,Córdoba,7940,AR
+1224,Calle 9373,,Villa Carlos Paz,2,Córdoba,7941,AR
+1225,Calle 8545,,CABA,1,Buenos Aires,7560,AR
+1226,Calle 9164,Piso 10 Dto A,CABA,1,Buenos Aires,8821,AR
+1227,Calle 6234,Piso 3 Dto A,Villa Carlos Paz,2,Córdoba,7950,AR
+1228,Calle 1275,Piso 6 Dto C,CABA,1,Buenos Aires,1459,AR
+1229,Calle 1745,,Mar del Plata,1,Buenos Aires,6064,AR
+1230,Calle 531,,Río Cuarto,2,Córdoba,1735,AR
+1231,Calle 749,,Godoy Cruz,4,Mendoza,6056,AR
+1232,Calle 6524,Piso 9 Dto A,Godoy Cruz,4,Mendoza,7400,AR
+1233,Calle 1596,,San Rafael,4,Mendoza,9227,AR
+1234,Calle 7815,Piso 10 Dto A,La Plata,1,Buenos Aires,3641,AR
+1235,Calle 1529,,Córdoba,2,Córdoba,3307,AR
+1236,Calle 8460,Piso 12 Dto C,San Rafael,4,Mendoza,8331,AR
+1237,Calle 7060,Piso 1 Dto C,La Plata,1,Buenos Aires,4917,AR
+1238,Calle 1229,Piso 3 Dto C,San Rafael,4,Mendoza,2595,AR
+1239,Calle 8965,,La Plata,1,Buenos Aires,8451,AR
+1240,Calle 2646,Piso 2 Dto B,La Plata,1,Buenos Aires,6789,AR
+1241,Calle 7549,Piso 5 Dto B,Mar del Plata,1,Buenos Aires,8242,AR
+1242,Calle 8000,Piso 1 Dto B,San Rafael,4,Mendoza,7568,AR
+1243,Calle 2114,Piso 8 Dto B,Rafaela,3,Santa Fe,7122,AR
+1244,Calle 7375,,Río Cuarto,2,Córdoba,1934,AR
+1245,Calle 131,Piso 3 Dto A,Río Cuarto,2,Córdoba,7157,AR
+1246,Calle 3655,,Córdoba,2,Córdoba,6716,AR
+1247,Calle 7617,,Mar del Plata,1,Buenos Aires,2775,AR
+1248,Calle 6579,Piso 6 Dto A,Rosario,3,Santa Fe,6610,AR
+1249,Calle 7803,Piso 2 Dto B,Mar del Plata,1,Buenos Aires,1627,AR
+1250,Calle 2385,Piso 11 Dto A,La Plata,1,Buenos Aires,1513,AR
+1251,Calle 7047,,La Plata,1,Buenos Aires,4465,AR
+1252,Calle 6930,,San Rafael,4,Mendoza,2369,AR
+1253,Calle 1339,Piso 5 Dto C,La Plata,1,Buenos Aires,7876,AR
+1254,Calle 3016,Piso 1 Dto A,La Plata,1,Buenos Aires,6603,AR
+1255,Calle 6867,,La Plata,1,Buenos Aires,8156,AR
+1256,Calle 6376,,San Rafael,4,Mendoza,2274,AR
+1257,Calle 5186,Piso 1 Dto A,Mar del Plata,1,Buenos Aires,3416,AR
+1258,Calle 6659,,Rosario,3,Santa Fe,8381,AR
+1259,Calle 9477,,Río Cuarto,2,Córdoba,4074,AR
+1260,Calle 9846,Piso 7 Dto A,Córdoba,2,Córdoba,4436,AR
+1261,Calle 236,,San Rafael,4,Mendoza,5947,AR
+1262,Calle 8178,Piso 11 Dto B,CABA,1,Buenos Aires,7723,AR
+1263,Calle 6978,,Mar del Plata,1,Buenos Aires,3880,AR
+1264,Calle 9057,Piso 10 Dto A,CABA,1,Buenos Aires,7251,AR
+1265,Calle 7168,,Rafaela,3,Santa Fe,2435,AR
+1266,Calle 6739,,CABA,1,Buenos Aires,8276,AR
+1267,Calle 4750,,Córdoba,2,Córdoba,8448,AR
+1268,Calle 7694,Piso 2 Dto B,CABA,1,Buenos Aires,7765,AR
+1269,Calle 3669,Piso 9 Dto B,La Plata,1,Buenos Aires,5333,AR
+1270,Calle 3958,,Santa Fe,3,Santa Fe,1254,AR
+1271,Calle 8503,Piso 12 Dto C,La Plata,1,Buenos Aires,6490,AR
+1272,Calle 3963,,Godoy Cruz,4,Mendoza,7444,AR
+1273,Calle 7031,Piso 3 Dto C,Rafaela,3,Santa Fe,3846,AR
+1274,Calle 2596,,San Rafael,4,Mendoza,3069,AR
+1275,Calle 6423,,Mar del Plata,1,Buenos Aires,6282,AR
+1276,Calle 7167,,CABA,1,Buenos Aires,1455,AR
+1277,Calle 9369,,Mendoza,4,Mendoza,8433,AR
+1278,Calle 3634,,Mar del Plata,1,Buenos Aires,7194,AR
+1279,Calle 1360,,Villa Carlos Paz,2,Córdoba,2694,AR
+1280,Calle 2011,Piso 2 Dto A,Mar del Plata,1,Buenos Aires,5292,AR
+1281,Calle 5922,,La Plata,1,Buenos Aires,9045,AR
+1282,Calle 1251,Piso 4 Dto C,La Plata,1,Buenos Aires,7148,AR
+1283,Calle 2640,,Villa Carlos Paz,2,Córdoba,3927,AR
+1284,Calle 5682,,La Plata,1,Buenos Aires,3595,AR
+1285,Calle 3160,,Córdoba,2,Córdoba,9486,AR
+1286,Calle 5979,,Rosario,3,Santa Fe,6366,AR
+1287,Calle 2074,Piso 5 Dto B,Mar del Plata,1,Buenos Aires,4264,AR
+1288,Calle 4823,Piso 8 Dto C,Mar del Plata,1,Buenos Aires,8144,AR
+1289,Calle 4098,Piso 3 Dto A,Mendoza,4,Mendoza,7436,AR
+1290,Calle 5106,Piso 3 Dto A,Río Cuarto,2,Córdoba,8101,AR
+1291,Calle 4452,,Mar del Plata,1,Buenos Aires,7275,AR
+1292,Calle 6127,Piso 11 Dto A,La Plata,1,Buenos Aires,3740,AR
+1293,Calle 9616,Piso 7 Dto B,Godoy Cruz,4,Mendoza,7525,AR
+1294,Calle 7036,,La Plata,1,Buenos Aires,2190,AR
+1295,Calle 2377,,Villa Carlos Paz,2,Córdoba,6219,AR
+1296,Calle 7625,,Córdoba,2,Córdoba,2085,AR
+1297,Calle 8639,Piso 4 Dto A,CABA,1,Buenos Aires,2225,AR
+1298,Calle 5207,,Villa Carlos Paz,2,Córdoba,1813,AR
+1299,Calle 6902,Piso 2 Dto A,La Plata,1,Buenos Aires,3803,AR
+1300,Calle 9444,,Córdoba,2,Córdoba,1076,AR
+1301,Calle 607,,La Plata,1,Buenos Aires,6527,AR
+1302,Calle 6801,Piso 12 Dto B,CABA,1,Buenos Aires,6196,AR
+1303,Calle 5132,,Mar del Plata,1,Buenos Aires,7444,AR
+1304,Calle 8083,Piso 11 Dto A,Villa Carlos Paz,2,Córdoba,2683,AR
+1305,Calle 2274,Piso 2 Dto B,CABA,1,Buenos Aires,4708,AR
+1306,Calle 6044,,Mar del Plata,1,Buenos Aires,5254,AR
+1307,Calle 1230,Piso 5 Dto B,La Plata,1,Buenos Aires,5422,AR
+1308,Calle 7549,Piso 2 Dto A,San Rafael,4,Mendoza,3424,AR
+1309,Calle 2005,,Río Cuarto,2,Córdoba,8830,AR
+1310,Calle 7909,Piso 4 Dto A,Godoy Cruz,4,Mendoza,5853,AR
+1311,Calle 3374,,CABA,1,Buenos Aires,9103,AR
+1312,Calle 3542,,Mar del Plata,1,Buenos Aires,8989,AR
+1313,Calle 8645,Piso 9 Dto B,Mar del Plata,1,Buenos Aires,8438,AR
+1314,Calle 2131,Piso 4 Dto B,Rosario,3,Santa Fe,8412,AR
+1315,Calle 3080,Piso 2 Dto B,La Plata,1,Buenos Aires,3690,AR
+1316,Calle 1673,,San Rafael,4,Mendoza,2805,AR
+1317,Calle 3065,Piso 5 Dto A,La Plata,1,Buenos Aires,9698,AR
+1318,Calle 9017,Piso 2 Dto B,CABA,1,Buenos Aires,4474,AR
+1319,Calle 8322,Piso 6 Dto A,La Plata,1,Buenos Aires,5466,AR
+1320,Calle 6268,,Mar del Plata,1,Buenos Aires,5816,AR
+1321,Calle 4521,Piso 9 Dto C,Mar del Plata,1,Buenos Aires,9497,AR
+1322,Calle 4079,,CABA,1,Buenos Aires,1870,AR
+1323,Calle 1079,Piso 9 Dto A,Córdoba,2,Córdoba,4710,AR
+1324,Calle 3603,Piso 12 Dto C,CABA,1,Buenos Aires,9112,AR
+1325,Calle 5696,Piso 11 Dto B,CABA,1,Buenos Aires,1050,AR
+1326,Calle 7812,,Mar del Plata,1,Buenos Aires,3789,AR
+1327,Calle 3070,,Córdoba,2,Córdoba,1208,AR
+1328,Calle 2909,,CABA,1,Buenos Aires,1159,AR
+1329,Calle 17,Piso 8 Dto A,San Rafael,4,Mendoza,2792,AR
+1330,Calle 4763,,Rafaela,3,Santa Fe,3401,AR
+1331,Calle 5500,Piso 8 Dto B,Mar del Plata,1,Buenos Aires,9940,AR
+1332,Calle 5969,Piso 8 Dto A,Villa Carlos Paz,2,Córdoba,5933,AR
+1333,Calle 9761,Piso 8 Dto A,Rafaela,3,Santa Fe,9508,AR
+1334,Calle 3609,Piso 11 Dto A,La Plata,1,Buenos Aires,9156,AR
+1335,Calle 7057,,Mar del Plata,1,Buenos Aires,4175,AR
+1336,Calle 8928,,Villa Carlos Paz,2,Córdoba,5346,AR
+1337,Calle 9653,Piso 7 Dto B,Santa Fe,3,Santa Fe,4122,AR
+1338,Calle 5625,Piso 10 Dto A,Río Cuarto,2,Córdoba,8455,AR
+1339,Calle 8175,Piso 11 Dto A,CABA,1,Buenos Aires,3461,AR
+1340,Calle 9145,Piso 11 Dto A,San Rafael,4,Mendoza,8976,AR
+1341,Calle 256,,La Plata,1,Buenos Aires,5636,AR
+1342,Calle 84,,La Plata,1,Buenos Aires,1817,AR
+1343,Calle 8225,,La Plata,1,Buenos Aires,2409,AR
+1344,Calle 3224,,Mar del Plata,1,Buenos Aires,5764,AR
+1345,Calle 4076,Piso 11 Dto C,La Plata,1,Buenos Aires,7923,AR
+1346,Calle 4281,Piso 5 Dto C,Mendoza,4,Mendoza,3839,AR
+1347,Calle 9473,,La Plata,1,Buenos Aires,5096,AR
+1348,Calle 4933,Piso 5 Dto A,CABA,1,Buenos Aires,8555,AR
+1349,Calle 1574,Piso 3 Dto C,La Plata,1,Buenos Aires,6132,AR
+1350,Calle 5859,Piso 8 Dto B,San Rafael,4,Mendoza,8643,AR
+1351,Calle 454,Piso 9 Dto A,Godoy Cruz,4,Mendoza,2448,AR
+1352,Calle 3976,Piso 10 Dto C,Villa Carlos Paz,2,Córdoba,3085,AR
+1353,Calle 878,Piso 7 Dto A,Santa Fe,3,Santa Fe,1097,AR
+1354,Calle 7541,,Rafaela,3,Santa Fe,5426,AR
+1355,Calle 4761,Piso 10 Dto B,CABA,1,Buenos Aires,1997,AR
+1356,Calle 8370,,Río Cuarto,2,Córdoba,4359,AR
+1357,Calle 8116,,Mar del Plata,1,Buenos Aires,5929,AR
+1358,Calle 7946,,Córdoba,2,Córdoba,2879,AR
+1359,Calle 1984,,Mar del Plata,1,Buenos Aires,4347,AR
+1360,Calle 7272,,Mar del Plata,1,Buenos Aires,5913,AR
+1361,Calle 3850,Piso 9 Dto B,CABA,1,Buenos Aires,3018,AR
+1362,Calle 3028,,CABA,1,Buenos Aires,3797,AR
+1363,Calle 3283,Piso 8 Dto B,Río Cuarto,2,Córdoba,5742,AR
+1364,Calle 6019,Piso 11 Dto B,Godoy Cruz,4,Mendoza,7321,AR
+1365,Calle 2428,Piso 1 Dto B,La Plata,1,Buenos Aires,2968,AR
+1366,Calle 4961,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,1698,AR
+1367,Calle 7510,,Godoy Cruz,4,Mendoza,6861,AR
+1368,Calle 3454,Piso 6 Dto C,Rafaela,3,Santa Fe,9405,AR
+1369,Calle 5765,Piso 11 Dto C,CABA,1,Buenos Aires,8528,AR
+1370,Calle 4964,Piso 7 Dto A,Mar del Plata,1,Buenos Aires,7168,AR
+1371,Calle 9438,Piso 12 Dto C,Córdoba,2,Córdoba,3120,AR
+1372,Calle 5704,Piso 10 Dto C,Río Cuarto,2,Córdoba,2107,AR
+1373,Calle 2608,,Mar del Plata,1,Buenos Aires,9182,AR
+1374,Calle 3877,Piso 2 Dto A,CABA,1,Buenos Aires,7882,AR
+1375,Calle 1876,,La Plata,1,Buenos Aires,8234,AR
+1376,Calle 2852,Piso 6 Dto A,Córdoba,2,Córdoba,7187,AR
+1377,Calle 9118,Piso 4 Dto A,San Rafael,4,Mendoza,9046,AR
+1378,Calle 3297,Piso 12 Dto A,Córdoba,2,Córdoba,9659,AR
+1379,Calle 1577,,CABA,1,Buenos Aires,1085,AR
+1380,Calle 8956,,Rafaela,3,Santa Fe,9653,AR
+1381,Calle 9345,Piso 8 Dto C,CABA,1,Buenos Aires,6840,AR
+1382,Calle 7191,Piso 7 Dto C,Rosario,3,Santa Fe,2161,AR
+1383,Calle 4887,Piso 2 Dto A,Mar del Plata,1,Buenos Aires,4777,AR
+1384,Calle 370,Piso 4 Dto B,Villa Carlos Paz,2,Córdoba,7396,AR
+1385,Calle 4720,,CABA,1,Buenos Aires,9482,AR
+1386,Calle 929,,Mar del Plata,1,Buenos Aires,8716,AR
+1387,Calle 5539,,Córdoba,2,Córdoba,6481,AR
+1388,Calle 5401,,Mar del Plata,1,Buenos Aires,9086,AR
+1389,Calle 9995,Piso 12 Dto A,Rafaela,3,Santa Fe,2159,AR
+1390,Calle 1321,,Río Cuarto,2,Córdoba,5432,AR
+1391,Calle 8317,Piso 4 Dto C,La Plata,1,Buenos Aires,8069,AR
+1392,Calle 352,,CABA,1,Buenos Aires,9752,AR
+1393,Calle 297,,Río Cuarto,2,Córdoba,7342,AR
+1394,Calle 6994,,Villa Carlos Paz,2,Córdoba,8175,AR
+1395,Calle 5764,Piso 4 Dto B,Santa Fe,3,Santa Fe,1949,AR
+1396,Calle 165,,Mar del Plata,1,Buenos Aires,1244,AR
+1397,Calle 929,,Rosario,3,Santa Fe,5630,AR
+1398,Calle 4002,Piso 5 Dto A,Mar del Plata,1,Buenos Aires,8843,AR
+1399,Calle 4100,Piso 9 Dto A,Córdoba,2,Córdoba,6848,AR
+1400,Calle 6012,,La Plata,1,Buenos Aires,9631,AR
+1401,Calle 8249,Piso 2 Dto A,Mar del Plata,1,Buenos Aires,7731,AR
+1402,Calle 2247,Piso 9 Dto A,CABA,1,Buenos Aires,4453,AR
+1403,Calle 588,Piso 4 Dto C,CABA,1,Buenos Aires,8434,AR
+1404,Calle 4429,Piso 5 Dto C,CABA,1,Buenos Aires,5921,AR
+1405,Calle 6291,Piso 8 Dto A,Mar del Plata,1,Buenos Aires,7302,AR
+1406,Calle 6215,Piso 3 Dto C,CABA,1,Buenos Aires,9724,AR
+1407,Calle 8873,Piso 6 Dto A,Córdoba,2,Córdoba,5301,AR
+1408,Calle 7112,,Santa Fe,3,Santa Fe,2789,AR
+1409,Calle 4710,Piso 9 Dto B,Mar del Plata,1,Buenos Aires,9501,AR
+1410,Calle 7657,,La Plata,1,Buenos Aires,1248,AR
+1411,Calle 1402,Piso 4 Dto C,Santa Fe,3,Santa Fe,6530,AR
+1412,Calle 5927,Piso 5 Dto C,La Plata,1,Buenos Aires,1202,AR
+1413,Calle 5260,Piso 5 Dto A,Mar del Plata,1,Buenos Aires,8581,AR
+1414,Calle 607,,La Plata,1,Buenos Aires,7694,AR
+1415,Calle 4530,Piso 10 Dto C,Córdoba,2,Córdoba,2049,AR
+1416,Calle 4253,,La Plata,1,Buenos Aires,3858,AR
+1417,Calle 813,,Rafaela,3,Santa Fe,4018,AR
+1418,Calle 5200,,Rafaela,3,Santa Fe,1996,AR
+1419,Calle 5790,,Mendoza,4,Mendoza,4845,AR
+1420,Calle 7272,,Mar del Plata,1,Buenos Aires,4882,AR
+1421,Calle 6816,Piso 2 Dto C,La Plata,1,Buenos Aires,5638,AR
+1422,Calle 5903,Piso 6 Dto B,Mar del Plata,1,Buenos Aires,8711,AR
+1423,Calle 6035,,Córdoba,2,Córdoba,1418,AR
+1424,Calle 8369,Piso 12 Dto C,Villa Carlos Paz,2,Córdoba,4520,AR
+1425,Calle 2459,,Rosario,3,Santa Fe,2266,AR
+1426,Calle 8983,,Río Cuarto,2,Córdoba,9646,AR
+1427,Calle 8593,Piso 9 Dto B,Río Cuarto,2,Córdoba,5410,AR
+1428,Calle 3999,Piso 6 Dto A,Santa Fe,3,Santa Fe,4782,AR
+1429,Calle 3950,Piso 8 Dto C,CABA,1,Buenos Aires,6929,AR
+1430,Calle 1253,Piso 6 Dto C,Mar del Plata,1,Buenos Aires,4774,AR
+1431,Calle 9329,,Rosario,3,Santa Fe,7678,AR
+1432,Calle 5597,,Villa Carlos Paz,2,Córdoba,7692,AR
+1433,Calle 9438,,CABA,1,Buenos Aires,3947,AR
+1434,Calle 6859,Piso 5 Dto C,CABA,1,Buenos Aires,2654,AR
+1435,Calle 393,,Santa Fe,3,Santa Fe,3168,AR
+1436,Calle 6920,Piso 6 Dto A,Santa Fe,3,Santa Fe,4955,AR
+1437,Calle 9691,,La Plata,1,Buenos Aires,1741,AR
+1438,Calle 7355,Piso 7 Dto C,Villa Carlos Paz,2,Córdoba,8138,AR
+1439,Calle 2206,,Rafaela,3,Santa Fe,3494,AR
+1440,Calle 7431,Piso 7 Dto B,Villa Carlos Paz,2,Córdoba,3895,AR
+1441,Calle 1588,Piso 4 Dto B,Villa Carlos Paz,2,Córdoba,6588,AR
+1442,Calle 9500,Piso 9 Dto B,Río Cuarto,2,Córdoba,6288,AR
+1443,Calle 2347,,CABA,1,Buenos Aires,8053,AR
+1444,Calle 5151,Piso 2 Dto B,Mar del Plata,1,Buenos Aires,3713,AR
+1445,Calle 7192,Piso 4 Dto A,La Plata,1,Buenos Aires,5250,AR
+1446,Calle 4566,,San Rafael,4,Mendoza,9334,AR
+1447,Calle 8845,,CABA,1,Buenos Aires,9001,AR
+1448,Calle 9358,Piso 7 Dto C,La Plata,1,Buenos Aires,9534,AR
+1449,Calle 1796,,Santa Fe,3,Santa Fe,8281,AR
+1450,Calle 2242,,CABA,1,Buenos Aires,6795,AR
+1451,Calle 1219,Piso 6 Dto A,Córdoba,2,Córdoba,5523,AR
+1452,Calle 1214,Piso 12 Dto C,Río Cuarto,2,Córdoba,1628,AR
+1453,Calle 8541,,Mar del Plata,1,Buenos Aires,1130,AR
+1454,Calle 3608,Piso 11 Dto A,La Plata,1,Buenos Aires,8702,AR
+1455,Calle 8139,,CABA,1,Buenos Aires,2453,AR
+1456,Calle 3510,,Rafaela,3,Santa Fe,9039,AR
+1457,Calle 2919,Piso 1 Dto B,Río Cuarto,2,Córdoba,7230,AR
+1458,Calle 8692,Piso 11 Dto A,Villa Carlos Paz,2,Córdoba,4799,AR
+1459,Calle 6426,Piso 10 Dto B,Villa Carlos Paz,2,Córdoba,5840,AR
+1460,Calle 6875,,La Plata,1,Buenos Aires,7960,AR
+1461,Calle 1861,Piso 6 Dto C,La Plata,1,Buenos Aires,3098,AR
+1462,Calle 9848,,Santa Fe,3,Santa Fe,1474,AR
+1463,Calle 6702,Piso 1 Dto C,CABA,1,Buenos Aires,5286,AR
+1464,Calle 6967,,La Plata,1,Buenos Aires,5396,AR
+1465,Calle 748,Piso 5 Dto B,Villa Carlos Paz,2,Córdoba,4625,AR
+1466,Calle 1808,Piso 10 Dto C,Mar del Plata,1,Buenos Aires,3117,AR
+1467,Calle 346,Piso 7 Dto A,Mar del Plata,1,Buenos Aires,6778,AR
+1468,Calle 8498,,CABA,1,Buenos Aires,3572,AR
+1469,Calle 3758,Piso 5 Dto A,Mar del Plata,1,Buenos Aires,6431,AR
+1470,Calle 4075,,Mar del Plata,1,Buenos Aires,9627,AR
+1471,Calle 693,Piso 3 Dto B,La Plata,1,Buenos Aires,1397,AR
+1472,Calle 4052,,Río Cuarto,2,Córdoba,7190,AR
+1473,Calle 4424,,Mar del Plata,1,Buenos Aires,9265,AR
+1474,Calle 8876,,Mar del Plata,1,Buenos Aires,7408,AR
+1475,Calle 5304,,Santa Fe,3,Santa Fe,5950,AR
+1476,Calle 4330,Piso 11 Dto C,CABA,1,Buenos Aires,7169,AR
+1477,Calle 6658,Piso 9 Dto B,CABA,1,Buenos Aires,5659,AR
+1478,Calle 283,Piso 8 Dto C,La Plata,1,Buenos Aires,7106,AR
+1479,Calle 3672,Piso 10 Dto A,Villa Carlos Paz,2,Córdoba,4802,AR
+1480,Calle 1786,Piso 11 Dto B,Mar del Plata,1,Buenos Aires,3355,AR
+1481,Calle 3403,,CABA,1,Buenos Aires,2374,AR
+1482,Calle 8576,,La Plata,1,Buenos Aires,1965,AR
+1483,Calle 5536,Piso 3 Dto A,La Plata,1,Buenos Aires,7660,AR
+1484,Calle 9215,Piso 8 Dto C,CABA,1,Buenos Aires,6128,AR
+1485,Calle 7914,,Mar del Plata,1,Buenos Aires,2721,AR
+1486,Calle 2086,,Villa Carlos Paz,2,Córdoba,3722,AR
+1487,Calle 640,,CABA,1,Buenos Aires,9594,AR
+1488,Calle 6851,Piso 7 Dto A,Mar del Plata,1,Buenos Aires,2926,AR
+1489,Calle 4442,Piso 9 Dto B,San Rafael,4,Mendoza,3718,AR
+1490,Calle 3350,Piso 10 Dto C,Mar del Plata,1,Buenos Aires,9509,AR
+1491,Calle 5410,,CABA,1,Buenos Aires,3690,AR
+1492,Calle 161,,Villa Carlos Paz,2,Córdoba,3463,AR
+1493,Calle 5110,,CABA,1,Buenos Aires,2537,AR
+1494,Calle 1002,,CABA,1,Buenos Aires,2093,AR
+1495,Calle 5652,,Córdoba,2,Córdoba,5498,AR
+1496,Calle 9576,Piso 12 Dto B,Santa Fe,3,Santa Fe,7607,AR
+1497,Calle 3320,,Río Cuarto,2,Córdoba,2687,AR
+1498,Calle 9236,Piso 2 Dto A,La Plata,1,Buenos Aires,6409,AR
+1499,Calle 7757,,San Rafael,4,Mendoza,4798,AR
+1500,Calle 2401,Piso 3 Dto A,Mar del Plata,1,Buenos Aires,1004,AR
+1501,Calle 2245,Piso 9 Dto B,CABA,1,Buenos Aires,8728,AR
+1502,Calle 3945,Piso 9 Dto B,CABA,1,Buenos Aires,7316,AR
+1503,Calle 5194,,Mar del Plata,1,Buenos Aires,3721,AR
+1504,Calle 9184,Piso 8 Dto B,Villa Carlos Paz,2,Córdoba,2970,AR
+1505,Calle 5705,Piso 3 Dto A,Rafaela,3,Santa Fe,8636,AR
+1506,Calle 9172,Piso 4 Dto B,Córdoba,2,Córdoba,3932,AR
+1507,Calle 8619,Piso 4 Dto A,La Plata,1,Buenos Aires,6381,AR
+1508,Calle 8238,Piso 1 Dto C,Godoy Cruz,4,Mendoza,1549,AR
+1509,Calle 720,Piso 12 Dto C,Villa Carlos Paz,2,Córdoba,5492,AR
+1510,Calle 7714,Piso 10 Dto C,Mendoza,4,Mendoza,9033,AR
+1511,Calle 8939,Piso 2 Dto A,Mar del Plata,1,Buenos Aires,1472,AR
+1512,Calle 2157,,Córdoba,2,Córdoba,1918,AR
+1513,Calle 5149,Piso 2 Dto C,Córdoba,2,Córdoba,4181,AR
+1514,Calle 5186,Piso 12 Dto A,Mar del Plata,1,Buenos Aires,9459,AR
+1515,Calle 6822,,Godoy Cruz,4,Mendoza,2064,AR
+1516,Calle 2417,,Rafaela,3,Santa Fe,3827,AR
+1517,Calle 3256,Piso 12 Dto C,Mar del Plata,1,Buenos Aires,3833,AR
+1518,Calle 5746,Piso 2 Dto B,Mar del Plata,1,Buenos Aires,2410,AR
+1519,Calle 2991,,CABA,1,Buenos Aires,6201,AR
+1520,Calle 3564,Piso 11 Dto B,Rosario,3,Santa Fe,2331,AR
+1521,Calle 3131,,Mar del Plata,1,Buenos Aires,6087,AR
+1522,Calle 2917,Piso 5 Dto A,La Plata,1,Buenos Aires,7782,AR
+1523,Calle 3265,Piso 3 Dto B,Santa Fe,3,Santa Fe,8202,AR
+1524,Calle 9482,Piso 6 Dto B,La Plata,1,Buenos Aires,3793,AR
+1525,Calle 6319,,San Rafael,4,Mendoza,8108,AR
+1526,Calle 4730,Piso 4 Dto B,Río Cuarto,2,Córdoba,2486,AR
+1527,Calle 3576,,Santa Fe,3,Santa Fe,2889,AR
+1528,Calle 7786,Piso 3 Dto B,Córdoba,2,Córdoba,7099,AR
+1529,Calle 555,,Mar del Plata,1,Buenos Aires,6879,AR
+1530,Calle 5484,,La Plata,1,Buenos Aires,4065,AR
+1531,Calle 8959,Piso 3 Dto A,La Plata,1,Buenos Aires,8478,AR
+1532,Calle 3991,Piso 5 Dto C,Villa Carlos Paz,2,Córdoba,6535,AR
+1533,Calle 658,,Villa Carlos Paz,2,Córdoba,7897,AR
+1534,Calle 6566,,Rafaela,3,Santa Fe,9391,AR
+1535,Calle 8587,,San Rafael,4,Mendoza,3128,AR
+1536,Calle 1482,Piso 5 Dto A,Rosario,3,Santa Fe,8515,AR
+1537,Calle 2417,Piso 4 Dto A,CABA,1,Buenos Aires,6038,AR
+1538,Calle 7153,,CABA,1,Buenos Aires,3525,AR
+1539,Calle 82,Piso 8 Dto A,Santa Fe,3,Santa Fe,2636,AR
+1540,Calle 3482,Piso 8 Dto C,La Plata,1,Buenos Aires,8593,AR
+1541,Calle 6351,,Rosario,3,Santa Fe,7551,AR
+1542,Calle 6957,,Rafaela,3,Santa Fe,6683,AR
+1543,Calle 441,,Río Cuarto,2,Córdoba,4852,AR
+1544,Calle 27,Piso 10 Dto C,Mar del Plata,1,Buenos Aires,2265,AR
+1545,Calle 725,Piso 4 Dto B,CABA,1,Buenos Aires,2521,AR
+1546,Calle 6975,Piso 3 Dto B,CABA,1,Buenos Aires,7337,AR
+1547,Calle 2942,,La Plata,1,Buenos Aires,8617,AR
+1548,Calle 1662,,Mar del Plata,1,Buenos Aires,3635,AR
+1549,Calle 6292,,Mar del Plata,1,Buenos Aires,8964,AR
+1550,Calle 4964,,CABA,1,Buenos Aires,8377,AR
+1551,Calle 5490,,La Plata,1,Buenos Aires,3930,AR
+1552,Calle 1311,Piso 3 Dto A,La Plata,1,Buenos Aires,5224,AR
+1553,Calle 7455,Piso 7 Dto A,Mar del Plata,1,Buenos Aires,5615,AR
+1554,Calle 7541,Piso 6 Dto A,La Plata,1,Buenos Aires,5134,AR
+1555,Calle 386,,La Plata,1,Buenos Aires,5804,AR
+1556,Calle 5319,,La Plata,1,Buenos Aires,2829,AR
+1557,Calle 6492,,Río Cuarto,2,Córdoba,9765,AR
+1558,Calle 8085,Piso 7 Dto B,CABA,1,Buenos Aires,8504,AR
+1559,Calle 8578,,San Rafael,4,Mendoza,2253,AR
+1560,Calle 9984,,CABA,1,Buenos Aires,7257,AR
+1561,Calle 5535,Piso 11 Dto C,Mendoza,4,Mendoza,7922,AR
+1562,Calle 4209,,Mar del Plata,1,Buenos Aires,8101,AR
+1563,Calle 4276,,Rafaela,3,Santa Fe,1800,AR
+1564,Calle 7159,,Córdoba,2,Córdoba,5535,AR
+1565,Calle 6532,Piso 3 Dto C,Río Cuarto,2,Córdoba,5467,AR
+1566,Calle 6789,Piso 11 Dto A,CABA,1,Buenos Aires,5375,AR
+1567,Calle 5213,,Río Cuarto,2,Córdoba,1296,AR
+1568,Calle 4716,Piso 12 Dto C,Mar del Plata,1,Buenos Aires,7893,AR
+1569,Calle 9137,Piso 1 Dto B,La Plata,1,Buenos Aires,6237,AR
+1570,Calle 7569,,Rosario,3,Santa Fe,9720,AR
+1571,Calle 6602,,Villa Carlos Paz,2,Córdoba,8971,AR
+1572,Calle 3401,Piso 12 Dto C,Mendoza,4,Mendoza,5981,AR
+1573,Calle 7658,,Santa Fe,3,Santa Fe,6761,AR
+1574,Calle 4652,Piso 9 Dto C,CABA,1,Buenos Aires,4845,AR
+1575,Calle 6201,,Mendoza,4,Mendoza,7483,AR
+1576,Calle 9352,,CABA,1,Buenos Aires,7571,AR
+1577,Calle 6852,Piso 10 Dto B,CABA,1,Buenos Aires,6950,AR
+1578,Calle 5207,Piso 9 Dto C,Río Cuarto,2,Córdoba,4688,AR
+1579,Calle 4691,,La Plata,1,Buenos Aires,7554,AR
+1580,Calle 7603,,La Plata,1,Buenos Aires,7280,AR
+1581,Calle 3095,,Godoy Cruz,4,Mendoza,3270,AR
+1582,Calle 9349,,San Rafael,4,Mendoza,6325,AR
+1583,Calle 7732,Piso 11 Dto A,Mar del Plata,1,Buenos Aires,1372,AR
+1584,Calle 2645,,Córdoba,2,Córdoba,3870,AR
+1585,Calle 5288,,Mendoza,4,Mendoza,1506,AR
+1586,Calle 4015,Piso 11 Dto C,Villa Carlos Paz,2,Córdoba,4963,AR
+1587,Calle 1822,,San Rafael,4,Mendoza,5011,AR
+1588,Calle 113,Piso 12 Dto A,Córdoba,2,Córdoba,9515,AR
+1589,Calle 6834,,Rosario,3,Santa Fe,9751,AR
+1590,Calle 980,,Mar del Plata,1,Buenos Aires,6953,AR
+1591,Calle 7210,,Río Cuarto,2,Córdoba,3391,AR
+1592,Calle 1832,Piso 12 Dto A,Rafaela,3,Santa Fe,7764,AR
+1593,Calle 7907,,CABA,1,Buenos Aires,6407,AR
+1594,Calle 8054,Piso 4 Dto B,Mar del Plata,1,Buenos Aires,5838,AR
+1595,Calle 4226,,La Plata,1,Buenos Aires,3294,AR
+1596,Calle 3622,Piso 6 Dto C,CABA,1,Buenos Aires,5771,AR
+1597,Calle 9301,Piso 11 Dto B,Mendoza,4,Mendoza,8206,AR
+1598,Calle 2107,Piso 3 Dto C,Mar del Plata,1,Buenos Aires,7295,AR
+1599,Calle 3468,,Córdoba,2,Córdoba,1197,AR
+1600,Calle 8468,,Mar del Plata,1,Buenos Aires,6639,AR
+1601,Calle 5150,Piso 9 Dto B,Río Cuarto,2,Córdoba,8950,AR
+1602,Calle 2874,,Santa Fe,3,Santa Fe,2060,AR
+1603,Calle 3676,,CABA,1,Buenos Aires,4226,AR
+1604,Calle 200,,Mar del Plata,1,Buenos Aires,4318,AR
+1605,Calle 1620,,Villa Carlos Paz,2,Córdoba,5447,AR
+1606,Calle 8811,Piso 2 Dto A,San Rafael,4,Mendoza,9567,AR
+1607,Calle 2994,,Mar del Plata,1,Buenos Aires,4741,AR
+1608,Calle 4355,,Mar del Plata,1,Buenos Aires,4113,AR
+1609,Calle 8562,,Mendoza,4,Mendoza,4728,AR
+1610,Calle 7820,,Río Cuarto,2,Córdoba,6224,AR
+1611,Calle 7241,,CABA,1,Buenos Aires,2636,AR
+1612,Calle 7983,,Río Cuarto,2,Córdoba,8041,AR
+1613,Calle 3192,Piso 10 Dto C,Villa Carlos Paz,2,Córdoba,1008,AR
+1614,Calle 4436,,Rafaela,3,Santa Fe,6384,AR
+1615,Calle 4910,,La Plata,1,Buenos Aires,6589,AR
+1616,Calle 5060,,Río Cuarto,2,Córdoba,3984,AR
+1617,Calle 7709,,Mar del Plata,1,Buenos Aires,2074,AR
+1618,Calle 7262,,Córdoba,2,Córdoba,4171,AR
+1619,Calle 5034,Piso 9 Dto B,Rosario,3,Santa Fe,9690,AR
+1620,Calle 9987,,La Plata,1,Buenos Aires,6304,AR
+1621,Calle 2815,,La Plata,1,Buenos Aires,6335,AR
+1622,Calle 9753,Piso 7 Dto C,San Rafael,4,Mendoza,4747,AR
+1623,Calle 6076,Piso 3 Dto B,La Plata,1,Buenos Aires,6798,AR
+1624,Calle 9229,,La Plata,1,Buenos Aires,7620,AR
+1625,Calle 2293,,Godoy Cruz,4,Mendoza,4313,AR
+1626,Calle 4830,Piso 6 Dto A,Villa Carlos Paz,2,Córdoba,8004,AR
+1627,Calle 3268,Piso 4 Dto C,Mar del Plata,1,Buenos Aires,5488,AR
+1628,Calle 5333,Piso 12 Dto B,CABA,1,Buenos Aires,1753,AR
+1629,Calle 7980,Piso 4 Dto B,Río Cuarto,2,Córdoba,1971,AR
+1630,Calle 4523,Piso 9 Dto B,La Plata,1,Buenos Aires,5656,AR
+1631,Calle 1213,Piso 6 Dto C,Mar del Plata,1,Buenos Aires,3486,AR
+1632,Calle 3277,Piso 9 Dto A,Río Cuarto,2,Córdoba,5017,AR
+1633,Calle 4272,Piso 9 Dto C,Río Cuarto,2,Córdoba,1358,AR
+1634,Calle 5144,,Rosario,3,Santa Fe,4016,AR
+1635,Calle 5935,Piso 6 Dto A,La Plata,1,Buenos Aires,5183,AR
+1636,Calle 6731,Piso 7 Dto B,Mar del Plata,1,Buenos Aires,1786,AR
+1637,Calle 6120,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,1525,AR
+1638,Calle 8828,Piso 8 Dto B,Santa Fe,3,Santa Fe,2099,AR
+1639,Calle 1841,,Río Cuarto,2,Córdoba,8675,AR
+1640,Calle 7061,Piso 5 Dto B,Rafaela,3,Santa Fe,3493,AR
+1641,Calle 9425,Piso 6 Dto B,Mar del Plata,1,Buenos Aires,1351,AR
+1642,Calle 6389,,Córdoba,2,Córdoba,6281,AR
+1643,Calle 9575,Piso 11 Dto B,CABA,1,Buenos Aires,4282,AR
+1644,Calle 9452,,Rafaela,3,Santa Fe,4377,AR
+1645,Calle 8740,,CABA,1,Buenos Aires,9848,AR
+1646,Calle 5167,,Godoy Cruz,4,Mendoza,4304,AR
+1647,Calle 3818,,La Plata,1,Buenos Aires,3249,AR
+1648,Calle 417,,La Plata,1,Buenos Aires,7232,AR
+1649,Calle 3255,,La Plata,1,Buenos Aires,2521,AR
+1650,Calle 8463,,Mar del Plata,1,Buenos Aires,2971,AR
+1651,Calle 5192,,Villa Carlos Paz,2,Córdoba,2487,AR
+1652,Calle 8336,,La Plata,1,Buenos Aires,1118,AR
+1653,Calle 1640,Piso 6 Dto B,Santa Fe,3,Santa Fe,2069,AR
+1654,Calle 4927,,San Rafael,4,Mendoza,7384,AR
+1655,Calle 5297,,La Plata,1,Buenos Aires,3905,AR
+1656,Calle 2552,Piso 3 Dto C,Mar del Plata,1,Buenos Aires,1638,AR
+1657,Calle 4802,Piso 6 Dto C,Córdoba,2,Córdoba,3580,AR
+1658,Calle 2481,,Mar del Plata,1,Buenos Aires,6981,AR
+1659,Calle 8152,Piso 4 Dto B,Rosario,3,Santa Fe,7114,AR
+1660,Calle 424,Piso 6 Dto A,Córdoba,2,Córdoba,1560,AR
+1661,Calle 8839,,Mendoza,4,Mendoza,3591,AR
+1662,Calle 1510,,CABA,1,Buenos Aires,8793,AR
+1663,Calle 7216,,San Rafael,4,Mendoza,6102,AR
+1664,Calle 2101,Piso 6 Dto C,La Plata,1,Buenos Aires,2579,AR
+1665,Calle 3216,,Mar del Plata,1,Buenos Aires,3336,AR
+1666,Calle 1554,Piso 12 Dto B,Río Cuarto,2,Córdoba,2724,AR
+1667,Calle 4934,Piso 6 Dto C,CABA,1,Buenos Aires,9518,AR
+1668,Calle 2158,Piso 6 Dto B,Villa Carlos Paz,2,Córdoba,3379,AR
+1669,Calle 787,,Villa Carlos Paz,2,Córdoba,3342,AR
+1670,Calle 2653,,Rosario,3,Santa Fe,8877,AR
+1671,Calle 9457,,Rosario,3,Santa Fe,8425,AR
+1672,Calle 4577,Piso 11 Dto C,CABA,1,Buenos Aires,6525,AR
+1673,Calle 8994,,La Plata,1,Buenos Aires,6609,AR
+1674,Calle 6989,,La Plata,1,Buenos Aires,2549,AR
+1675,Calle 1971,Piso 9 Dto C,Mendoza,4,Mendoza,3069,AR
+1676,Calle 9066,,La Plata,1,Buenos Aires,7513,AR
+1677,Calle 3635,Piso 1 Dto A,Mar del Plata,1,Buenos Aires,9611,AR
+1678,Calle 8603,Piso 1 Dto C,Río Cuarto,2,Córdoba,9838,AR
+1679,Calle 2733,,Río Cuarto,2,Córdoba,3713,AR
+1680,Calle 2492,Piso 9 Dto C,Rafaela,3,Santa Fe,4312,AR
+1681,Calle 4858,Piso 7 Dto C,La Plata,1,Buenos Aires,8807,AR
+1682,Calle 4916,Piso 1 Dto A,Mar del Plata,1,Buenos Aires,6105,AR
+1683,Calle 9732,Piso 2 Dto A,San Rafael,4,Mendoza,3298,AR
+1684,Calle 3973,Piso 7 Dto A,CABA,1,Buenos Aires,7406,AR
+1685,Calle 1156,,La Plata,1,Buenos Aires,7577,AR
+1686,Calle 2488,,Río Cuarto,2,Córdoba,5513,AR
+1687,Calle 8530,,CABA,1,Buenos Aires,8718,AR
+1688,Calle 2046,Piso 9 Dto C,Villa Carlos Paz,2,Córdoba,3517,AR
+1689,Calle 5594,Piso 5 Dto A,Rafaela,3,Santa Fe,5185,AR
+1690,Calle 9585,Piso 3 Dto C,Villa Carlos Paz,2,Córdoba,5769,AR
+1691,Calle 9885,,CABA,1,Buenos Aires,9102,AR
+1692,Calle 1724,Piso 5 Dto C,Mar del Plata,1,Buenos Aires,5123,AR
+1693,Calle 4117,,Mar del Plata,1,Buenos Aires,2656,AR
+1694,Calle 3628,Piso 10 Dto B,La Plata,1,Buenos Aires,2703,AR
+1695,Calle 6158,Piso 10 Dto C,Río Cuarto,2,Córdoba,1689,AR
+1696,Calle 1616,,Río Cuarto,2,Córdoba,4909,AR
+1697,Calle 9893,,Río Cuarto,2,Córdoba,6690,AR
+1698,Calle 8565,Piso 1 Dto B,Rafaela,3,Santa Fe,1420,AR
+1699,Calle 5390,Piso 2 Dto B,Córdoba,2,Córdoba,1464,AR
+1700,Calle 5876,Piso 11 Dto B,Santa Fe,3,Santa Fe,5074,AR
+1701,Calle 5317,Piso 8 Dto C,CABA,1,Buenos Aires,3631,AR
+1702,Calle 5274,Piso 12 Dto B,Río Cuarto,2,Córdoba,3818,AR
+1703,Calle 5764,,Santa Fe,3,Santa Fe,6186,AR
+1704,Calle 1482,Piso 11 Dto B,Mar del Plata,1,Buenos Aires,9146,AR
+1705,Calle 4337,Piso 12 Dto B,Rosario,3,Santa Fe,6521,AR
+1706,Calle 2762,,Rosario,3,Santa Fe,4109,AR
+1707,Calle 9183,,San Rafael,4,Mendoza,7520,AR
+1708,Calle 9798,Piso 11 Dto B,CABA,1,Buenos Aires,3388,AR
+1709,Calle 2180,Piso 7 Dto A,La Plata,1,Buenos Aires,2346,AR
+1710,Calle 669,,Godoy Cruz,4,Mendoza,5485,AR
+1711,Calle 3588,Piso 4 Dto A,Mar del Plata,1,Buenos Aires,4538,AR
+1712,Calle 341,Piso 10 Dto B,CABA,1,Buenos Aires,7791,AR
+1713,Calle 3150,Piso 7 Dto A,Río Cuarto,2,Córdoba,7342,AR
+1714,Calle 4319,Piso 7 Dto B,Villa Carlos Paz,2,Córdoba,4845,AR
+1715,Calle 2204,,CABA,1,Buenos Aires,9819,AR
+1716,Calle 7795,,Mar del Plata,1,Buenos Aires,4732,AR
+1717,Calle 9078,Piso 4 Dto B,Río Cuarto,2,Córdoba,1871,AR
+1718,Calle 9684,,Villa Carlos Paz,2,Córdoba,1362,AR
+1719,Calle 943,,Mar del Plata,1,Buenos Aires,2044,AR
+1720,Calle 4524,,Mar del Plata,1,Buenos Aires,9041,AR
+1721,Calle 6493,Piso 4 Dto C,Córdoba,2,Córdoba,6076,AR
+1722,Calle 5416,Piso 4 Dto C,Villa Carlos Paz,2,Córdoba,3363,AR
+1723,Calle 5153,,San Rafael,4,Mendoza,6871,AR
+1724,Calle 1043,,Rosario,3,Santa Fe,4188,AR
+1725,Calle 2970,Piso 1 Dto C,Mendoza,4,Mendoza,2957,AR
+1726,Calle 9405,Piso 12 Dto C,La Plata,1,Buenos Aires,7677,AR
+1727,Calle 5625,Piso 3 Dto A,Córdoba,2,Córdoba,6818,AR
+1728,Calle 8187,Piso 2 Dto A,Villa Carlos Paz,2,Córdoba,7576,AR
+1729,Calle 1337,,Mar del Plata,1,Buenos Aires,9583,AR
+1730,Calle 998,Piso 9 Dto A,Mar del Plata,1,Buenos Aires,2564,AR
+1731,Calle 207,Piso 1 Dto B,Mar del Plata,1,Buenos Aires,6017,AR
+1732,Calle 9231,,Rafaela,3,Santa Fe,4088,AR
+1733,Calle 5657,,CABA,1,Buenos Aires,7130,AR
+1734,Calle 2909,Piso 9 Dto A,Rafaela,3,Santa Fe,1497,AR
+1735,Calle 5107,Piso 5 Dto A,Mendoza,4,Mendoza,3955,AR
+1736,Calle 8154,,CABA,1,Buenos Aires,6527,AR
+1737,Calle 6371,,San Rafael,4,Mendoza,6543,AR
+1738,Calle 8041,,CABA,1,Buenos Aires,6870,AR
+1739,Calle 9686,,Godoy Cruz,4,Mendoza,6251,AR
+1740,Calle 8716,,Río Cuarto,2,Córdoba,5629,AR
+1741,Calle 4800,Piso 11 Dto B,CABA,1,Buenos Aires,8129,AR
+1742,Calle 8049,Piso 2 Dto B,CABA,1,Buenos Aires,7370,AR
+1743,Calle 904,,La Plata,1,Buenos Aires,2461,AR
+1744,Calle 9360,Piso 9 Dto A,Rafaela,3,Santa Fe,1785,AR
+1745,Calle 6307,,La Plata,1,Buenos Aires,8107,AR
+1746,Calle 8336,,CABA,1,Buenos Aires,4514,AR
+1747,Calle 3631,,CABA,1,Buenos Aires,4335,AR
+1748,Calle 256,,Mar del Plata,1,Buenos Aires,2905,AR
+1749,Calle 5420,,CABA,1,Buenos Aires,7091,AR
+1750,Calle 9810,Piso 4 Dto C,CABA,1,Buenos Aires,7927,AR
+1751,Calle 4467,,Mar del Plata,1,Buenos Aires,7813,AR
+1752,Calle 7999,,CABA,1,Buenos Aires,7479,AR
+1753,Calle 2112,,Villa Carlos Paz,2,Córdoba,2155,AR
+1754,Calle 1090,Piso 3 Dto C,La Plata,1,Buenos Aires,3742,AR
+1755,Calle 6525,Piso 5 Dto C,San Rafael,4,Mendoza,5664,AR
+1756,Calle 6471,Piso 4 Dto A,CABA,1,Buenos Aires,4289,AR
+1757,Calle 7684,,CABA,1,Buenos Aires,4746,AR
+1758,Calle 1370,,Rosario,3,Santa Fe,8142,AR
+1759,Calle 7243,,CABA,1,Buenos Aires,4447,AR
+1760,Calle 2503,,CABA,1,Buenos Aires,6736,AR
+1761,Calle 925,,Mar del Plata,1,Buenos Aires,5780,AR
+1762,Calle 3185,Piso 6 Dto C,CABA,1,Buenos Aires,1414,AR
+1763,Calle 9858,,CABA,1,Buenos Aires,3348,AR
+1764,Calle 1825,Piso 11 Dto A,Mendoza,4,Mendoza,9487,AR
+1765,Calle 2784,Piso 12 Dto B,Mar del Plata,1,Buenos Aires,1629,AR
+1766,Calle 3829,,San Rafael,4,Mendoza,1957,AR
+1767,Calle 3679,,Rosario,3,Santa Fe,1324,AR
+1768,Calle 6326,Piso 5 Dto C,San Rafael,4,Mendoza,8367,AR
+1769,Calle 4097,Piso 6 Dto C,Río Cuarto,2,Córdoba,8850,AR
+1770,Calle 3668,,La Plata,1,Buenos Aires,7364,AR
+1771,Calle 344,,Santa Fe,3,Santa Fe,1697,AR
+1772,Calle 3719,Piso 7 Dto A,Mar del Plata,1,Buenos Aires,4409,AR
+1773,Calle 7547,Piso 12 Dto B,La Plata,1,Buenos Aires,7364,AR
+1774,Calle 6536,,La Plata,1,Buenos Aires,5030,AR
+1775,Calle 3189,Piso 12 Dto C,Río Cuarto,2,Córdoba,8591,AR
+1776,Calle 6141,,Santa Fe,3,Santa Fe,7436,AR
+1777,Calle 7411,Piso 5 Dto C,Mar del Plata,1,Buenos Aires,1833,AR
+1778,Calle 2568,Piso 11 Dto B,Mar del Plata,1,Buenos Aires,3954,AR
+1779,Calle 6324,,CABA,1,Buenos Aires,5478,AR
+1780,Calle 6585,,Rafaela,3,Santa Fe,7738,AR
+1781,Calle 2140,,Mar del Plata,1,Buenos Aires,2590,AR
+1782,Calle 865,Piso 6 Dto A,CABA,1,Buenos Aires,6844,AR
+1783,Calle 5040,Piso 2 Dto B,Córdoba,2,Córdoba,8317,AR
+1784,Calle 4748,,CABA,1,Buenos Aires,3490,AR
+1785,Calle 6713,Piso 3 Dto C,Mar del Plata,1,Buenos Aires,5607,AR
+1786,Calle 2403,,San Rafael,4,Mendoza,3221,AR
+1787,Calle 2793,Piso 1 Dto C,La Plata,1,Buenos Aires,8224,AR
+1788,Calle 8058,Piso 11 Dto C,CABA,1,Buenos Aires,6566,AR
+1789,Calle 2904,Piso 3 Dto C,Rosario,3,Santa Fe,7449,AR
+1790,Calle 3230,Piso 11 Dto B,Mar del Plata,1,Buenos Aires,2361,AR
+1791,Calle 262,Piso 10 Dto C,Villa Carlos Paz,2,Córdoba,3769,AR
+1792,Calle 8412,,Rosario,3,Santa Fe,9021,AR
+1793,Calle 3913,Piso 12 Dto B,Mendoza,4,Mendoza,8355,AR
+1794,Calle 7506,Piso 11 Dto A,La Plata,1,Buenos Aires,1514,AR
+1795,Calle 175,,Rafaela,3,Santa Fe,5959,AR
+1796,Calle 6227,Piso 7 Dto A,La Plata,1,Buenos Aires,7146,AR
+1797,Calle 6956,Piso 7 Dto C,Mar del Plata,1,Buenos Aires,3168,AR
+1798,Calle 3161,Piso 8 Dto B,Río Cuarto,2,Córdoba,2364,AR
+1799,Calle 5221,,Mendoza,4,Mendoza,3105,AR
+1800,Calle 6118,,CABA,1,Buenos Aires,2431,AR
+1801,Calle 5590,,CABA,1,Buenos Aires,8549,AR
+1802,Calle 1999,,Rosario,3,Santa Fe,4268,AR
+1803,Calle 1501,,Mar del Plata,1,Buenos Aires,4444,AR
+1804,Calle 5250,,Villa Carlos Paz,2,Córdoba,8799,AR
+1805,Calle 9920,Piso 12 Dto A,Villa Carlos Paz,2,Córdoba,5719,AR
+1806,Calle 104,,Mar del Plata,1,Buenos Aires,5313,AR
+1807,Calle 3103,,Rafaela,3,Santa Fe,4083,AR
+1808,Calle 2662,Piso 7 Dto C,Rosario,3,Santa Fe,7754,AR
+1809,Calle 6989,,Córdoba,2,Córdoba,9692,AR
+1810,Calle 4124,,Río Cuarto,2,Córdoba,2009,AR
+1811,Calle 990,,Mar del Plata,1,Buenos Aires,8306,AR
+1812,Calle 1446,Piso 6 Dto C,San Rafael,4,Mendoza,2079,AR
+1813,Calle 7386,Piso 6 Dto C,Villa Carlos Paz,2,Córdoba,7069,AR
+1814,Calle 5136,,La Plata,1,Buenos Aires,4737,AR
+1815,Calle 6714,Piso 8 Dto B,La Plata,1,Buenos Aires,7606,AR
+1816,Calle 7409,Piso 3 Dto A,Santa Fe,3,Santa Fe,7874,AR
+1817,Calle 6250,Piso 11 Dto A,Santa Fe,3,Santa Fe,6991,AR
+1818,Calle 2831,,Mar del Plata,1,Buenos Aires,4555,AR
+1819,Calle 2456,,La Plata,1,Buenos Aires,1355,AR
+1820,Calle 9001,,La Plata,1,Buenos Aires,8971,AR
+1821,Calle 7985,Piso 11 Dto A,CABA,1,Buenos Aires,2736,AR
+1822,Calle 7811,,San Rafael,4,Mendoza,4852,AR
+1823,Calle 6822,Piso 8 Dto A,Mendoza,4,Mendoza,3598,AR
+1824,Calle 7029,,Río Cuarto,2,Córdoba,9677,AR
+1825,Calle 2100,Piso 6 Dto C,La Plata,1,Buenos Aires,2034,AR
+1826,Calle 4033,,La Plata,1,Buenos Aires,6120,AR
+1827,Calle 5583,,Rafaela,3,Santa Fe,3082,AR
+1828,Calle 3751,,Rafaela,3,Santa Fe,5081,AR
+1829,Calle 5136,Piso 9 Dto A,Córdoba,2,Córdoba,3430,AR
+1830,Calle 7581,Piso 10 Dto C,La Plata,1,Buenos Aires,2096,AR
+1831,Calle 4526,Piso 12 Dto A,CABA,1,Buenos Aires,1967,AR
+1832,Calle 51,Piso 6 Dto B,Mar del Plata,1,Buenos Aires,3394,AR
+1833,Calle 5148,,Godoy Cruz,4,Mendoza,4083,AR
+1834,Calle 3194,Piso 9 Dto C,CABA,1,Buenos Aires,5066,AR
+1835,Calle 4886,,CABA,1,Buenos Aires,5851,AR
+1836,Calle 6905,Piso 2 Dto B,Mar del Plata,1,Buenos Aires,3418,AR
+1837,Calle 2572,Piso 10 Dto B,Río Cuarto,2,Córdoba,2765,AR
+1838,Calle 9938,,CABA,1,Buenos Aires,3105,AR
+1839,Calle 859,Piso 6 Dto C,Mendoza,4,Mendoza,7042,AR
+1840,Calle 6145,Piso 9 Dto A,Mar del Plata,1,Buenos Aires,6306,AR
+1841,Calle 566,Piso 11 Dto B,Mar del Plata,1,Buenos Aires,1645,AR
+1842,Calle 2161,,Mar del Plata,1,Buenos Aires,3292,AR
+1843,Calle 3851,Piso 2 Dto B,CABA,1,Buenos Aires,6540,AR
+1844,Calle 8069,,CABA,1,Buenos Aires,9596,AR
+1845,Calle 2540,,Villa Carlos Paz,2,Córdoba,8348,AR
+1846,Calle 3726,,La Plata,1,Buenos Aires,1859,AR
+1847,Calle 3589,,CABA,1,Buenos Aires,9201,AR
+1848,Calle 6485,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,9064,AR
+1849,Calle 6799,,Río Cuarto,2,Córdoba,4278,AR
+1850,Calle 8053,,Mar del Plata,1,Buenos Aires,7031,AR
+1851,Calle 6508,,Rosario,3,Santa Fe,5610,AR
+1852,Calle 6364,Piso 3 Dto A,Río Cuarto,2,Córdoba,6480,AR
+1853,Calle 6433,Piso 2 Dto C,La Plata,1,Buenos Aires,8399,AR
+1854,Calle 8386,,Mar del Plata,1,Buenos Aires,2846,AR
+1855,Calle 3369,Piso 4 Dto C,CABA,1,Buenos Aires,4511,AR
+1856,Calle 3766,,CABA,1,Buenos Aires,9373,AR
+1857,Calle 2965,Piso 6 Dto A,CABA,1,Buenos Aires,7366,AR
+1858,Calle 9861,Piso 3 Dto B,La Plata,1,Buenos Aires,5675,AR
+1859,Calle 5,,CABA,1,Buenos Aires,1183,AR
+1860,Calle 7292,,Godoy Cruz,4,Mendoza,2593,AR
+1861,Calle 3126,Piso 7 Dto C,Mar del Plata,1,Buenos Aires,2246,AR
+1862,Calle 4874,Piso 1 Dto A,CABA,1,Buenos Aires,3323,AR
+1863,Calle 1972,,CABA,1,Buenos Aires,8807,AR
+1864,Calle 3848,Piso 8 Dto C,CABA,1,Buenos Aires,5424,AR
+1865,Calle 1037,,Villa Carlos Paz,2,Córdoba,4530,AR
+1866,Calle 490,Piso 1 Dto B,La Plata,1,Buenos Aires,8630,AR
+1867,Calle 9450,,CABA,1,Buenos Aires,5601,AR
+1868,Calle 4380,Piso 1 Dto C,Córdoba,2,Córdoba,4081,AR
+1869,Calle 723,Piso 10 Dto B,Córdoba,2,Córdoba,4793,AR
+1870,Calle 9799,Piso 6 Dto B,CABA,1,Buenos Aires,9922,AR
+1871,Calle 9028,Piso 9 Dto A,La Plata,1,Buenos Aires,6681,AR
+1872,Calle 6097,Piso 8 Dto B,La Plata,1,Buenos Aires,3418,AR
+1873,Calle 5904,Piso 7 Dto A,Villa Carlos Paz,2,Córdoba,3255,AR
+1874,Calle 7645,,San Rafael,4,Mendoza,1700,AR
+1875,Calle 2377,,Mar del Plata,1,Buenos Aires,3285,AR
+1876,Calle 1340,,Santa Fe,3,Santa Fe,9512,AR
+1877,Calle 9019,,Villa Carlos Paz,2,Córdoba,6486,AR
+1878,Calle 6117,Piso 9 Dto B,Mar del Plata,1,Buenos Aires,4589,AR
+1879,Calle 1744,Piso 4 Dto C,Río Cuarto,2,Córdoba,3551,AR
+1880,Calle 1767,,Río Cuarto,2,Córdoba,6022,AR
+1881,Calle 3429,,Santa Fe,3,Santa Fe,4129,AR
+1882,Calle 1984,,La Plata,1,Buenos Aires,2098,AR
+1883,Calle 6913,Piso 6 Dto C,CABA,1,Buenos Aires,1173,AR
+1884,Calle 3416,Piso 5 Dto B,La Plata,1,Buenos Aires,1686,AR
+1885,Calle 5237,Piso 6 Dto A,Godoy Cruz,4,Mendoza,8759,AR
+1886,Calle 6926,Piso 12 Dto C,Rosario,3,Santa Fe,9033,AR
+1887,Calle 1423,,La Plata,1,Buenos Aires,2359,AR
+1888,Calle 1541,Piso 8 Dto B,Río Cuarto,2,Córdoba,4954,AR
+1889,Calle 9055,,La Plata,1,Buenos Aires,7727,AR
+1890,Calle 9723,Piso 11 Dto A,CABA,1,Buenos Aires,2132,AR
+1891,Calle 9258,,La Plata,1,Buenos Aires,5148,AR
+1892,Calle 2850,,Villa Carlos Paz,2,Córdoba,1652,AR
+1893,Calle 1797,,Villa Carlos Paz,2,Córdoba,4262,AR
+1894,Calle 6346,,CABA,1,Buenos Aires,7172,AR
+1895,Calle 5572,Piso 11 Dto C,CABA,1,Buenos Aires,4747,AR
+1896,Calle 1664,,Rosario,3,Santa Fe,1387,AR
+1897,Calle 7045,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,9904,AR
+1898,Calle 4570,Piso 7 Dto C,CABA,1,Buenos Aires,2096,AR
+1899,Calle 5860,,Mar del Plata,1,Buenos Aires,3253,AR
+1900,Calle 9346,,CABA,1,Buenos Aires,8308,AR
+1901,Calle 7830,,La Plata,1,Buenos Aires,7770,AR
+1902,Calle 3317,,Córdoba,2,Córdoba,7401,AR
+1903,Calle 200,Piso 2 Dto C,Mar del Plata,1,Buenos Aires,9692,AR
+1904,Calle 5236,,CABA,1,Buenos Aires,4091,AR
+1905,Calle 1623,,CABA,1,Buenos Aires,3393,AR
+1906,Calle 1115,,Rosario,3,Santa Fe,3698,AR
+1907,Calle 5927,Piso 4 Dto B,Villa Carlos Paz,2,Córdoba,1977,AR
+1908,Calle 6466,Piso 1 Dto A,La Plata,1,Buenos Aires,7402,AR
+1909,Calle 2087,Piso 8 Dto C,Córdoba,2,Córdoba,3576,AR
+1910,Calle 8146,,Villa Carlos Paz,2,Córdoba,7837,AR
+1911,Calle 2385,Piso 11 Dto A,Río Cuarto,2,Córdoba,5544,AR
+1912,Calle 5595,Piso 5 Dto C,Mar del Plata,1,Buenos Aires,6048,AR
+1913,Calle 9660,,La Plata,1,Buenos Aires,8689,AR
+1914,Calle 5611,,La Plata,1,Buenos Aires,5122,AR
+1915,Calle 9740,Piso 9 Dto A,Godoy Cruz,4,Mendoza,6311,AR
+1916,Calle 5020,Piso 4 Dto B,Villa Carlos Paz,2,Córdoba,5563,AR
+1917,Calle 3086,Piso 10 Dto A,Río Cuarto,2,Córdoba,4112,AR
+1918,Calle 5262,,Río Cuarto,2,Córdoba,2920,AR
+1919,Calle 9800,,Córdoba,2,Córdoba,9142,AR
+1920,Calle 4436,Piso 10 Dto B,La Plata,1,Buenos Aires,3397,AR
+1921,Calle 2039,Piso 7 Dto C,Villa Carlos Paz,2,Córdoba,1053,AR
+1922,Calle 8111,Piso 8 Dto C,La Plata,1,Buenos Aires,9374,AR
+1923,Calle 7008,,CABA,1,Buenos Aires,8804,AR
+1924,Calle 2290,Piso 3 Dto A,CABA,1,Buenos Aires,1892,AR
+1925,Calle 1761,Piso 9 Dto C,Santa Fe,3,Santa Fe,3087,AR
+1926,Calle 6935,,San Rafael,4,Mendoza,1161,AR
+1927,Calle 4542,,Mar del Plata,1,Buenos Aires,4776,AR
+1928,Calle 4371,,Río Cuarto,2,Córdoba,3485,AR
+1929,Calle 3603,,Villa Carlos Paz,2,Córdoba,9875,AR
+1930,Calle 9360,Piso 12 Dto C,Mendoza,4,Mendoza,8966,AR
+1931,Calle 3621,,La Plata,1,Buenos Aires,3843,AR
+1932,Calle 3913,Piso 11 Dto B,CABA,1,Buenos Aires,7335,AR
+1933,Calle 1344,Piso 7 Dto C,CABA,1,Buenos Aires,8250,AR
+1934,Calle 6229,Piso 1 Dto C,Villa Carlos Paz,2,Córdoba,4360,AR
+1935,Calle 5609,Piso 6 Dto A,Mar del Plata,1,Buenos Aires,9315,AR
+1936,Calle 3367,,Rafaela,3,Santa Fe,7187,AR
+1937,Calle 3571,Piso 6 Dto B,Rosario,3,Santa Fe,5491,AR
+1938,Calle 6217,,Córdoba,2,Córdoba,4998,AR
+1939,Calle 6372,Piso 10 Dto B,CABA,1,Buenos Aires,7241,AR
+1940,Calle 7297,Piso 7 Dto A,Mar del Plata,1,Buenos Aires,5176,AR
+1941,Calle 4258,,La Plata,1,Buenos Aires,4590,AR
+1942,Calle 595,,Córdoba,2,Córdoba,4745,AR
+1943,Calle 1514,,Córdoba,2,Córdoba,5102,AR
+1944,Calle 7424,,La Plata,1,Buenos Aires,8141,AR
+1945,Calle 3754,,Rosario,3,Santa Fe,9528,AR
+1946,Calle 855,,CABA,1,Buenos Aires,5722,AR
+1947,Calle 2752,,La Plata,1,Buenos Aires,2262,AR
+1948,Calle 2929,Piso 9 Dto A,Santa Fe,3,Santa Fe,7044,AR
+1949,Calle 4025,,CABA,1,Buenos Aires,5461,AR
+1950,Calle 8266,,Rafaela,3,Santa Fe,3736,AR
+1951,Calle 3964,Piso 10 Dto B,CABA,1,Buenos Aires,8576,AR
+1952,Calle 1801,,Mar del Plata,1,Buenos Aires,1692,AR
+1953,Calle 10,Piso 5 Dto B,Mendoza,4,Mendoza,7471,AR
+1954,Calle 8603,Piso 8 Dto C,La Plata,1,Buenos Aires,7638,AR
+1955,Calle 2735,,La Plata,1,Buenos Aires,1596,AR
+1956,Calle 4890,Piso 2 Dto C,La Plata,1,Buenos Aires,7268,AR
+1957,Calle 5154,,CABA,1,Buenos Aires,4531,AR
+1958,Calle 7372,,Rosario,3,Santa Fe,5947,AR
+1959,Calle 3721,Piso 8 Dto B,CABA,1,Buenos Aires,7541,AR
+1960,Calle 3354,Piso 8 Dto A,Villa Carlos Paz,2,Córdoba,1841,AR
+1961,Calle 1660,,San Rafael,4,Mendoza,6743,AR
+1962,Calle 7101,Piso 2 Dto C,San Rafael,4,Mendoza,6812,AR
+1963,Calle 7856,Piso 2 Dto B,Córdoba,2,Córdoba,4169,AR
+1964,Calle 182,Piso 2 Dto A,Mendoza,4,Mendoza,1981,AR
+1965,Calle 8538,Piso 6 Dto A,Mar del Plata,1,Buenos Aires,7609,AR
+1966,Calle 5685,Piso 10 Dto B,Santa Fe,3,Santa Fe,7028,AR
+1967,Calle 2021,Piso 8 Dto B,Rafaela,3,Santa Fe,9420,AR
+1968,Calle 9280,,Río Cuarto,2,Córdoba,7191,AR
+1969,Calle 4377,,Villa Carlos Paz,2,Córdoba,2526,AR
+1970,Calle 687,,CABA,1,Buenos Aires,3178,AR
+1971,Calle 6842,Piso 3 Dto B,CABA,1,Buenos Aires,4450,AR
+1972,Calle 614,Piso 5 Dto C,Mendoza,4,Mendoza,2082,AR
+1973,Calle 8086,Piso 2 Dto A,CABA,1,Buenos Aires,6615,AR
+1974,Calle 9455,Piso 9 Dto C,Santa Fe,3,Santa Fe,6349,AR
+1975,Calle 9663,Piso 9 Dto C,Mar del Plata,1,Buenos Aires,5018,AR
+1976,Calle 7920,Piso 5 Dto B,Santa Fe,3,Santa Fe,9173,AR
+1977,Calle 4921,,Mar del Plata,1,Buenos Aires,4663,AR
+1978,Calle 7608,Piso 3 Dto A,Rosario,3,Santa Fe,7760,AR
+1979,Calle 4901,,La Plata,1,Buenos Aires,8883,AR
+1980,Calle 7138,,Rosario,3,Santa Fe,7786,AR
+1981,Calle 6069,,Godoy Cruz,4,Mendoza,8971,AR
+1982,Calle 9641,Piso 4 Dto B,Godoy Cruz,4,Mendoza,4852,AR
+1983,Calle 5507,Piso 3 Dto C,CABA,1,Buenos Aires,7174,AR
+1984,Calle 140,Piso 3 Dto C,CABA,1,Buenos Aires,9071,AR
+1985,Calle 2489,Piso 1 Dto A,San Rafael,4,Mendoza,3909,AR
+1986,Calle 5854,,La Plata,1,Buenos Aires,1662,AR
+1987,Calle 1638,,Santa Fe,3,Santa Fe,1647,AR
+1988,Calle 2785,,Rosario,3,Santa Fe,5379,AR
+1989,Calle 1175,,Río Cuarto,2,Córdoba,2064,AR
+1990,Calle 2579,,Villa Carlos Paz,2,Córdoba,9133,AR
+1991,Calle 6446,,Córdoba,2,Córdoba,8744,AR
+1992,Calle 5021,Piso 5 Dto C,Mar del Plata,1,Buenos Aires,7848,AR
+1993,Calle 5352,Piso 4 Dto A,Santa Fe,3,Santa Fe,3436,AR
+1994,Calle 9629,,CABA,1,Buenos Aires,8355,AR
+1995,Calle 4629,Piso 6 Dto C,CABA,1,Buenos Aires,4919,AR
+1996,Calle 9046,Piso 12 Dto C,CABA,1,Buenos Aires,4436,AR
+1997,Calle 2565,Piso 7 Dto A,Villa Carlos Paz,2,Córdoba,2082,AR
+1998,Calle 6383,Piso 3 Dto B,La Plata,1,Buenos Aires,7512,AR
+1999,Calle 6920,,La Plata,1,Buenos Aires,1121,AR
+2000,Calle 1528,,Godoy Cruz,4,Mendoza,1688,AR
+2001,Calle 8116,,Mar del Plata,1,Buenos Aires,7846,AR
+2002,Calle 5911,Piso 12 Dto B,Rafaela,3,Santa Fe,6524,AR
+2003,Calle 3305,Piso 4 Dto A,Mar del Plata,1,Buenos Aires,9273,AR
+2004,Calle 9675,,Mar del Plata,1,Buenos Aires,8126,AR
+2005,Calle 9683,Piso 9 Dto B,Mar del Plata,1,Buenos Aires,1729,AR
+2006,Calle 9656,Piso 11 Dto A,La Plata,1,Buenos Aires,7836,AR
+2007,Calle 9370,,San Rafael,4,Mendoza,8360,AR
+2008,Calle 635,Piso 4 Dto C,Mar del Plata,1,Buenos Aires,7468,AR
+2009,Calle 665,,CABA,1,Buenos Aires,7504,AR
+2010,Calle 4484,Piso 9 Dto C,CABA,1,Buenos Aires,1267,AR
+2011,Calle 5017,,Rafaela,3,Santa Fe,9136,AR
+2012,Calle 4712,Piso 2 Dto A,Mar del Plata,1,Buenos Aires,6383,AR
+2013,Calle 233,,CABA,1,Buenos Aires,6386,AR
+2014,Calle 1630,Piso 3 Dto C,Mendoza,4,Mendoza,3769,AR
+2015,Calle 2652,,Villa Carlos Paz,2,Córdoba,6921,AR
+2016,Calle 5071,,Santa Fe,3,Santa Fe,2248,AR
+2017,Calle 3925,,Rosario,3,Santa Fe,2857,AR
+2018,Calle 8759,,Mar del Plata,1,Buenos Aires,8884,AR
+2019,Calle 1508,Piso 6 Dto A,Santa Fe,3,Santa Fe,4101,AR
+2020,Calle 299,,San Rafael,4,Mendoza,3658,AR
+2021,Calle 8763,Piso 4 Dto B,Mar del Plata,1,Buenos Aires,1488,AR
+2022,Calle 1697,,Santa Fe,3,Santa Fe,3744,AR
+2023,Calle 9607,,Villa Carlos Paz,2,Córdoba,4715,AR
+2024,Calle 6346,Piso 6 Dto C,Villa Carlos Paz,2,Córdoba,4262,AR
+2025,Calle 61,,CABA,1,Buenos Aires,7103,AR
+2026,Calle 5164,,CABA,1,Buenos Aires,2572,AR
+2027,Calle 9714,Piso 3 Dto B,Córdoba,2,Córdoba,6582,AR
+2028,Calle 5195,Piso 4 Dto B,Córdoba,2,Córdoba,5807,AR
+2029,Calle 4919,Piso 11 Dto A,Rosario,3,Santa Fe,7219,AR
+2030,Calle 1219,,La Plata,1,Buenos Aires,9163,AR
+2031,Calle 373,Piso 1 Dto B,Villa Carlos Paz,2,Córdoba,4027,AR
+2032,Calle 9879,Piso 10 Dto A,Rafaela,3,Santa Fe,2857,AR
+2033,Calle 5216,,Godoy Cruz,4,Mendoza,2291,AR
+2034,Calle 9015,Piso 9 Dto A,La Plata,1,Buenos Aires,5874,AR
+2035,Calle 5111,Piso 7 Dto A,Rosario,3,Santa Fe,5408,AR
+2036,Calle 9639,Piso 1 Dto A,CABA,1,Buenos Aires,1696,AR
+2037,Calle 8880,,Santa Fe,3,Santa Fe,5056,AR
+2038,Calle 9323,,CABA,1,Buenos Aires,8705,AR
+2039,Calle 2775,,Córdoba,2,Córdoba,7683,AR
+2040,Calle 9449,Piso 12 Dto A,Villa Carlos Paz,2,Córdoba,9971,AR
+2041,Calle 6365,Piso 4 Dto C,CABA,1,Buenos Aires,6640,AR
+2042,Calle 6743,Piso 10 Dto B,Mar del Plata,1,Buenos Aires,5080,AR
+2043,Calle 9917,,Villa Carlos Paz,2,Córdoba,7644,AR
+2044,Calle 2101,,Río Cuarto,2,Córdoba,5076,AR
+2045,Calle 4096,,Córdoba,2,Córdoba,7467,AR
+2046,Calle 1846,,Godoy Cruz,4,Mendoza,2814,AR
+2047,Calle 3381,,La Plata,1,Buenos Aires,3019,AR
+2048,Calle 6206,Piso 11 Dto C,La Plata,1,Buenos Aires,8264,AR
+2049,Calle 3388,,Rosario,3,Santa Fe,4977,AR
+2050,Calle 7168,,La Plata,1,Buenos Aires,8099,AR
+2051,Calle 7517,,CABA,1,Buenos Aires,7773,AR
+2052,Calle 4644,Piso 5 Dto A,Rosario,3,Santa Fe,1225,AR
+2053,Calle 1070,Piso 10 Dto B,Rafaela,3,Santa Fe,5967,AR
+2054,Calle 4516,Piso 8 Dto B,Mar del Plata,1,Buenos Aires,3628,AR
+2055,Calle 281,Piso 4 Dto C,CABA,1,Buenos Aires,7300,AR
+2056,Calle 8351,,San Rafael,4,Mendoza,5385,AR
+2057,Calle 1620,Piso 5 Dto C,Mar del Plata,1,Buenos Aires,7614,AR
+2058,Calle 3953,,CABA,1,Buenos Aires,9682,AR
+2059,Calle 56,Piso 3 Dto A,Río Cuarto,2,Córdoba,7876,AR
+2060,Calle 3070,Piso 2 Dto C,CABA,1,Buenos Aires,7960,AR
+2061,Calle 9605,Piso 4 Dto C,Villa Carlos Paz,2,Córdoba,6847,AR
+2062,Calle 3216,,Mar del Plata,1,Buenos Aires,6507,AR
+2063,Calle 8725,,CABA,1,Buenos Aires,8058,AR
+2064,Calle 1691,,CABA,1,Buenos Aires,7729,AR
+2065,Calle 8766,,La Plata,1,Buenos Aires,9987,AR
+2066,Calle 3515,,Córdoba,2,Córdoba,1599,AR
+2067,Calle 6704,Piso 2 Dto B,Mar del Plata,1,Buenos Aires,4425,AR
+2068,Calle 1947,,CABA,1,Buenos Aires,1723,AR
+2069,Calle 2737,,Río Cuarto,2,Córdoba,9020,AR
+2070,Calle 1640,,Santa Fe,3,Santa Fe,5549,AR
+2071,Calle 5848,,La Plata,1,Buenos Aires,1440,AR
+2072,Calle 350,,San Rafael,4,Mendoza,3819,AR
+2073,Calle 2940,,CABA,1,Buenos Aires,3172,AR
+2074,Calle 7365,,Mar del Plata,1,Buenos Aires,1515,AR
+2075,Calle 3346,Piso 6 Dto C,Río Cuarto,2,Córdoba,8074,AR
+2076,Calle 7762,,Córdoba,2,Córdoba,7136,AR
+2077,Calle 6888,,Mar del Plata,1,Buenos Aires,4469,AR
+2078,Calle 7121,,CABA,1,Buenos Aires,5360,AR
+2079,Calle 8698,Piso 10 Dto C,Río Cuarto,2,Córdoba,8422,AR
+2080,Calle 8731,,Rafaela,3,Santa Fe,8357,AR
+2081,Calle 4575,,La Plata,1,Buenos Aires,1328,AR
+2082,Calle 8773,,La Plata,1,Buenos Aires,3077,AR
+2083,Calle 8742,Piso 2 Dto C,Mar del Plata,1,Buenos Aires,7465,AR
+2084,Calle 8832,,CABA,1,Buenos Aires,1831,AR
+2085,Calle 1216,,Rafaela,3,Santa Fe,6556,AR
+2086,Calle 4279,,La Plata,1,Buenos Aires,3921,AR
+2087,Calle 2290,,CABA,1,Buenos Aires,9486,AR
+2088,Calle 6917,,Córdoba,2,Córdoba,6273,AR
+2089,Calle 5533,,La Plata,1,Buenos Aires,1447,AR
+2090,Calle 498,,Rafaela,3,Santa Fe,2328,AR
+2091,Calle 1610,Piso 8 Dto C,Villa Carlos Paz,2,Córdoba,1937,AR
+2092,Calle 5126,,Villa Carlos Paz,2,Córdoba,9257,AR
+2093,Calle 2610,,Santa Fe,3,Santa Fe,9847,AR
+2094,Calle 1256,Piso 3 Dto A,Mar del Plata,1,Buenos Aires,9215,AR
+2095,Calle 662,Piso 9 Dto B,La Plata,1,Buenos Aires,1430,AR
+2096,Calle 4281,Piso 4 Dto B,Córdoba,2,Córdoba,6594,AR
+2097,Calle 4507,Piso 9 Dto A,Mar del Plata,1,Buenos Aires,7188,AR
+2098,Calle 2446,,La Plata,1,Buenos Aires,6269,AR
+2099,Calle 5082,Piso 3 Dto C,Villa Carlos Paz,2,Córdoba,1686,AR
+2100,Calle 7697,,Río Cuarto,2,Córdoba,4938,AR
+2101,Calle 9147,Piso 8 Dto C,Río Cuarto,2,Córdoba,1278,AR
+2102,Calle 995,,CABA,1,Buenos Aires,7417,AR
+2103,Calle 9107,,Rosario,3,Santa Fe,5286,AR
+2104,Calle 2908,Piso 9 Dto B,San Rafael,4,Mendoza,5079,AR
+2105,Calle 3076,,Mar del Plata,1,Buenos Aires,7548,AR
+2106,Calle 1074,Piso 3 Dto C,Mar del Plata,1,Buenos Aires,5835,AR
+2107,Calle 5039,,Mar del Plata,1,Buenos Aires,1339,AR
+2108,Calle 2139,Piso 6 Dto C,Rafaela,3,Santa Fe,4504,AR
+2109,Calle 1347,Piso 8 Dto A,La Plata,1,Buenos Aires,5777,AR
+2110,Calle 4762,Piso 1 Dto A,La Plata,1,Buenos Aires,4753,AR
+2111,Calle 3064,,Mar del Plata,1,Buenos Aires,2386,AR
+2112,Calle 4585,,La Plata,1,Buenos Aires,4700,AR
+2113,Calle 8208,Piso 9 Dto A,Mar del Plata,1,Buenos Aires,6432,AR
+2114,Calle 1009,Piso 11 Dto C,Mar del Plata,1,Buenos Aires,1615,AR
+2115,Calle 4774,,Córdoba,2,Córdoba,4423,AR
+2116,Calle 4223,,Mar del Plata,1,Buenos Aires,7467,AR
+2117,Calle 1476,Piso 2 Dto C,Rosario,3,Santa Fe,9621,AR
+2118,Calle 8920,,Córdoba,2,Córdoba,4950,AR
+2119,Calle 8071,Piso 4 Dto A,Córdoba,2,Córdoba,6292,AR
+2120,Calle 570,,La Plata,1,Buenos Aires,9272,AR
+2121,Calle 6379,Piso 2 Dto B,Santa Fe,3,Santa Fe,9592,AR
+2122,Calle 3420,,CABA,1,Buenos Aires,6481,AR
+2123,Calle 9785,,CABA,1,Buenos Aires,7181,AR
+2124,Calle 8149,Piso 5 Dto C,Mar del Plata,1,Buenos Aires,2961,AR
+2125,Calle 3502,Piso 7 Dto B,San Rafael,4,Mendoza,3194,AR
+2126,Calle 1162,Piso 2 Dto C,Mar del Plata,1,Buenos Aires,2783,AR
+2127,Calle 6505,Piso 9 Dto B,CABA,1,Buenos Aires,1432,AR
+2128,Calle 3191,,Santa Fe,3,Santa Fe,4532,AR
+2129,Calle 7394,Piso 5 Dto B,CABA,1,Buenos Aires,7852,AR
+2130,Calle 4817,Piso 3 Dto C,CABA,1,Buenos Aires,1702,AR
+2131,Calle 3894,Piso 8 Dto B,Villa Carlos Paz,2,Córdoba,8133,AR
+2132,Calle 1909,Piso 12 Dto A,CABA,1,Buenos Aires,1294,AR
+2133,Calle 8524,Piso 4 Dto B,Mendoza,4,Mendoza,7518,AR
+2134,Calle 6329,Piso 3 Dto C,Rosario,3,Santa Fe,2190,AR
+2135,Calle 1638,Piso 3 Dto A,Mendoza,4,Mendoza,6579,AR
+2136,Calle 8341,Piso 9 Dto A,La Plata,1,Buenos Aires,2782,AR
+2137,Calle 6955,,Villa Carlos Paz,2,Córdoba,4454,AR
+2138,Calle 661,Piso 2 Dto A,Santa Fe,3,Santa Fe,1081,AR
+2139,Calle 5614,Piso 5 Dto A,Mendoza,4,Mendoza,9660,AR
+2140,Calle 3830,,CABA,1,Buenos Aires,1874,AR
+2141,Calle 296,Piso 10 Dto A,Villa Carlos Paz,2,Córdoba,2062,AR
+2142,Calle 259,Piso 12 Dto B,CABA,1,Buenos Aires,3713,AR
+2143,Calle 9385,Piso 10 Dto C,Rafaela,3,Santa Fe,7158,AR
+2144,Calle 9907,Piso 10 Dto C,Rafaela,3,Santa Fe,2468,AR
+2145,Calle 6000,,Mar del Plata,1,Buenos Aires,3407,AR
+2146,Calle 349,,Villa Carlos Paz,2,Córdoba,3869,AR
+2147,Calle 4824,Piso 3 Dto B,CABA,1,Buenos Aires,1897,AR
+2148,Calle 9141,Piso 8 Dto A,Córdoba,2,Córdoba,2928,AR
+2149,Calle 7242,,Rosario,3,Santa Fe,6070,AR
+2150,Calle 3738,,San Rafael,4,Mendoza,6337,AR
+2151,Calle 2270,,Río Cuarto,2,Córdoba,5664,AR
+2152,Calle 1931,Piso 3 Dto C,Santa Fe,3,Santa Fe,6592,AR
+2153,Calle 6656,,CABA,1,Buenos Aires,8113,AR
+2154,Calle 6266,Piso 10 Dto B,Mar del Plata,1,Buenos Aires,7667,AR
+2155,Calle 245,Piso 9 Dto B,Mendoza,4,Mendoza,2609,AR
+2156,Calle 5140,,Rafaela,3,Santa Fe,5127,AR
+2157,Calle 8872,Piso 3 Dto A,Santa Fe,3,Santa Fe,9339,AR
+2158,Calle 483,,Córdoba,2,Córdoba,1016,AR
+2159,Calle 7115,Piso 10 Dto B,Río Cuarto,2,Córdoba,2025,AR
+2160,Calle 8256,,La Plata,1,Buenos Aires,4167,AR
+2161,Calle 786,,Rosario,3,Santa Fe,5575,AR
+2162,Calle 1199,,Mar del Plata,1,Buenos Aires,8424,AR
+2163,Calle 8550,Piso 4 Dto C,Rafaela,3,Santa Fe,7736,AR
+2164,Calle 3613,Piso 11 Dto B,La Plata,1,Buenos Aires,1275,AR
+2165,Calle 4613,,Mar del Plata,1,Buenos Aires,8356,AR
+2166,Calle 2131,Piso 10 Dto A,Villa Carlos Paz,2,Córdoba,1318,AR
+2167,Calle 8063,Piso 12 Dto C,Rafaela,3,Santa Fe,7299,AR
+2168,Calle 9860,,San Rafael,4,Mendoza,7509,AR
+2169,Calle 1101,,Villa Carlos Paz,2,Córdoba,8436,AR
+2170,Calle 5148,,CABA,1,Buenos Aires,4319,AR
+2171,Calle 1782,,Godoy Cruz,4,Mendoza,8606,AR
+2172,Calle 1666,,CABA,1,Buenos Aires,1007,AR
+2173,Calle 3899,Piso 9 Dto C,La Plata,1,Buenos Aires,3168,AR
+2174,Calle 5652,,Mar del Plata,1,Buenos Aires,4575,AR
+2175,Calle 8933,Piso 5 Dto B,Mar del Plata,1,Buenos Aires,1805,AR
+2176,Calle 783,Piso 3 Dto B,Santa Fe,3,Santa Fe,9360,AR
+2177,Calle 7065,,Mendoza,4,Mendoza,4874,AR
+2178,Calle 1665,,La Plata,1,Buenos Aires,3322,AR
+2179,Calle 8412,,Villa Carlos Paz,2,Córdoba,1229,AR
+2180,Calle 9651,,Villa Carlos Paz,2,Córdoba,4168,AR
+2181,Calle 2812,Piso 10 Dto C,La Plata,1,Buenos Aires,9049,AR
+2182,Calle 3796,,La Plata,1,Buenos Aires,9442,AR
+2183,Calle 6692,,La Plata,1,Buenos Aires,8366,AR
+2184,Calle 9644,Piso 9 Dto C,Mar del Plata,1,Buenos Aires,7599,AR
+2185,Calle 1001,,Mar del Plata,1,Buenos Aires,7636,AR
+2186,Calle 254,Piso 6 Dto A,Rosario,3,Santa Fe,9857,AR
+2187,Calle 2957,Piso 4 Dto C,CABA,1,Buenos Aires,6372,AR
+2188,Calle 5998,Piso 1 Dto B,La Plata,1,Buenos Aires,2718,AR
+2189,Calle 1194,,CABA,1,Buenos Aires,2191,AR
+2190,Calle 7483,Piso 10 Dto A,La Plata,1,Buenos Aires,4853,AR
+2191,Calle 4732,,Río Cuarto,2,Córdoba,3078,AR
+2192,Calle 9916,,Rosario,3,Santa Fe,9884,AR
+2193,Calle 4109,,San Rafael,4,Mendoza,5884,AR
+2194,Calle 8392,,Rafaela,3,Santa Fe,2376,AR
+2195,Calle 8941,,Mar del Plata,1,Buenos Aires,8231,AR
+2196,Calle 3855,Piso 9 Dto B,CABA,1,Buenos Aires,7397,AR
+2197,Calle 3060,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,5503,AR
+2198,Calle 1041,Piso 12 Dto C,Rafaela,3,Santa Fe,9108,AR
+2199,Calle 2457,Piso 10 Dto C,Mar del Plata,1,Buenos Aires,9287,AR
+2200,Calle 2122,,Córdoba,2,Córdoba,9092,AR
+2201,Calle 5215,,Rafaela,3,Santa Fe,7530,AR
+2202,Calle 6041,Piso 1 Dto C,Córdoba,2,Córdoba,1489,AR
+2203,Calle 6242,Piso 12 Dto C,Santa Fe,3,Santa Fe,8481,AR
+2204,Calle 2752,,CABA,1,Buenos Aires,6613,AR
+2205,Calle 8579,Piso 7 Dto B,CABA,1,Buenos Aires,4213,AR
+2206,Calle 4820,,Mar del Plata,1,Buenos Aires,3180,AR
+2207,Calle 6413,,Villa Carlos Paz,2,Córdoba,6573,AR
+2208,Calle 5372,Piso 3 Dto C,CABA,1,Buenos Aires,8918,AR
+2209,Calle 6375,,Godoy Cruz,4,Mendoza,7613,AR
+2210,Calle 5626,Piso 9 Dto C,Rosario,3,Santa Fe,2674,AR
+2211,Calle 1741,Piso 9 Dto C,Rafaela,3,Santa Fe,7049,AR
+2212,Calle 8023,Piso 9 Dto B,Mar del Plata,1,Buenos Aires,6314,AR
+2213,Calle 4708,,Villa Carlos Paz,2,Córdoba,4181,AR
+2214,Calle 8394,,Córdoba,2,Córdoba,8884,AR
+2215,Calle 8545,,CABA,1,Buenos Aires,5409,AR
+2216,Calle 3444,,La Plata,1,Buenos Aires,6328,AR
+2217,Calle 5371,,La Plata,1,Buenos Aires,3842,AR
+2218,Calle 6873,,Córdoba,2,Córdoba,4901,AR
+2219,Calle 751,Piso 1 Dto C,La Plata,1,Buenos Aires,3452,AR
+2220,Calle 577,Piso 6 Dto A,CABA,1,Buenos Aires,7273,AR
+2221,Calle 9695,,Mendoza,4,Mendoza,3156,AR
+2222,Calle 2127,Piso 4 Dto C,La Plata,1,Buenos Aires,7589,AR
+2223,Calle 9133,,Santa Fe,3,Santa Fe,6315,AR
+2224,Calle 8830,Piso 8 Dto B,La Plata,1,Buenos Aires,3745,AR
+2225,Calle 8360,Piso 6 Dto C,La Plata,1,Buenos Aires,9869,AR
+2226,Calle 5960,Piso 6 Dto C,Villa Carlos Paz,2,Córdoba,3912,AR
+2227,Calle 1945,Piso 2 Dto C,Mar del Plata,1,Buenos Aires,6444,AR
+2228,Calle 646,Piso 1 Dto A,CABA,1,Buenos Aires,7103,AR
+2229,Calle 1192,,Córdoba,2,Córdoba,6340,AR
+2230,Calle 5309,,CABA,1,Buenos Aires,9548,AR
+2231,Calle 9103,,Villa Carlos Paz,2,Córdoba,5651,AR
+2232,Calle 8599,Piso 10 Dto B,Mar del Plata,1,Buenos Aires,9038,AR
+2233,Calle 3639,Piso 7 Dto B,Mar del Plata,1,Buenos Aires,5795,AR
+2234,Calle 2126,,CABA,1,Buenos Aires,7042,AR
+2235,Calle 8616,,CABA,1,Buenos Aires,3190,AR
+2236,Calle 3280,,Rosario,3,Santa Fe,5994,AR
+2237,Calle 133,,Mar del Plata,1,Buenos Aires,7805,AR
+2238,Calle 9057,,CABA,1,Buenos Aires,9724,AR
+2239,Calle 8499,Piso 12 Dto A,Santa Fe,3,Santa Fe,3899,AR
+2240,Calle 7607,Piso 6 Dto B,Santa Fe,3,Santa Fe,5352,AR
+2241,Calle 9359,,CABA,1,Buenos Aires,2478,AR
+2242,Calle 7432,,Rafaela,3,Santa Fe,2675,AR
+2243,Calle 7202,Piso 2 Dto C,CABA,1,Buenos Aires,3876,AR
+2244,Calle 3250,,CABA,1,Buenos Aires,4049,AR
+2245,Calle 2543,,CABA,1,Buenos Aires,7749,AR
+2246,Calle 6998,,San Rafael,4,Mendoza,5967,AR
+2247,Calle 3875,Piso 3 Dto B,Córdoba,2,Córdoba,5006,AR
+2248,Calle 5048,,Mar del Plata,1,Buenos Aires,9013,AR
+2249,Calle 3586,Piso 3 Dto B,Villa Carlos Paz,2,Córdoba,5049,AR
+2250,Calle 4160,,Villa Carlos Paz,2,Córdoba,3956,AR
+2251,Calle 7190,,Río Cuarto,2,Córdoba,8211,AR
+2252,Calle 4039,Piso 11 Dto C,La Plata,1,Buenos Aires,9634,AR
+2253,Calle 8034,,Córdoba,2,Córdoba,9502,AR
+2254,Calle 1615,Piso 3 Dto B,CABA,1,Buenos Aires,1889,AR
+2255,Calle 729,Piso 5 Dto C,CABA,1,Buenos Aires,8628,AR
+2256,Calle 7183,,Mar del Plata,1,Buenos Aires,7098,AR
+2257,Calle 8766,,CABA,1,Buenos Aires,4309,AR
+2258,Calle 3872,,La Plata,1,Buenos Aires,6254,AR
+2259,Calle 2671,,La Plata,1,Buenos Aires,1374,AR
+2260,Calle 9616,,Córdoba,2,Córdoba,2515,AR
+2261,Calle 8379,,La Plata,1,Buenos Aires,1080,AR
+2262,Calle 3448,Piso 11 Dto C,Mendoza,4,Mendoza,2522,AR
+2263,Calle 2473,,CABA,1,Buenos Aires,4395,AR
+2264,Calle 7543,,Mar del Plata,1,Buenos Aires,1876,AR
+2265,Calle 1463,Piso 2 Dto A,Río Cuarto,2,Córdoba,7597,AR
+2266,Calle 686,,CABA,1,Buenos Aires,8315,AR
+2267,Calle 8670,,Río Cuarto,2,Córdoba,4507,AR
+2268,Calle 7069,,CABA,1,Buenos Aires,9784,AR
+2269,Calle 4940,,Villa Carlos Paz,2,Córdoba,5621,AR
+2270,Calle 373,Piso 9 Dto C,La Plata,1,Buenos Aires,9598,AR
+2271,Calle 9445,,Mendoza,4,Mendoza,3459,AR
+2272,Calle 9690,Piso 4 Dto C,CABA,1,Buenos Aires,6733,AR
+2273,Calle 21,Piso 4 Dto C,Rosario,3,Santa Fe,3100,AR
+2274,Calle 3750,,Rosario,3,Santa Fe,5513,AR
+2275,Calle 9007,Piso 6 Dto C,La Plata,1,Buenos Aires,7346,AR
+2276,Calle 3474,,Rosario,3,Santa Fe,3558,AR
+2277,Calle 882,Piso 7 Dto A,La Plata,1,Buenos Aires,3653,AR
+2278,Calle 4554,,La Plata,1,Buenos Aires,8259,AR
+2279,Calle 367,,Mar del Plata,1,Buenos Aires,3072,AR
+2280,Calle 5610,,CABA,1,Buenos Aires,1124,AR
+2281,Calle 531,,Villa Carlos Paz,2,Córdoba,1276,AR
+2282,Calle 8133,Piso 10 Dto C,Godoy Cruz,4,Mendoza,7038,AR
+2283,Calle 1064,Piso 6 Dto B,Santa Fe,3,Santa Fe,7094,AR
+2284,Calle 4033,,CABA,1,Buenos Aires,3242,AR
+2285,Calle 1812,,CABA,1,Buenos Aires,2941,AR
+2286,Calle 437,,CABA,1,Buenos Aires,2644,AR
+2287,Calle 8012,,CABA,1,Buenos Aires,9919,AR
+2288,Calle 6001,,Mar del Plata,1,Buenos Aires,1499,AR
+2289,Calle 997,,San Rafael,4,Mendoza,9329,AR
+2290,Calle 4039,,CABA,1,Buenos Aires,6441,AR
+2291,Calle 5917,Piso 9 Dto B,Godoy Cruz,4,Mendoza,5919,AR
+2292,Calle 1872,,Rosario,3,Santa Fe,1285,AR
+2293,Calle 8712,Piso 9 Dto C,La Plata,1,Buenos Aires,8320,AR
+2294,Calle 4158,,Río Cuarto,2,Córdoba,2974,AR
+2295,Calle 3283,,CABA,1,Buenos Aires,8200,AR
+2296,Calle 7157,Piso 3 Dto A,Santa Fe,3,Santa Fe,2049,AR
+2297,Calle 7783,,CABA,1,Buenos Aires,5358,AR
+2298,Calle 5089,,CABA,1,Buenos Aires,2111,AR
+2299,Calle 7957,,Mar del Plata,1,Buenos Aires,5133,AR
+2300,Calle 4304,,Mar del Plata,1,Buenos Aires,5416,AR
+2301,Calle 1078,,Mar del Plata,1,Buenos Aires,5186,AR
+2302,Calle 4877,Piso 11 Dto C,Mar del Plata,1,Buenos Aires,7471,AR
+2303,Calle 3665,,San Rafael,4,Mendoza,8589,AR
+2304,Calle 6263,Piso 10 Dto C,Villa Carlos Paz,2,Córdoba,2672,AR
+2305,Calle 2433,Piso 4 Dto B,Mendoza,4,Mendoza,1804,AR
+2306,Calle 4068,Piso 4 Dto A,La Plata,1,Buenos Aires,8158,AR
+2307,Calle 8445,Piso 11 Dto C,Mar del Plata,1,Buenos Aires,2866,AR
+2308,Calle 4328,,Rosario,3,Santa Fe,1431,AR
+2309,Calle 7549,,Mar del Plata,1,Buenos Aires,2458,AR
+2310,Calle 450,Piso 11 Dto C,CABA,1,Buenos Aires,2557,AR
+2311,Calle 3854,Piso 6 Dto C,Mendoza,4,Mendoza,3401,AR
+2312,Calle 368,Piso 12 Dto C,La Plata,1,Buenos Aires,9326,AR
+2313,Calle 8956,Piso 7 Dto B,Rosario,3,Santa Fe,9767,AR
+2314,Calle 7394,,CABA,1,Buenos Aires,8214,AR
+2315,Calle 8833,,CABA,1,Buenos Aires,5251,AR
+2316,Calle 5247,,La Plata,1,Buenos Aires,3946,AR
+2317,Calle 4908,,CABA,1,Buenos Aires,2376,AR
+2318,Calle 9674,Piso 5 Dto A,La Plata,1,Buenos Aires,9268,AR
+2319,Calle 9480,,La Plata,1,Buenos Aires,5376,AR
+2320,Calle 1932,Piso 5 Dto A,Córdoba,2,Córdoba,2843,AR
+2321,Calle 9042,,La Plata,1,Buenos Aires,8987,AR
+2322,Calle 9064,Piso 9 Dto A,Río Cuarto,2,Córdoba,7183,AR
+2323,Calle 9520,Piso 11 Dto C,La Plata,1,Buenos Aires,3977,AR
+2324,Calle 6909,Piso 12 Dto C,Río Cuarto,2,Córdoba,7165,AR
+2325,Calle 4339,,Mar del Plata,1,Buenos Aires,5352,AR
+2326,Calle 1062,,CABA,1,Buenos Aires,6538,AR
+2327,Calle 5826,Piso 10 Dto A,CABA,1,Buenos Aires,5509,AR
+2328,Calle 8234,Piso 10 Dto A,CABA,1,Buenos Aires,9759,AR
+2329,Calle 3735,Piso 10 Dto A,Mar del Plata,1,Buenos Aires,3252,AR
+2330,Calle 8638,,CABA,1,Buenos Aires,7961,AR
+2331,Calle 1462,,Córdoba,2,Córdoba,2850,AR
+2332,Calle 2675,Piso 4 Dto C,Mar del Plata,1,Buenos Aires,2768,AR
+2333,Calle 6679,,Mar del Plata,1,Buenos Aires,5073,AR
+2334,Calle 9115,Piso 9 Dto A,Godoy Cruz,4,Mendoza,6446,AR
+2335,Calle 4562,,Godoy Cruz,4,Mendoza,5295,AR
+2336,Calle 5209,,Villa Carlos Paz,2,Córdoba,5737,AR
+2337,Calle 6823,Piso 7 Dto A,Mar del Plata,1,Buenos Aires,8933,AR
+2338,Calle 4239,,Rosario,3,Santa Fe,9957,AR
+2339,Calle 47,,San Rafael,4,Mendoza,2587,AR
+2340,Calle 6779,,La Plata,1,Buenos Aires,6348,AR
+2341,Calle 6170,Piso 5 Dto C,San Rafael,4,Mendoza,9821,AR
+2342,Calle 6486,Piso 12 Dto C,Río Cuarto,2,Córdoba,6105,AR
+2343,Calle 1480,Piso 6 Dto B,La Plata,1,Buenos Aires,6137,AR
+2344,Calle 2209,,Mar del Plata,1,Buenos Aires,1959,AR
+2345,Calle 6251,Piso 12 Dto A,Mendoza,4,Mendoza,2857,AR
+2346,Calle 1014,Piso 4 Dto C,La Plata,1,Buenos Aires,4393,AR
+2347,Calle 2061,Piso 2 Dto C,La Plata,1,Buenos Aires,6368,AR
+2348,Calle 7955,,Villa Carlos Paz,2,Córdoba,5933,AR
+2349,Calle 4100,Piso 3 Dto A,Mar del Plata,1,Buenos Aires,7165,AR
+2350,Calle 9122,Piso 10 Dto B,Villa Carlos Paz,2,Córdoba,9151,AR
+2351,Calle 4295,Piso 3 Dto A,La Plata,1,Buenos Aires,6156,AR
+2352,Calle 7260,,Santa Fe,3,Santa Fe,8382,AR
+2353,Calle 3151,,Rosario,3,Santa Fe,7965,AR
+2354,Calle 4229,,La Plata,1,Buenos Aires,4019,AR
+2355,Calle 888,Piso 2 Dto B,La Plata,1,Buenos Aires,6685,AR
+2356,Calle 6972,,Mendoza,4,Mendoza,3865,AR
+2357,Calle 7016,Piso 8 Dto C,La Plata,1,Buenos Aires,6089,AR
+2358,Calle 1104,,La Plata,1,Buenos Aires,2295,AR
+2359,Calle 1513,Piso 6 Dto C,CABA,1,Buenos Aires,9739,AR
+2360,Calle 101,,Córdoba,2,Córdoba,8775,AR
+2361,Calle 8103,,Godoy Cruz,4,Mendoza,2296,AR
+2362,Calle 7276,Piso 1 Dto B,Villa Carlos Paz,2,Córdoba,3210,AR
+2363,Calle 6964,,Rosario,3,Santa Fe,3697,AR
+2364,Calle 3749,Piso 12 Dto B,La Plata,1,Buenos Aires,4735,AR
+2365,Calle 6323,Piso 9 Dto A,Mar del Plata,1,Buenos Aires,6740,AR
+2366,Calle 8423,,La Plata,1,Buenos Aires,3021,AR
+2367,Calle 8249,Piso 6 Dto B,Córdoba,2,Córdoba,5396,AR
+2368,Calle 4170,Piso 5 Dto C,La Plata,1,Buenos Aires,5672,AR
+2369,Calle 3225,,CABA,1,Buenos Aires,4171,AR
+2370,Calle 4678,Piso 9 Dto C,Godoy Cruz,4,Mendoza,2390,AR
+2371,Calle 3380,Piso 4 Dto C,La Plata,1,Buenos Aires,3725,AR
+2372,Calle 9095,,CABA,1,Buenos Aires,2192,AR
+2373,Calle 8895,Piso 1 Dto A,CABA,1,Buenos Aires,5045,AR
+2374,Calle 3185,,Mar del Plata,1,Buenos Aires,6324,AR
+2375,Calle 4371,Piso 10 Dto A,CABA,1,Buenos Aires,4760,AR
+2376,Calle 1702,Piso 9 Dto A,Mar del Plata,1,Buenos Aires,8217,AR
+2377,Calle 1098,,Mar del Plata,1,Buenos Aires,5568,AR
+2378,Calle 5890,Piso 5 Dto B,Mar del Plata,1,Buenos Aires,1876,AR
+2379,Calle 5925,Piso 12 Dto A,Mar del Plata,1,Buenos Aires,4562,AR
+2380,Calle 1756,Piso 1 Dto C,Río Cuarto,2,Córdoba,4947,AR
+2381,Calle 8231,Piso 9 Dto C,La Plata,1,Buenos Aires,9828,AR
+2382,Calle 9491,,Rafaela,3,Santa Fe,1998,AR
+2383,Calle 7885,,Godoy Cruz,4,Mendoza,8853,AR
+2384,Calle 2254,,La Plata,1,Buenos Aires,1596,AR
+2385,Calle 8855,Piso 12 Dto B,Rafaela,3,Santa Fe,3867,AR
+2386,Calle 9122,Piso 11 Dto A,CABA,1,Buenos Aires,3666,AR
+2387,Calle 1691,Piso 3 Dto A,Mar del Plata,1,Buenos Aires,1492,AR
+2388,Calle 9283,,Mendoza,4,Mendoza,4474,AR
+2389,Calle 1917,,CABA,1,Buenos Aires,3879,AR
+2390,Calle 8553,Piso 7 Dto B,Mar del Plata,1,Buenos Aires,7216,AR
+2391,Calle 8322,Piso 11 Dto C,CABA,1,Buenos Aires,7328,AR
+2392,Calle 4842,Piso 4 Dto B,CABA,1,Buenos Aires,2522,AR
+2393,Calle 3855,Piso 9 Dto B,Mar del Plata,1,Buenos Aires,4997,AR
+2394,Calle 7907,,Córdoba,2,Córdoba,4194,AR
+2395,Calle 5184,,Mar del Plata,1,Buenos Aires,1059,AR
+2396,Calle 7489,,Córdoba,2,Córdoba,7063,AR
+2397,Calle 9640,,San Rafael,4,Mendoza,6429,AR
+2398,Calle 7142,Piso 7 Dto C,Mendoza,4,Mendoza,7915,AR
+2399,Calle 6439,,CABA,1,Buenos Aires,2479,AR
+2400,Calle 7324,,Mendoza,4,Mendoza,7534,AR
+2401,Calle 688,,Santa Fe,3,Santa Fe,7017,AR
+2402,Calle 6877,Piso 9 Dto A,Santa Fe,3,Santa Fe,3307,AR
+2403,Calle 9251,,Mar del Plata,1,Buenos Aires,7363,AR
+2404,Calle 3836,,Rafaela,3,Santa Fe,8741,AR
+2405,Calle 7952,Piso 10 Dto A,San Rafael,4,Mendoza,1501,AR
+2406,Calle 2960,,Santa Fe,3,Santa Fe,8446,AR
+2407,Calle 3879,,Mar del Plata,1,Buenos Aires,3174,AR
+2408,Calle 7448,,Santa Fe,3,Santa Fe,7228,AR
+2409,Calle 9066,Piso 1 Dto C,CABA,1,Buenos Aires,3280,AR
+2410,Calle 5499,,Santa Fe,3,Santa Fe,8545,AR
+2411,Calle 1479,,Mar del Plata,1,Buenos Aires,8999,AR
+2412,Calle 1223,,CABA,1,Buenos Aires,5592,AR
+2413,Calle 6600,Piso 3 Dto B,Río Cuarto,2,Córdoba,3900,AR
+2414,Calle 5477,,La Plata,1,Buenos Aires,8360,AR
+2415,Calle 6004,,Santa Fe,3,Santa Fe,6678,AR
+2416,Calle 5226,,CABA,1,Buenos Aires,1047,AR
+2417,Calle 8142,,La Plata,1,Buenos Aires,1815,AR
+2418,Calle 5607,,Córdoba,2,Córdoba,8526,AR
+2419,Calle 4563,,CABA,1,Buenos Aires,6375,AR
+2420,Calle 7955,,CABA,1,Buenos Aires,3636,AR
+2421,Calle 1477,,Córdoba,2,Córdoba,7381,AR
+2422,Calle 103,,Godoy Cruz,4,Mendoza,6757,AR
+2423,Calle 1499,Piso 2 Dto C,Córdoba,2,Córdoba,1016,AR
+2424,Calle 1412,Piso 6 Dto A,Rosario,3,Santa Fe,2324,AR
+2425,Calle 7219,,Córdoba,2,Córdoba,4270,AR
+2426,Calle 7049,,CABA,1,Buenos Aires,1075,AR
+2427,Calle 1420,Piso 9 Dto C,Mar del Plata,1,Buenos Aires,6361,AR
+2428,Calle 2308,Piso 10 Dto C,Mar del Plata,1,Buenos Aires,7769,AR
+2429,Calle 5647,Piso 3 Dto C,Villa Carlos Paz,2,Córdoba,5571,AR
+2430,Calle 1444,,Santa Fe,3,Santa Fe,8768,AR
+2431,Calle 1355,,Rafaela,3,Santa Fe,1581,AR
+2432,Calle 5764,Piso 9 Dto C,CABA,1,Buenos Aires,4633,AR
+2433,Calle 3496,Piso 12 Dto B,La Plata,1,Buenos Aires,5194,AR
+2434,Calle 5528,,Rosario,3,Santa Fe,7645,AR
+2435,Calle 638,Piso 12 Dto B,Godoy Cruz,4,Mendoza,4174,AR
+2436,Calle 4119,,Mar del Plata,1,Buenos Aires,9964,AR
+2437,Calle 3734,Piso 7 Dto C,Godoy Cruz,4,Mendoza,7650,AR
+2438,Calle 5473,Piso 1 Dto B,La Plata,1,Buenos Aires,5533,AR
+2439,Calle 5498,Piso 6 Dto A,La Plata,1,Buenos Aires,7505,AR
+2440,Calle 160,Piso 10 Dto A,CABA,1,Buenos Aires,6317,AR
+2441,Calle 5071,,Mar del Plata,1,Buenos Aires,4826,AR
+2442,Calle 7581,,Mendoza,4,Mendoza,1312,AR
+2443,Calle 7294,,La Plata,1,Buenos Aires,3902,AR
+2444,Calle 6078,Piso 4 Dto B,Villa Carlos Paz,2,Córdoba,2362,AR
+2445,Calle 2216,Piso 3 Dto B,Mendoza,4,Mendoza,6854,AR
+2446,Calle 832,,La Plata,1,Buenos Aires,6525,AR
+2447,Calle 5686,Piso 11 Dto C,Rosario,3,Santa Fe,8211,AR
+2448,Calle 719,Piso 8 Dto A,La Plata,1,Buenos Aires,4133,AR
+2449,Calle 812,Piso 6 Dto C,Mar del Plata,1,Buenos Aires,1459,AR
+2450,Calle 789,Piso 1 Dto B,Córdoba,2,Córdoba,4542,AR
+2451,Calle 3331,,Rosario,3,Santa Fe,1049,AR
+2452,Calle 3515,Piso 7 Dto A,CABA,1,Buenos Aires,2055,AR
+2453,Calle 1537,Piso 4 Dto C,Mar del Plata,1,Buenos Aires,3855,AR
+2454,Calle 6125,Piso 11 Dto C,CABA,1,Buenos Aires,3400,AR
+2455,Calle 545,Piso 1 Dto B,CABA,1,Buenos Aires,1213,AR
+2456,Calle 8971,Piso 1 Dto A,La Plata,1,Buenos Aires,8196,AR
+2457,Calle 3959,Piso 8 Dto C,Mar del Plata,1,Buenos Aires,3053,AR
+2458,Calle 4735,Piso 5 Dto C,Río Cuarto,2,Córdoba,4686,AR
+2459,Calle 7512,Piso 7 Dto A,La Plata,1,Buenos Aires,6375,AR
+2460,Calle 5701,Piso 1 Dto A,Mar del Plata,1,Buenos Aires,4481,AR
+2461,Calle 6409,,CABA,1,Buenos Aires,8526,AR
+2462,Calle 1002,,Mar del Plata,1,Buenos Aires,4585,AR
+2463,Calle 1143,,CABA,1,Buenos Aires,1652,AR
+2464,Calle 5836,Piso 4 Dto A,Rosario,3,Santa Fe,9362,AR
+2465,Calle 1912,Piso 2 Dto B,CABA,1,Buenos Aires,8275,AR
+2466,Calle 107,Piso 5 Dto C,Rafaela,3,Santa Fe,8479,AR
+2467,Calle 9118,Piso 9 Dto B,Rafaela,3,Santa Fe,4048,AR
+2468,Calle 9726,,Mar del Plata,1,Buenos Aires,7475,AR
+2469,Calle 6867,,CABA,1,Buenos Aires,3317,AR
+2470,Calle 3057,Piso 2 Dto B,Mar del Plata,1,Buenos Aires,8591,AR
+2471,Calle 18,,Córdoba,2,Córdoba,6640,AR
+2472,Calle 101,Piso 3 Dto A,Mar del Plata,1,Buenos Aires,3756,AR
+2473,Calle 2801,,Río Cuarto,2,Córdoba,9556,AR
+2474,Calle 5998,Piso 10 Dto A,Río Cuarto,2,Córdoba,2743,AR
+2475,Calle 8775,,CABA,1,Buenos Aires,6127,AR
+2476,Calle 2744,,Villa Carlos Paz,2,Córdoba,7254,AR
+2477,Calle 825,Piso 6 Dto A,Mar del Plata,1,Buenos Aires,9765,AR
+2478,Calle 9973,Piso 3 Dto C,La Plata,1,Buenos Aires,3824,AR
+2479,Calle 876,,La Plata,1,Buenos Aires,3754,AR
+2480,Calle 2911,Piso 9 Dto A,CABA,1,Buenos Aires,9792,AR
+2481,Calle 2217,,Córdoba,2,Córdoba,5128,AR
+2482,Calle 4568,,La Plata,1,Buenos Aires,9599,AR
+2483,Calle 9459,,La Plata,1,Buenos Aires,1167,AR
+2484,Calle 214,,Río Cuarto,2,Córdoba,1830,AR
+2485,Calle 2446,,San Rafael,4,Mendoza,8191,AR
+2486,Calle 1692,,CABA,1,Buenos Aires,1678,AR
+2487,Calle 5497,Piso 1 Dto B,La Plata,1,Buenos Aires,7485,AR
+2488,Calle 5644,,CABA,1,Buenos Aires,8208,AR
+2489,Calle 9578,,La Plata,1,Buenos Aires,3163,AR
+2490,Calle 2653,Piso 10 Dto A,Río Cuarto,2,Córdoba,2212,AR
+2491,Calle 670,,Mar del Plata,1,Buenos Aires,2955,AR
+2492,Calle 8868,Piso 5 Dto A,Mar del Plata,1,Buenos Aires,7420,AR
+2493,Calle 3327,Piso 2 Dto B,CABA,1,Buenos Aires,1229,AR
+2494,Calle 9129,Piso 6 Dto B,La Plata,1,Buenos Aires,8544,AR
+2495,Calle 6456,Piso 3 Dto A,Mar del Plata,1,Buenos Aires,6931,AR
+2496,Calle 4702,,Mar del Plata,1,Buenos Aires,8224,AR
+2497,Calle 5017,,CABA,1,Buenos Aires,7829,AR
+2498,Calle 9905,Piso 7 Dto A,Mar del Plata,1,Buenos Aires,4109,AR
+2499,Calle 2207,,Santa Fe,3,Santa Fe,5841,AR
+2500,Calle 2252,Piso 12 Dto B,La Plata,1,Buenos Aires,5367,AR
+2501,Calle 8409,Piso 11 Dto A,Mar del Plata,1,Buenos Aires,2607,AR
+2502,Calle 5098,Piso 12 Dto A,CABA,1,Buenos Aires,5319,AR
+2503,Calle 3923,Piso 3 Dto C,La Plata,1,Buenos Aires,8551,AR
+2504,Calle 944,,Rafaela,3,Santa Fe,4684,AR
+2505,Calle 570,,CABA,1,Buenos Aires,2289,AR
+2506,Calle 8184,Piso 7 Dto A,Rafaela,3,Santa Fe,5375,AR
+2507,Calle 6397,Piso 12 Dto C,Rafaela,3,Santa Fe,9181,AR
+2508,Calle 9615,Piso 12 Dto C,Santa Fe,3,Santa Fe,6496,AR
+2509,Calle 7154,Piso 6 Dto C,CABA,1,Buenos Aires,5437,AR
+2510,Calle 9743,,Mar del Plata,1,Buenos Aires,8059,AR
+2511,Calle 1296,Piso 3 Dto B,Mendoza,4,Mendoza,7061,AR
+2512,Calle 9383,Piso 6 Dto C,CABA,1,Buenos Aires,9323,AR
+2513,Calle 6539,Piso 10 Dto A,Rosario,3,Santa Fe,7081,AR
+2514,Calle 2978,,La Plata,1,Buenos Aires,8425,AR
+2515,Calle 9643,,La Plata,1,Buenos Aires,7304,AR
+2516,Calle 863,,Godoy Cruz,4,Mendoza,5060,AR
+2517,Calle 4932,,Mendoza,4,Mendoza,1914,AR
+2518,Calle 7503,,Córdoba,2,Córdoba,1491,AR
+2519,Calle 1999,Piso 8 Dto C,Río Cuarto,2,Córdoba,3736,AR
+2520,Calle 6036,Piso 12 Dto C,Mendoza,4,Mendoza,2513,AR
+2521,Calle 3427,Piso 6 Dto C,CABA,1,Buenos Aires,3887,AR
+2522,Calle 7548,Piso 5 Dto B,Rafaela,3,Santa Fe,1796,AR
+2523,Calle 2681,,Mar del Plata,1,Buenos Aires,9667,AR
+2524,Calle 2419,Piso 4 Dto B,Rafaela,3,Santa Fe,8421,AR
+2525,Calle 5308,,Villa Carlos Paz,2,Córdoba,8668,AR
+2526,Calle 765,Piso 11 Dto C,CABA,1,Buenos Aires,3498,AR
+2527,Calle 403,,Mendoza,4,Mendoza,1595,AR
+2528,Calle 2920,,Godoy Cruz,4,Mendoza,6065,AR
+2529,Calle 3193,,Mar del Plata,1,Buenos Aires,5933,AR
+2530,Calle 2023,,San Rafael,4,Mendoza,9099,AR
+2531,Calle 1993,Piso 4 Dto B,Mendoza,4,Mendoza,6751,AR
+2532,Calle 2884,,La Plata,1,Buenos Aires,8940,AR
+2533,Calle 6120,,Mar del Plata,1,Buenos Aires,4844,AR
+2534,Calle 7254,,Mar del Plata,1,Buenos Aires,9555,AR
+2535,Calle 7761,,La Plata,1,Buenos Aires,6800,AR
+2536,Calle 6994,Piso 2 Dto C,La Plata,1,Buenos Aires,1569,AR
+2537,Calle 9032,,CABA,1,Buenos Aires,7374,AR
+2538,Calle 8285,Piso 3 Dto A,Rosario,3,Santa Fe,1632,AR
+2539,Calle 2556,Piso 7 Dto A,CABA,1,Buenos Aires,4641,AR
+2540,Calle 2997,Piso 12 Dto A,Río Cuarto,2,Córdoba,8122,AR
+2541,Calle 6596,Piso 8 Dto A,La Plata,1,Buenos Aires,8251,AR
+2542,Calle 3551,,CABA,1,Buenos Aires,3644,AR
+2543,Calle 9953,,CABA,1,Buenos Aires,6670,AR
+2544,Calle 9275,,San Rafael,4,Mendoza,3926,AR
+2545,Calle 2999,,La Plata,1,Buenos Aires,7088,AR
+2546,Calle 7845,,Mendoza,4,Mendoza,9709,AR
+2547,Calle 8058,,Mar del Plata,1,Buenos Aires,1103,AR
+2548,Calle 9157,Piso 5 Dto A,Córdoba,2,Córdoba,3432,AR
+2549,Calle 3601,Piso 7 Dto A,Rosario,3,Santa Fe,1939,AR
+2550,Calle 6543,Piso 4 Dto C,Rafaela,3,Santa Fe,6986,AR
+2551,Calle 4536,Piso 8 Dto A,Mar del Plata,1,Buenos Aires,6217,AR
+2552,Calle 1103,Piso 6 Dto A,Córdoba,2,Córdoba,5385,AR
+2553,Calle 5607,Piso 6 Dto B,Mar del Plata,1,Buenos Aires,1277,AR
+2554,Calle 9707,Piso 4 Dto C,Villa Carlos Paz,2,Córdoba,8386,AR
+2555,Calle 987,,CABA,1,Buenos Aires,1297,AR
+2556,Calle 245,Piso 2 Dto C,CABA,1,Buenos Aires,2574,AR
+2557,Calle 2453,,Córdoba,2,Córdoba,4991,AR
+2558,Calle 6612,Piso 8 Dto C,San Rafael,4,Mendoza,7651,AR
+2559,Calle 7776,,Río Cuarto,2,Córdoba,7985,AR
+2560,Calle 1310,,Rosario,3,Santa Fe,8173,AR
+2561,Calle 7543,Piso 6 Dto C,Córdoba,2,Córdoba,9924,AR
+2562,Calle 3408,Piso 11 Dto C,Mar del Plata,1,Buenos Aires,4326,AR
+2563,Calle 6263,,Río Cuarto,2,Córdoba,1505,AR
+2564,Calle 5487,,Río Cuarto,2,Córdoba,3371,AR
+2565,Calle 1135,Piso 6 Dto A,Mar del Plata,1,Buenos Aires,8967,AR
+2566,Calle 9225,Piso 11 Dto B,La Plata,1,Buenos Aires,8863,AR
+2567,Calle 2299,Piso 7 Dto C,Córdoba,2,Córdoba,7482,AR
+2568,Calle 7132,Piso 8 Dto B,Mar del Plata,1,Buenos Aires,8337,AR
+2569,Calle 6878,Piso 4 Dto B,Mendoza,4,Mendoza,7989,AR
+2570,Calle 542,,La Plata,1,Buenos Aires,6783,AR
+2571,Calle 3264,Piso 1 Dto C,Villa Carlos Paz,2,Córdoba,5462,AR
+2572,Calle 7609,,CABA,1,Buenos Aires,6867,AR
+2573,Calle 3650,,Villa Carlos Paz,2,Córdoba,7077,AR
+2574,Calle 6030,,Córdoba,2,Córdoba,9667,AR
+2575,Calle 3382,,Mar del Plata,1,Buenos Aires,2283,AR
+2576,Calle 9169,Piso 10 Dto B,Río Cuarto,2,Córdoba,6712,AR
+2577,Calle 4064,Piso 5 Dto B,La Plata,1,Buenos Aires,5786,AR
+2578,Calle 1196,,La Plata,1,Buenos Aires,7480,AR
+2579,Calle 4235,Piso 5 Dto C,Rosario,3,Santa Fe,5670,AR
+2580,Calle 6717,,Villa Carlos Paz,2,Córdoba,3393,AR
+2581,Calle 8201,Piso 7 Dto A,La Plata,1,Buenos Aires,4580,AR
+2582,Calle 9546,,Río Cuarto,2,Córdoba,3583,AR
+2583,Calle 7300,,San Rafael,4,Mendoza,2886,AR
+2584,Calle 5355,Piso 5 Dto C,Santa Fe,3,Santa Fe,4157,AR
+2585,Calle 6071,,Villa Carlos Paz,2,Córdoba,3058,AR
+2586,Calle 4945,Piso 5 Dto C,CABA,1,Buenos Aires,5987,AR
+2587,Calle 3661,,Mendoza,4,Mendoza,3317,AR
+2588,Calle 3343,Piso 12 Dto B,CABA,1,Buenos Aires,7446,AR
+2589,Calle 6417,Piso 4 Dto B,Mar del Plata,1,Buenos Aires,8722,AR
+2590,Calle 1293,,Villa Carlos Paz,2,Córdoba,2126,AR
+2591,Calle 4889,Piso 4 Dto B,Río Cuarto,2,Córdoba,7497,AR
+2592,Calle 3651,Piso 9 Dto C,CABA,1,Buenos Aires,1787,AR
+2593,Calle 3122,,CABA,1,Buenos Aires,1548,AR
+2594,Calle 4797,Piso 3 Dto B,La Plata,1,Buenos Aires,4406,AR
+2595,Calle 7386,Piso 12 Dto C,CABA,1,Buenos Aires,9264,AR
+2596,Calle 460,Piso 1 Dto C,Rafaela,3,Santa Fe,3307,AR
+2597,Calle 822,,Mar del Plata,1,Buenos Aires,8983,AR
+2598,Calle 7632,,Rosario,3,Santa Fe,5949,AR
+2599,Calle 2543,Piso 4 Dto C,Rosario,3,Santa Fe,1768,AR
+2600,Calle 9987,Piso 5 Dto B,Mar del Plata,1,Buenos Aires,6543,AR
+2601,Calle 2613,,La Plata,1,Buenos Aires,9524,AR
+2602,Calle 153,,Córdoba,2,Córdoba,6409,AR
+2603,Calle 3532,,Córdoba,2,Córdoba,1359,AR
+2604,Calle 7676,,La Plata,1,Buenos Aires,8008,AR
+2605,Calle 7169,Piso 7 Dto A,CABA,1,Buenos Aires,6691,AR
+2606,Calle 929,Piso 3 Dto B,Mar del Plata,1,Buenos Aires,4450,AR
+2607,Calle 3782,Piso 12 Dto C,CABA,1,Buenos Aires,8989,AR
+2608,Calle 4438,,CABA,1,Buenos Aires,3081,AR
+2609,Calle 9528,,CABA,1,Buenos Aires,8441,AR
+2610,Calle 2170,Piso 5 Dto A,San Rafael,4,Mendoza,1958,AR
+2611,Calle 6777,Piso 5 Dto C,Rafaela,3,Santa Fe,2664,AR
+2612,Calle 8114,Piso 6 Dto B,Río Cuarto,2,Córdoba,2734,AR
+2613,Calle 6330,,Mendoza,4,Mendoza,9795,AR
+2614,Calle 7687,Piso 11 Dto A,Mar del Plata,1,Buenos Aires,9286,AR
+2615,Calle 9811,Piso 1 Dto C,La Plata,1,Buenos Aires,7312,AR
+2616,Calle 4174,,Santa Fe,3,Santa Fe,5053,AR
+2617,Calle 7396,,CABA,1,Buenos Aires,2633,AR
+2618,Calle 1954,,CABA,1,Buenos Aires,4861,AR
+2619,Calle 6815,,San Rafael,4,Mendoza,2211,AR
+2620,Calle 4774,,Santa Fe,3,Santa Fe,3474,AR
+2621,Calle 4126,,Mar del Plata,1,Buenos Aires,6215,AR
+2622,Calle 2876,Piso 3 Dto B,CABA,1,Buenos Aires,5170,AR
+2623,Calle 2979,Piso 3 Dto A,La Plata,1,Buenos Aires,5739,AR
+2624,Calle 2887,Piso 7 Dto C,La Plata,1,Buenos Aires,5270,AR
+2625,Calle 3200,,Rosario,3,Santa Fe,9840,AR
+2626,Calle 4824,,La Plata,1,Buenos Aires,5992,AR
+2627,Calle 8333,Piso 10 Dto C,Santa Fe,3,Santa Fe,1192,AR
+2628,Calle 170,Piso 6 Dto C,CABA,1,Buenos Aires,9314,AR
+2629,Calle 3105,Piso 11 Dto B,La Plata,1,Buenos Aires,5216,AR
+2630,Calle 3428,Piso 3 Dto C,Mar del Plata,1,Buenos Aires,7784,AR
+2631,Calle 8160,,La Plata,1,Buenos Aires,3621,AR
+2632,Calle 6855,Piso 2 Dto B,Córdoba,2,Córdoba,9892,AR
+2633,Calle 2193,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,3583,AR
+2634,Calle 1169,,Córdoba,2,Córdoba,1688,AR
+2635,Calle 9529,Piso 7 Dto A,Villa Carlos Paz,2,Córdoba,5003,AR
+2636,Calle 6695,Piso 3 Dto C,Córdoba,2,Córdoba,3947,AR
+2637,Calle 5493,,CABA,1,Buenos Aires,6564,AR
+2638,Calle 1753,,Mar del Plata,1,Buenos Aires,1714,AR
+2639,Calle 2573,,Córdoba,2,Córdoba,3896,AR
+2640,Calle 1250,Piso 6 Dto C,CABA,1,Buenos Aires,9378,AR
+2641,Calle 2518,Piso 7 Dto C,Río Cuarto,2,Córdoba,9778,AR
+2642,Calle 139,,Godoy Cruz,4,Mendoza,9697,AR
+2643,Calle 959,Piso 7 Dto B,Mar del Plata,1,Buenos Aires,3188,AR
+2644,Calle 2911,Piso 10 Dto C,La Plata,1,Buenos Aires,8245,AR
+2645,Calle 8533,Piso 6 Dto C,La Plata,1,Buenos Aires,7581,AR
+2646,Calle 5093,Piso 12 Dto A,Godoy Cruz,4,Mendoza,3118,AR
+2647,Calle 1832,Piso 10 Dto A,CABA,1,Buenos Aires,3372,AR
+2648,Calle 281,,CABA,1,Buenos Aires,1745,AR
+2649,Calle 8715,Piso 4 Dto A,La Plata,1,Buenos Aires,8956,AR
+2650,Calle 1834,Piso 2 Dto B,San Rafael,4,Mendoza,3513,AR
+2651,Calle 4550,,Río Cuarto,2,Córdoba,3635,AR
+2652,Calle 9004,,Córdoba,2,Córdoba,8077,AR
+2653,Calle 2755,,Mar del Plata,1,Buenos Aires,1088,AR
+2654,Calle 2643,,San Rafael,4,Mendoza,9912,AR
+2655,Calle 64,,CABA,1,Buenos Aires,6351,AR
+2656,Calle 3850,,Mar del Plata,1,Buenos Aires,6820,AR
+2657,Calle 2801,,Villa Carlos Paz,2,Córdoba,1977,AR
+2658,Calle 7082,Piso 3 Dto B,Mar del Plata,1,Buenos Aires,4998,AR
+2659,Calle 3389,Piso 9 Dto C,Mar del Plata,1,Buenos Aires,4339,AR
+2660,Calle 1365,,Santa Fe,3,Santa Fe,9885,AR
+2661,Calle 1717,Piso 4 Dto B,La Plata,1,Buenos Aires,2780,AR
+2662,Calle 2541,,Mendoza,4,Mendoza,4295,AR
+2663,Calle 1625,,Córdoba,2,Córdoba,6723,AR
+2664,Calle 1038,Piso 9 Dto B,Mar del Plata,1,Buenos Aires,1324,AR
+2665,Calle 8078,,Godoy Cruz,4,Mendoza,7922,AR
+2666,Calle 103,,Rosario,3,Santa Fe,5364,AR
+2667,Calle 2088,Piso 8 Dto C,Rafaela,3,Santa Fe,7713,AR
+2668,Calle 1814,Piso 6 Dto C,Mar del Plata,1,Buenos Aires,9736,AR
+2669,Calle 5734,,La Plata,1,Buenos Aires,1272,AR
+2670,Calle 6040,Piso 12 Dto B,Villa Carlos Paz,2,Córdoba,3798,AR
+2671,Calle 2267,,Córdoba,2,Córdoba,6047,AR
+2672,Calle 5627,Piso 6 Dto A,Córdoba,2,Córdoba,8129,AR
+2673,Calle 4881,,Rafaela,3,Santa Fe,8291,AR
+2674,Calle 6751,Piso 7 Dto C,Córdoba,2,Córdoba,2031,AR
+2675,Calle 7937,,Villa Carlos Paz,2,Córdoba,8492,AR
+2676,Calle 4177,Piso 9 Dto B,Villa Carlos Paz,2,Córdoba,7645,AR
+2677,Calle 3171,Piso 10 Dto C,Mar del Plata,1,Buenos Aires,2843,AR
+2678,Calle 7510,Piso 9 Dto C,La Plata,1,Buenos Aires,4379,AR
+2679,Calle 8737,Piso 2 Dto B,Río Cuarto,2,Córdoba,9744,AR
+2680,Calle 162,Piso 10 Dto A,La Plata,1,Buenos Aires,1162,AR
+2681,Calle 515,,Mendoza,4,Mendoza,8515,AR
+2682,Calle 9059,,La Plata,1,Buenos Aires,9918,AR
+2683,Calle 5875,,La Plata,1,Buenos Aires,1008,AR
+2684,Calle 9103,,Rafaela,3,Santa Fe,6404,AR
+2685,Calle 9029,Piso 4 Dto C,Mar del Plata,1,Buenos Aires,5291,AR
+2686,Calle 3876,Piso 1 Dto A,Villa Carlos Paz,2,Córdoba,7071,AR
+2687,Calle 753,Piso 11 Dto B,CABA,1,Buenos Aires,7607,AR
+2688,Calle 5831,,Río Cuarto,2,Córdoba,6856,AR
+2689,Calle 4278,Piso 10 Dto A,Mar del Plata,1,Buenos Aires,9869,AR
+2690,Calle 849,,Mar del Plata,1,Buenos Aires,2938,AR
+2691,Calle 573,,La Plata,1,Buenos Aires,8007,AR
+2692,Calle 780,Piso 4 Dto B,Rosario,3,Santa Fe,5964,AR
+2693,Calle 709,Piso 7 Dto B,Mar del Plata,1,Buenos Aires,6618,AR
+2694,Calle 6132,,Villa Carlos Paz,2,Córdoba,7190,AR
+2695,Calle 1915,Piso 6 Dto B,Rosario,3,Santa Fe,8826,AR
+2696,Calle 2921,,La Plata,1,Buenos Aires,1129,AR
+2697,Calle 4832,Piso 8 Dto A,Mar del Plata,1,Buenos Aires,9174,AR
+2698,Calle 4974,Piso 9 Dto B,La Plata,1,Buenos Aires,7100,AR
+2699,Calle 2798,,Villa Carlos Paz,2,Córdoba,6120,AR
+2700,Calle 2248,Piso 5 Dto B,CABA,1,Buenos Aires,4574,AR
+2701,Calle 924,,Mar del Plata,1,Buenos Aires,7461,AR
+2702,Calle 1114,,Córdoba,2,Córdoba,3345,AR
+2703,Calle 4436,,La Plata,1,Buenos Aires,6677,AR
+2704,Calle 5264,,Mar del Plata,1,Buenos Aires,3964,AR
+2705,Calle 2293,,La Plata,1,Buenos Aires,7653,AR
+2706,Calle 8016,,Godoy Cruz,4,Mendoza,8350,AR
+2707,Calle 8669,Piso 11 Dto A,CABA,1,Buenos Aires,6054,AR
+2708,Calle 5035,,La Plata,1,Buenos Aires,6998,AR
+2709,Calle 4876,Piso 8 Dto C,CABA,1,Buenos Aires,2837,AR
+2710,Calle 4920,Piso 12 Dto C,Mar del Plata,1,Buenos Aires,4267,AR
+2711,Calle 3329,,Mar del Plata,1,Buenos Aires,9000,AR
+2712,Calle 3199,,CABA,1,Buenos Aires,7902,AR
+2713,Calle 3294,,Rosario,3,Santa Fe,7997,AR
+2714,Calle 8765,,Mar del Plata,1,Buenos Aires,6777,AR
+2715,Calle 3217,Piso 1 Dto B,La Plata,1,Buenos Aires,4013,AR
+2716,Calle 2975,Piso 2 Dto B,Villa Carlos Paz,2,Córdoba,7694,AR
+2717,Calle 5365,Piso 12 Dto A,Rosario,3,Santa Fe,9386,AR
+2718,Calle 1760,Piso 6 Dto B,Mar del Plata,1,Buenos Aires,4080,AR
+2719,Calle 8136,Piso 2 Dto C,La Plata,1,Buenos Aires,8253,AR
+2720,Calle 6513,Piso 10 Dto A,San Rafael,4,Mendoza,4677,AR
+2721,Calle 9629,Piso 10 Dto C,Rosario,3,Santa Fe,7161,AR
+2722,Calle 863,,La Plata,1,Buenos Aires,1605,AR
+2723,Calle 9079,,Mar del Plata,1,Buenos Aires,1277,AR
+2724,Calle 5577,,San Rafael,4,Mendoza,9852,AR
+2725,Calle 4711,Piso 3 Dto C,Villa Carlos Paz,2,Córdoba,7387,AR
+2726,Calle 8466,Piso 5 Dto C,Río Cuarto,2,Córdoba,7073,AR
+2727,Calle 8033,Piso 6 Dto C,La Plata,1,Buenos Aires,9518,AR
+2728,Calle 1822,,San Rafael,4,Mendoza,3350,AR
+2729,Calle 7582,,Mar del Plata,1,Buenos Aires,3255,AR
+2730,Calle 9969,Piso 8 Dto A,CABA,1,Buenos Aires,1235,AR
+2731,Calle 4903,,Rafaela,3,Santa Fe,5356,AR
+2732,Calle 8571,,CABA,1,Buenos Aires,2359,AR
+2733,Calle 487,Piso 4 Dto C,Río Cuarto,2,Córdoba,8117,AR
+2734,Calle 9472,Piso 4 Dto C,CABA,1,Buenos Aires,9827,AR
+2735,Calle 9445,,La Plata,1,Buenos Aires,2726,AR
+2736,Calle 6069,Piso 6 Dto A,CABA,1,Buenos Aires,7929,AR
+2737,Calle 1466,Piso 11 Dto C,La Plata,1,Buenos Aires,9267,AR
+2738,Calle 7614,Piso 12 Dto A,Rafaela,3,Santa Fe,4197,AR
+2739,Calle 1992,,Córdoba,2,Córdoba,2307,AR
+2740,Calle 2059,Piso 10 Dto B,Mar del Plata,1,Buenos Aires,3202,AR
+2741,Calle 6990,,CABA,1,Buenos Aires,9701,AR
+2742,Calle 8230,,Rosario,3,Santa Fe,5643,AR
+2743,Calle 4905,Piso 4 Dto C,CABA,1,Buenos Aires,4384,AR
+2744,Calle 8699,Piso 8 Dto A,La Plata,1,Buenos Aires,7587,AR
+2745,Calle 3556,Piso 12 Dto B,Mendoza,4,Mendoza,5019,AR
+2746,Calle 989,Piso 12 Dto A,Mar del Plata,1,Buenos Aires,9921,AR
+2747,Calle 1481,Piso 6 Dto C,Godoy Cruz,4,Mendoza,8378,AR
+2748,Calle 6322,Piso 7 Dto A,La Plata,1,Buenos Aires,4046,AR
+2749,Calle 1660,,CABA,1,Buenos Aires,7437,AR
+2750,Calle 3932,,Río Cuarto,2,Córdoba,8486,AR
+2751,Calle 9741,Piso 7 Dto C,Rafaela,3,Santa Fe,7715,AR
+2752,Calle 4834,,CABA,1,Buenos Aires,7188,AR
+2753,Calle 6754,,Mar del Plata,1,Buenos Aires,8566,AR
+2754,Calle 5485,Piso 9 Dto C,Córdoba,2,Córdoba,7710,AR
+2755,Calle 2039,,La Plata,1,Buenos Aires,3217,AR
+2756,Calle 4327,Piso 3 Dto B,Mendoza,4,Mendoza,4416,AR
+2757,Calle 1679,Piso 5 Dto C,Mar del Plata,1,Buenos Aires,5433,AR
+2758,Calle 3767,,Mar del Plata,1,Buenos Aires,1354,AR
+2759,Calle 6855,Piso 8 Dto B,Córdoba,2,Córdoba,1058,AR
+2760,Calle 4559,Piso 10 Dto C,Mar del Plata,1,Buenos Aires,5417,AR
+2761,Calle 1834,Piso 12 Dto A,Santa Fe,3,Santa Fe,9808,AR
+2762,Calle 2020,,La Plata,1,Buenos Aires,1348,AR
+2763,Calle 1964,Piso 2 Dto B,Rafaela,3,Santa Fe,1575,AR
+2764,Calle 9678,,CABA,1,Buenos Aires,9310,AR
+2765,Calle 7262,Piso 11 Dto C,La Plata,1,Buenos Aires,9388,AR
+2766,Calle 6631,Piso 5 Dto B,Córdoba,2,Córdoba,1228,AR
+2767,Calle 139,,Mar del Plata,1,Buenos Aires,6719,AR
+2768,Calle 6868,,Mar del Plata,1,Buenos Aires,7486,AR
+2769,Calle 648,,CABA,1,Buenos Aires,4811,AR
+2770,Calle 5835,,Río Cuarto,2,Córdoba,1119,AR
+2771,Calle 323,Piso 1 Dto C,Rosario,3,Santa Fe,5458,AR
+2772,Calle 4436,,Córdoba,2,Córdoba,1974,AR
+2773,Calle 1619,,Villa Carlos Paz,2,Córdoba,5539,AR
+2774,Calle 9624,Piso 12 Dto C,Mendoza,4,Mendoza,3474,AR
+2775,Calle 6667,,San Rafael,4,Mendoza,7114,AR
+2776,Calle 2362,,Godoy Cruz,4,Mendoza,5342,AR
+2777,Calle 1768,,CABA,1,Buenos Aires,1580,AR
+2778,Calle 7072,Piso 2 Dto C,Mar del Plata,1,Buenos Aires,4524,AR
+2779,Calle 8949,,CABA,1,Buenos Aires,1918,AR
+2780,Calle 9742,Piso 6 Dto A,Rosario,3,Santa Fe,7784,AR
+2781,Calle 3221,,La Plata,1,Buenos Aires,1163,AR
+2782,Calle 5129,,Mar del Plata,1,Buenos Aires,9108,AR
+2783,Calle 202,,Mar del Plata,1,Buenos Aires,8560,AR
+2784,Calle 7397,,CABA,1,Buenos Aires,2788,AR
+2785,Calle 9280,Piso 1 Dto C,La Plata,1,Buenos Aires,2238,AR
+2786,Calle 1966,Piso 1 Dto B,CABA,1,Buenos Aires,5576,AR
+2787,Calle 1818,,Santa Fe,3,Santa Fe,8765,AR
+2788,Calle 4013,,La Plata,1,Buenos Aires,4695,AR
+2789,Calle 3010,,CABA,1,Buenos Aires,7509,AR
+2790,Calle 3518,,CABA,1,Buenos Aires,3325,AR
+2791,Calle 7309,Piso 8 Dto A,Villa Carlos Paz,2,Córdoba,1370,AR
+2792,Calle 5786,,Villa Carlos Paz,2,Córdoba,3138,AR
+2793,Calle 7629,,Mar del Plata,1,Buenos Aires,3194,AR
+2794,Calle 5884,Piso 10 Dto C,San Rafael,4,Mendoza,2834,AR
+2795,Calle 1742,,CABA,1,Buenos Aires,6237,AR
+2796,Calle 2798,Piso 7 Dto C,Córdoba,2,Córdoba,5678,AR
+2797,Calle 7848,Piso 9 Dto B,Santa Fe,3,Santa Fe,3079,AR
+2798,Calle 159,Piso 9 Dto C,CABA,1,Buenos Aires,6111,AR
+2799,Calle 3781,,Mar del Plata,1,Buenos Aires,2794,AR
+2800,Calle 9294,Piso 3 Dto A,Mar del Plata,1,Buenos Aires,5927,AR
+2801,Calle 8669,,Mar del Plata,1,Buenos Aires,4233,AR
+2802,Calle 8853,Piso 5 Dto C,Godoy Cruz,4,Mendoza,5430,AR
+2803,Calle 8261,,Mendoza,4,Mendoza,9647,AR
+2804,Calle 3072,,La Plata,1,Buenos Aires,3755,AR
+2805,Calle 8056,,Mendoza,4,Mendoza,1238,AR
+2806,Calle 3411,,Mendoza,4,Mendoza,1337,AR
+2807,Calle 4075,Piso 5 Dto C,La Plata,1,Buenos Aires,8429,AR
+2808,Calle 80,,Río Cuarto,2,Córdoba,2987,AR
+2809,Calle 380,Piso 10 Dto A,CABA,1,Buenos Aires,3494,AR
+2810,Calle 3303,Piso 8 Dto C,La Plata,1,Buenos Aires,1732,AR
+2811,Calle 5519,,Mar del Plata,1,Buenos Aires,9972,AR
+2812,Calle 6366,,La Plata,1,Buenos Aires,1377,AR
+2813,Calle 4081,,CABA,1,Buenos Aires,5002,AR
+2814,Calle 8576,,CABA,1,Buenos Aires,7051,AR
+2815,Calle 9394,,CABA,1,Buenos Aires,4098,AR
+2816,Calle 198,,Rafaela,3,Santa Fe,6307,AR
+2817,Calle 492,Piso 8 Dto B,La Plata,1,Buenos Aires,5102,AR
+2818,Calle 4479,Piso 7 Dto B,Río Cuarto,2,Córdoba,3429,AR
+2819,Calle 2261,,Mar del Plata,1,Buenos Aires,3281,AR
+2820,Calle 8307,,San Rafael,4,Mendoza,9410,AR
+2821,Calle 19,,Villa Carlos Paz,2,Córdoba,1551,AR
+2822,Calle 8141,Piso 5 Dto C,CABA,1,Buenos Aires,3227,AR
+2823,Calle 3157,,La Plata,1,Buenos Aires,4641,AR
+2824,Calle 138,,Mendoza,4,Mendoza,2551,AR
+2825,Calle 5440,,San Rafael,4,Mendoza,7859,AR
+2826,Calle 5364,,Río Cuarto,2,Córdoba,5699,AR
+2827,Calle 997,,CABA,1,Buenos Aires,4589,AR
+2828,Calle 386,,La Plata,1,Buenos Aires,4969,AR
+2829,Calle 486,,CABA,1,Buenos Aires,4285,AR
+2830,Calle 7000,,Río Cuarto,2,Córdoba,3049,AR
+2831,Calle 8723,,Villa Carlos Paz,2,Córdoba,9155,AR
+2832,Calle 3677,Piso 12 Dto B,La Plata,1,Buenos Aires,7255,AR
+2833,Calle 2912,Piso 3 Dto B,Godoy Cruz,4,Mendoza,4584,AR
+2834,Calle 1755,Piso 10 Dto A,CABA,1,Buenos Aires,4876,AR
+2835,Calle 3359,Piso 12 Dto B,Mar del Plata,1,Buenos Aires,3439,AR
+2836,Calle 6912,Piso 2 Dto B,Mar del Plata,1,Buenos Aires,9761,AR
+2837,Calle 1664,,La Plata,1,Buenos Aires,8517,AR
+2838,Calle 8346,Piso 7 Dto B,CABA,1,Buenos Aires,6752,AR
+2839,Calle 4523,Piso 2 Dto C,Mendoza,4,Mendoza,7697,AR
+2840,Calle 4808,,La Plata,1,Buenos Aires,3615,AR
+2841,Calle 247,,Villa Carlos Paz,2,Córdoba,9360,AR
+2842,Calle 4938,,La Plata,1,Buenos Aires,6131,AR
+2843,Calle 879,Piso 5 Dto C,Santa Fe,3,Santa Fe,7199,AR
+2844,Calle 2471,Piso 2 Dto B,CABA,1,Buenos Aires,5141,AR
+2845,Calle 9419,Piso 3 Dto A,La Plata,1,Buenos Aires,5528,AR
+2846,Calle 2028,Piso 2 Dto C,Córdoba,2,Córdoba,4204,AR
+2847,Calle 2405,,Río Cuarto,2,Córdoba,8029,AR
+2848,Calle 9614,,La Plata,1,Buenos Aires,2061,AR
+2849,Calle 6878,Piso 9 Dto A,Mar del Plata,1,Buenos Aires,7638,AR
+2850,Calle 5691,,Rosario,3,Santa Fe,3977,AR
+2851,Calle 5096,Piso 4 Dto C,La Plata,1,Buenos Aires,2347,AR
+2852,Calle 1941,,CABA,1,Buenos Aires,6094,AR
+2853,Calle 8138,Piso 3 Dto A,CABA,1,Buenos Aires,1866,AR
+2854,Calle 3304,Piso 2 Dto C,CABA,1,Buenos Aires,1810,AR
+2855,Calle 532,Piso 1 Dto A,La Plata,1,Buenos Aires,8779,AR
+2856,Calle 8133,Piso 12 Dto A,Mar del Plata,1,Buenos Aires,7798,AR
+2857,Calle 6357,,Rosario,3,Santa Fe,9312,AR
+2858,Calle 4668,Piso 11 Dto B,Mar del Plata,1,Buenos Aires,6974,AR
+2859,Calle 3376,,Córdoba,2,Córdoba,6532,AR
+2860,Calle 371,Piso 8 Dto A,CABA,1,Buenos Aires,9562,AR
+2861,Calle 9810,,La Plata,1,Buenos Aires,8666,AR
+2862,Calle 6992,,Mendoza,4,Mendoza,8700,AR
+2863,Calle 9761,Piso 10 Dto C,CABA,1,Buenos Aires,5117,AR
+2864,Calle 8774,Piso 4 Dto B,CABA,1,Buenos Aires,4714,AR
+2865,Calle 9170,,La Plata,1,Buenos Aires,5698,AR
+2866,Calle 8996,Piso 6 Dto B,Mar del Plata,1,Buenos Aires,9200,AR
+2867,Calle 4209,,Mar del Plata,1,Buenos Aires,3211,AR
+2868,Calle 2659,,Rosario,3,Santa Fe,7298,AR
+2869,Calle 4253,Piso 7 Dto C,Villa Carlos Paz,2,Córdoba,1326,AR
+2870,Calle 5842,,Rafaela,3,Santa Fe,5028,AR
+2871,Calle 1466,,Córdoba,2,Córdoba,7661,AR
+2872,Calle 1192,,Santa Fe,3,Santa Fe,4564,AR
+2873,Calle 8564,Piso 5 Dto A,Mar del Plata,1,Buenos Aires,4471,AR
+2874,Calle 9469,Piso 3 Dto B,Córdoba,2,Córdoba,9247,AR
+2875,Calle 4939,Piso 2 Dto C,CABA,1,Buenos Aires,2222,AR
+2876,Calle 768,Piso 3 Dto A,CABA,1,Buenos Aires,2167,AR
+2877,Calle 9013,Piso 7 Dto C,La Plata,1,Buenos Aires,7623,AR
+2878,Calle 5407,,Mar del Plata,1,Buenos Aires,2531,AR
+2879,Calle 4525,Piso 8 Dto B,CABA,1,Buenos Aires,3547,AR
+2880,Calle 6955,Piso 2 Dto B,Mar del Plata,1,Buenos Aires,5043,AR
+2881,Calle 1822,,Mar del Plata,1,Buenos Aires,8357,AR
+2882,Calle 2196,Piso 4 Dto C,CABA,1,Buenos Aires,9155,AR
+2883,Calle 4254,,La Plata,1,Buenos Aires,8567,AR
+2884,Calle 310,Piso 3 Dto B,La Plata,1,Buenos Aires,8129,AR
+2885,Calle 7579,,Santa Fe,3,Santa Fe,6867,AR
+2886,Calle 7548,Piso 4 Dto A,CABA,1,Buenos Aires,3007,AR
+2887,Calle 7876,,La Plata,1,Buenos Aires,8883,AR
+2888,Calle 5211,,La Plata,1,Buenos Aires,4042,AR
+2889,Calle 4944,Piso 9 Dto B,CABA,1,Buenos Aires,3966,AR
+2890,Calle 2831,Piso 6 Dto B,Mar del Plata,1,Buenos Aires,9652,AR
+2891,Calle 3047,Piso 9 Dto C,Godoy Cruz,4,Mendoza,1748,AR
+2892,Calle 2230,Piso 1 Dto B,La Plata,1,Buenos Aires,4389,AR
+2893,Calle 3384,Piso 6 Dto A,CABA,1,Buenos Aires,8796,AR
+2894,Calle 9892,Piso 3 Dto A,Villa Carlos Paz,2,Córdoba,9256,AR
+2895,Calle 495,Piso 5 Dto C,Villa Carlos Paz,2,Córdoba,4829,AR
+2896,Calle 6071,,La Plata,1,Buenos Aires,6682,AR
+2897,Calle 2373,Piso 8 Dto A,Río Cuarto,2,Córdoba,2373,AR
+2898,Calle 7030,Piso 5 Dto A,Villa Carlos Paz,2,Córdoba,4143,AR
+2899,Calle 7761,Piso 9 Dto C,CABA,1,Buenos Aires,9188,AR
+2900,Calle 7149,,CABA,1,Buenos Aires,4952,AR
+2901,Calle 7813,,CABA,1,Buenos Aires,8461,AR
+2902,Calle 2885,,Mar del Plata,1,Buenos Aires,8899,AR
+2903,Calle 7616,Piso 6 Dto C,CABA,1,Buenos Aires,7978,AR
+2904,Calle 6930,Piso 3 Dto A,Mendoza,4,Mendoza,3582,AR
+2905,Calle 4395,,La Plata,1,Buenos Aires,1530,AR
+2906,Calle 6961,,CABA,1,Buenos Aires,3935,AR
+2907,Calle 6771,,CABA,1,Buenos Aires,2567,AR
+2908,Calle 4402,,La Plata,1,Buenos Aires,7919,AR
+2909,Calle 7383,,CABA,1,Buenos Aires,2317,AR
+2910,Calle 645,,Godoy Cruz,4,Mendoza,1539,AR
+2911,Calle 3027,,Córdoba,2,Córdoba,5158,AR
+2912,Calle 1854,Piso 8 Dto A,CABA,1,Buenos Aires,8267,AR
+2913,Calle 88,,San Rafael,4,Mendoza,7515,AR
+2914,Calle 5732,Piso 10 Dto C,CABA,1,Buenos Aires,2781,AR
+2915,Calle 2085,,Córdoba,2,Córdoba,9081,AR
+2916,Calle 2623,Piso 10 Dto A,CABA,1,Buenos Aires,4640,AR
+2917,Calle 9228,,Villa Carlos Paz,2,Córdoba,8052,AR
+2918,Calle 5426,,Mar del Plata,1,Buenos Aires,5976,AR
+2919,Calle 8016,Piso 5 Dto C,San Rafael,4,Mendoza,1383,AR
+2920,Calle 8948,,Río Cuarto,2,Córdoba,7859,AR
+2921,Calle 356,,Godoy Cruz,4,Mendoza,2692,AR
+2922,Calle 9749,,Mendoza,4,Mendoza,2273,AR
+2923,Calle 3903,Piso 10 Dto A,Santa Fe,3,Santa Fe,5244,AR
+2924,Calle 9582,,Córdoba,2,Córdoba,6709,AR
+2925,Calle 108,Piso 3 Dto A,CABA,1,Buenos Aires,2101,AR
+2926,Calle 5430,,La Plata,1,Buenos Aires,4706,AR
+2927,Calle 548,Piso 4 Dto B,Mar del Plata,1,Buenos Aires,4410,AR
+2928,Calle 3158,,Rosario,3,Santa Fe,7457,AR
+2929,Calle 119,Piso 9 Dto A,Córdoba,2,Córdoba,9820,AR
+2930,Calle 4428,,La Plata,1,Buenos Aires,8279,AR
+2931,Calle 5130,,Santa Fe,3,Santa Fe,1924,AR
+2932,Calle 6578,Piso 4 Dto A,La Plata,1,Buenos Aires,8533,AR
+2933,Calle 2623,Piso 2 Dto A,Villa Carlos Paz,2,Córdoba,3986,AR
+2934,Calle 3329,,Río Cuarto,2,Córdoba,3169,AR
+2935,Calle 3754,Piso 2 Dto B,CABA,1,Buenos Aires,4803,AR
+2936,Calle 4491,,La Plata,1,Buenos Aires,9334,AR
+2937,Calle 2325,Piso 12 Dto A,CABA,1,Buenos Aires,2973,AR
+2938,Calle 434,,Rosario,3,Santa Fe,9733,AR
+2939,Calle 4432,,CABA,1,Buenos Aires,2734,AR
+2940,Calle 5438,Piso 6 Dto A,CABA,1,Buenos Aires,2541,AR
+2941,Calle 1645,,CABA,1,Buenos Aires,5907,AR
+2942,Calle 8478,Piso 8 Dto B,Córdoba,2,Córdoba,3288,AR
+2943,Calle 6134,Piso 12 Dto C,CABA,1,Buenos Aires,3151,AR
+2944,Calle 8934,Piso 4 Dto C,San Rafael,4,Mendoza,6264,AR
+2945,Calle 2955,Piso 12 Dto A,Rafaela,3,Santa Fe,9892,AR
+2946,Calle 8073,,La Plata,1,Buenos Aires,4423,AR
+2947,Calle 9660,Piso 9 Dto B,Rafaela,3,Santa Fe,2560,AR
+2948,Calle 2719,Piso 6 Dto B,Rosario,3,Santa Fe,8099,AR
+2949,Calle 5465,Piso 11 Dto C,Mar del Plata,1,Buenos Aires,9639,AR
+2950,Calle 8872,Piso 3 Dto B,Mar del Plata,1,Buenos Aires,8828,AR
+2951,Calle 295,Piso 12 Dto C,CABA,1,Buenos Aires,7519,AR
+2952,Calle 2758,,Mar del Plata,1,Buenos Aires,6224,AR
+2953,Calle 6420,,Mar del Plata,1,Buenos Aires,3828,AR
+2954,Calle 1742,Piso 9 Dto A,Rosario,3,Santa Fe,7647,AR
+2955,Calle 7328,Piso 3 Dto C,Santa Fe,3,Santa Fe,4091,AR
+2956,Calle 209,,Rafaela,3,Santa Fe,5025,AR
+2957,Calle 9395,,Mar del Plata,1,Buenos Aires,1220,AR
+2958,Calle 7265,Piso 1 Dto A,Mar del Plata,1,Buenos Aires,7529,AR
+2959,Calle 863,Piso 10 Dto B,La Plata,1,Buenos Aires,4181,AR
+2960,Calle 645,,La Plata,1,Buenos Aires,2226,AR
+2961,Calle 9420,Piso 4 Dto A,Córdoba,2,Córdoba,4289,AR
+2962,Calle 2627,,Córdoba,2,Córdoba,2422,AR
+2963,Calle 767,,CABA,1,Buenos Aires,8559,AR
+2964,Calle 6554,,Villa Carlos Paz,2,Córdoba,7848,AR
+2965,Calle 2127,,La Plata,1,Buenos Aires,9613,AR
+2966,Calle 5335,,Mar del Plata,1,Buenos Aires,4274,AR
+2967,Calle 6974,,La Plata,1,Buenos Aires,2823,AR
+2968,Calle 6724,Piso 2 Dto A,Mendoza,4,Mendoza,5638,AR
+2969,Calle 2249,,Godoy Cruz,4,Mendoza,7374,AR
+2970,Calle 1906,Piso 12 Dto A,La Plata,1,Buenos Aires,3927,AR
+2971,Calle 8575,Piso 6 Dto B,La Plata,1,Buenos Aires,1518,AR
+2972,Calle 4113,,Rosario,3,Santa Fe,1737,AR
+2973,Calle 7756,,Rosario,3,Santa Fe,9382,AR
+2974,Calle 8101,,CABA,1,Buenos Aires,3825,AR
+2975,Calle 2764,,Córdoba,2,Córdoba,8295,AR
+2976,Calle 1275,,La Plata,1,Buenos Aires,5401,AR
+2977,Calle 3218,Piso 9 Dto B,La Plata,1,Buenos Aires,8350,AR
+2978,Calle 8783,,La Plata,1,Buenos Aires,7201,AR
+2979,Calle 680,Piso 5 Dto C,Mar del Plata,1,Buenos Aires,3833,AR
+2980,Calle 4362,,Mar del Plata,1,Buenos Aires,1052,AR
+2981,Calle 5128,Piso 8 Dto C,La Plata,1,Buenos Aires,3857,AR
+2982,Calle 3842,,La Plata,1,Buenos Aires,1532,AR
+2983,Calle 4291,,CABA,1,Buenos Aires,5992,AR
+2984,Calle 6727,Piso 12 Dto A,Rafaela,3,Santa Fe,4639,AR
+2985,Calle 4292,Piso 5 Dto A,Mar del Plata,1,Buenos Aires,1839,AR
+2986,Calle 8884,Piso 8 Dto C,Córdoba,2,Córdoba,7809,AR
+2987,Calle 2153,,Santa Fe,3,Santa Fe,7621,AR
+2988,Calle 6026,,Mendoza,4,Mendoza,9510,AR
+2989,Calle 9977,,Rafaela,3,Santa Fe,3443,AR
+2990,Calle 2736,,Mar del Plata,1,Buenos Aires,9470,AR
+2991,Calle 7446,Piso 11 Dto C,Mar del Plata,1,Buenos Aires,1334,AR
+2992,Calle 6749,Piso 7 Dto A,Godoy Cruz,4,Mendoza,1598,AR
+2993,Calle 4375,,Villa Carlos Paz,2,Córdoba,4461,AR
+2994,Calle 7210,,Mar del Plata,1,Buenos Aires,7628,AR
+2995,Calle 8979,,Córdoba,2,Córdoba,7891,AR
+2996,Calle 9415,,Santa Fe,3,Santa Fe,1264,AR
+2997,Calle 8308,,Mar del Plata,1,Buenos Aires,9231,AR
+2998,Calle 6345,Piso 8 Dto A,Córdoba,2,Córdoba,4348,AR
+2999,Calle 8439,Piso 12 Dto C,Córdoba,2,Córdoba,7550,AR
+3000,Calle 5287,Piso 1 Dto C,Villa Carlos Paz,2,Córdoba,3261,AR
+3001,Calle 7462,Piso 1 Dto B,Rafaela,3,Santa Fe,2273,AR
+3002,Calle 7255,Piso 1 Dto B,Rafaela,3,Santa Fe,4374,AR
+3003,Calle 6590,,Rosario,3,Santa Fe,8775,AR
+3004,Calle 9525,,San Rafael,4,Mendoza,9790,AR
+3005,Calle 2522,Piso 7 Dto C,Mar del Plata,1,Buenos Aires,4343,AR
+3006,Calle 100,Piso 9 Dto B,La Plata,1,Buenos Aires,5299,AR
+3007,Calle 2585,,La Plata,1,Buenos Aires,2427,AR
+3008,Calle 9856,,Godoy Cruz,4,Mendoza,5624,AR
+3009,Calle 6858,Piso 8 Dto A,Rafaela,3,Santa Fe,3943,AR
+3010,Calle 7196,Piso 4 Dto A,Río Cuarto,2,Córdoba,5234,AR
+3011,Calle 3802,Piso 9 Dto C,La Plata,1,Buenos Aires,5019,AR
+3012,Calle 1235,,Río Cuarto,2,Córdoba,7787,AR
+3013,Calle 6331,Piso 11 Dto B,CABA,1,Buenos Aires,4633,AR
+3014,Calle 8646,,Mar del Plata,1,Buenos Aires,7219,AR
+3015,Calle 2326,,Rafaela,3,Santa Fe,6383,AR
+3016,Calle 760,,La Plata,1,Buenos Aires,3557,AR
+3017,Calle 7312,,Córdoba,2,Córdoba,9407,AR
+3018,Calle 1075,Piso 8 Dto A,Mar del Plata,1,Buenos Aires,3461,AR
+3019,Calle 9016,Piso 3 Dto C,La Plata,1,Buenos Aires,5901,AR
+3020,Calle 316,Piso 8 Dto A,CABA,1,Buenos Aires,4012,AR
+3021,Calle 1234,,Córdoba,2,Córdoba,7930,AR
+3022,Calle 1806,Piso 3 Dto B,Villa Carlos Paz,2,Córdoba,7421,AR
+3023,Calle 8690,,CABA,1,Buenos Aires,2966,AR
+3024,Calle 6903,Piso 4 Dto C,CABA,1,Buenos Aires,5597,AR
+3025,Calle 6251,,Mar del Plata,1,Buenos Aires,5146,AR
+3026,Calle 7939,,San Rafael,4,Mendoza,1179,AR
+3027,Calle 2337,Piso 5 Dto A,Rafaela,3,Santa Fe,4521,AR
+3028,Calle 1475,Piso 3 Dto A,Río Cuarto,2,Córdoba,6967,AR
+3029,Calle 4363,Piso 10 Dto B,Mar del Plata,1,Buenos Aires,1963,AR
+3030,Calle 7355,Piso 1 Dto A,Río Cuarto,2,Córdoba,4969,AR
+3031,Calle 5052,Piso 1 Dto B,Mar del Plata,1,Buenos Aires,4642,AR
+3032,Calle 8730,Piso 8 Dto B,CABA,1,Buenos Aires,1266,AR
+3033,Calle 4457,,Rafaela,3,Santa Fe,2947,AR
+3034,Calle 7402,Piso 8 Dto A,Rafaela,3,Santa Fe,5529,AR
+3035,Calle 2084,,CABA,1,Buenos Aires,7244,AR
+3036,Calle 8667,,Rafaela,3,Santa Fe,3119,AR
+3037,Calle 7940,,Río Cuarto,2,Córdoba,1827,AR
+3038,Calle 6340,Piso 3 Dto A,Mar del Plata,1,Buenos Aires,3110,AR
+3039,Calle 1191,Piso 8 Dto C,La Plata,1,Buenos Aires,3898,AR
+3040,Calle 9999,,Santa Fe,3,Santa Fe,9981,AR
+3041,Calle 7823,Piso 7 Dto C,Mar del Plata,1,Buenos Aires,9117,AR
+3042,Calle 7108,,Villa Carlos Paz,2,Córdoba,5047,AR
+3043,Calle 8574,,CABA,1,Buenos Aires,2567,AR
+3044,Calle 3107,,Mar del Plata,1,Buenos Aires,3065,AR
+3045,Calle 1090,,CABA,1,Buenos Aires,8641,AR
+3046,Calle 1104,,Mar del Plata,1,Buenos Aires,1553,AR
+3047,Calle 1159,,Río Cuarto,2,Córdoba,1273,AR
+3048,Calle 8122,Piso 6 Dto A,Mar del Plata,1,Buenos Aires,3169,AR
+3049,Calle 7124,Piso 11 Dto B,Río Cuarto,2,Córdoba,5868,AR
+3050,Calle 2219,Piso 5 Dto A,Río Cuarto,2,Córdoba,3479,AR
+3051,Calle 5519,Piso 4 Dto A,CABA,1,Buenos Aires,7989,AR
+3052,Calle 4277,Piso 9 Dto C,Córdoba,2,Córdoba,3049,AR
+3053,Calle 6063,,Mendoza,4,Mendoza,1070,AR
+3054,Calle 4031,Piso 11 Dto A,La Plata,1,Buenos Aires,7692,AR
+3055,Calle 7056,Piso 10 Dto B,Mar del Plata,1,Buenos Aires,3505,AR
+3056,Calle 5073,Piso 4 Dto B,Rosario,3,Santa Fe,5220,AR
+3057,Calle 3696,,Villa Carlos Paz,2,Córdoba,8899,AR
+3058,Calle 209,Piso 1 Dto B,Rosario,3,Santa Fe,9124,AR
+3059,Calle 8132,,Córdoba,2,Córdoba,7865,AR
+3060,Calle 2939,Piso 1 Dto A,Rafaela,3,Santa Fe,2162,AR
+3061,Calle 3441,,CABA,1,Buenos Aires,5886,AR
+3062,Calle 4507,,Santa Fe,3,Santa Fe,5438,AR
+3063,Calle 8758,,La Plata,1,Buenos Aires,6164,AR
+3064,Calle 7708,,Mendoza,4,Mendoza,2168,AR
+3065,Calle 9132,Piso 6 Dto A,Río Cuarto,2,Córdoba,4914,AR
+3066,Calle 5688,Piso 2 Dto B,Rafaela,3,Santa Fe,7283,AR
+3067,Calle 9913,Piso 2 Dto C,Mendoza,4,Mendoza,9337,AR
+3068,Calle 1296,,Mar del Plata,1,Buenos Aires,6258,AR
+3069,Calle 6430,,Mar del Plata,1,Buenos Aires,2916,AR
+3070,Calle 7747,Piso 1 Dto A,La Plata,1,Buenos Aires,1185,AR
+3071,Calle 5104,,Rosario,3,Santa Fe,9840,AR
+3072,Calle 9900,,Mendoza,4,Mendoza,3919,AR
+3073,Calle 3425,Piso 10 Dto B,Rosario,3,Santa Fe,3626,AR
+3074,Calle 8913,Piso 9 Dto B,La Plata,1,Buenos Aires,1344,AR
+3075,Calle 2484,,CABA,1,Buenos Aires,6536,AR
+3076,Calle 4629,,Godoy Cruz,4,Mendoza,4337,AR
+3077,Calle 2166,,La Plata,1,Buenos Aires,8674,AR
+3078,Calle 8244,Piso 9 Dto A,CABA,1,Buenos Aires,8985,AR
+3079,Calle 9149,,Mar del Plata,1,Buenos Aires,1672,AR
+3080,Calle 1519,Piso 9 Dto C,Río Cuarto,2,Córdoba,4643,AR
+3081,Calle 2380,,Mar del Plata,1,Buenos Aires,2576,AR
+3082,Calle 5547,Piso 9 Dto A,Mar del Plata,1,Buenos Aires,3670,AR
+3083,Calle 1955,Piso 2 Dto C,Mar del Plata,1,Buenos Aires,1529,AR
+3084,Calle 2604,Piso 3 Dto A,San Rafael,4,Mendoza,4700,AR
+3085,Calle 7822,Piso 5 Dto B,Villa Carlos Paz,2,Córdoba,5854,AR
+3086,Calle 8714,,Córdoba,2,Córdoba,4222,AR
+3087,Calle 4740,,CABA,1,Buenos Aires,6553,AR
+3088,Calle 7962,,Villa Carlos Paz,2,Córdoba,7675,AR
+3089,Calle 9441,Piso 7 Dto A,Mar del Plata,1,Buenos Aires,4802,AR
+3090,Calle 1208,Piso 12 Dto C,La Plata,1,Buenos Aires,1269,AR
+3091,Calle 7347,Piso 1 Dto A,Mar del Plata,1,Buenos Aires,9469,AR
+3092,Calle 6445,Piso 4 Dto A,CABA,1,Buenos Aires,7484,AR
+3093,Calle 6078,,CABA,1,Buenos Aires,8027,AR
+3094,Calle 8930,,Rafaela,3,Santa Fe,4544,AR
+3095,Calle 962,,Córdoba,2,Córdoba,3345,AR
+3096,Calle 4298,,Mar del Plata,1,Buenos Aires,8537,AR
+3097,Calle 9789,,Río Cuarto,2,Córdoba,4058,AR
+3098,Calle 8740,,Mar del Plata,1,Buenos Aires,8593,AR
+3099,Calle 4838,Piso 11 Dto B,Godoy Cruz,4,Mendoza,5478,AR
+3100,Calle 9124,Piso 10 Dto B,La Plata,1,Buenos Aires,6396,AR
+3101,Calle 9134,,CABA,1,Buenos Aires,9978,AR
+3102,Calle 8674,Piso 4 Dto B,La Plata,1,Buenos Aires,6409,AR
+3103,Calle 2751,Piso 10 Dto C,Mendoza,4,Mendoza,3447,AR
+3104,Calle 858,Piso 6 Dto C,La Plata,1,Buenos Aires,7224,AR
+3105,Calle 1681,Piso 7 Dto A,La Plata,1,Buenos Aires,9876,AR
+3106,Calle 4856,,CABA,1,Buenos Aires,7907,AR
+3107,Calle 5789,Piso 2 Dto B,CABA,1,Buenos Aires,1445,AR
+3108,Calle 72,,CABA,1,Buenos Aires,2477,AR
+3109,Calle 5178,Piso 7 Dto A,CABA,1,Buenos Aires,9627,AR
+3110,Calle 2113,Piso 3 Dto B,Villa Carlos Paz,2,Córdoba,2229,AR
+3111,Calle 5040,Piso 8 Dto C,La Plata,1,Buenos Aires,1927,AR
+3112,Calle 5987,Piso 4 Dto A,San Rafael,4,Mendoza,8660,AR
+3113,Calle 2018,,La Plata,1,Buenos Aires,9596,AR
+3114,Calle 4921,,Mar del Plata,1,Buenos Aires,8039,AR
+3115,Calle 9073,Piso 4 Dto A,CABA,1,Buenos Aires,9108,AR
+3116,Calle 7537,,Río Cuarto,2,Córdoba,7131,AR
+3117,Calle 3980,Piso 12 Dto C,CABA,1,Buenos Aires,8766,AR
+3118,Calle 98,,CABA,1,Buenos Aires,3686,AR
+3119,Calle 8010,,Villa Carlos Paz,2,Córdoba,3353,AR
+3120,Calle 2184,Piso 4 Dto C,Mar del Plata,1,Buenos Aires,5736,AR
+3121,Calle 2186,,Mar del Plata,1,Buenos Aires,7468,AR
+3122,Calle 3062,Piso 5 Dto A,Mar del Plata,1,Buenos Aires,8756,AR
+3123,Calle 2613,Piso 4 Dto C,Río Cuarto,2,Córdoba,3305,AR
+3124,Calle 2988,,Mar del Plata,1,Buenos Aires,5118,AR
+3125,Calle 3095,Piso 4 Dto A,Mar del Plata,1,Buenos Aires,5806,AR
+3126,Calle 8105,,La Plata,1,Buenos Aires,1148,AR
+3127,Calle 1378,Piso 6 Dto B,La Plata,1,Buenos Aires,3078,AR
+3128,Calle 5302,,La Plata,1,Buenos Aires,4305,AR
+3129,Calle 483,Piso 1 Dto C,Mendoza,4,Mendoza,5658,AR
+3130,Calle 3020,,CABA,1,Buenos Aires,3101,AR
+3131,Calle 3578,Piso 4 Dto A,La Plata,1,Buenos Aires,9294,AR
+3132,Calle 4895,,Godoy Cruz,4,Mendoza,8257,AR
+3133,Calle 858,,La Plata,1,Buenos Aires,6489,AR
+3134,Calle 4985,Piso 3 Dto C,Mar del Plata,1,Buenos Aires,2389,AR
+3135,Calle 4875,,Río Cuarto,2,Córdoba,9127,AR
+3136,Calle 7117,,Mar del Plata,1,Buenos Aires,8012,AR
+3137,Calle 9326,,La Plata,1,Buenos Aires,1225,AR
+3138,Calle 3128,Piso 9 Dto C,La Plata,1,Buenos Aires,7611,AR
+3139,Calle 1163,Piso 5 Dto C,San Rafael,4,Mendoza,5378,AR
+3140,Calle 9605,,Río Cuarto,2,Córdoba,8936,AR
+3141,Calle 1268,Piso 5 Dto C,Río Cuarto,2,Córdoba,1563,AR
+3142,Calle 4622,,Rosario,3,Santa Fe,3341,AR
+3143,Calle 4860,,Santa Fe,3,Santa Fe,4644,AR
+3144,Calle 2143,,Rosario,3,Santa Fe,2709,AR
+3145,Calle 5562,,Río Cuarto,2,Córdoba,1066,AR
+3146,Calle 7159,,La Plata,1,Buenos Aires,3252,AR
+3147,Calle 4984,,Rafaela,3,Santa Fe,3647,AR
+3148,Calle 8258,,La Plata,1,Buenos Aires,9411,AR
+3149,Calle 3360,Piso 8 Dto C,CABA,1,Buenos Aires,1947,AR
+3150,Calle 1105,,Villa Carlos Paz,2,Córdoba,7298,AR
+3151,Calle 4185,Piso 10 Dto C,Mendoza,4,Mendoza,7566,AR
+3152,Calle 9822,Piso 9 Dto B,Mar del Plata,1,Buenos Aires,1401,AR
+3153,Calle 7272,Piso 10 Dto B,Mar del Plata,1,Buenos Aires,4158,AR
+3154,Calle 7288,Piso 3 Dto A,CABA,1,Buenos Aires,2955,AR
+3155,Calle 9404,,Rosario,3,Santa Fe,7294,AR
+3156,Calle 6860,Piso 6 Dto B,CABA,1,Buenos Aires,8366,AR
+3157,Calle 5416,Piso 8 Dto C,La Plata,1,Buenos Aires,6283,AR
+3158,Calle 8087,,Santa Fe,3,Santa Fe,5174,AR
+3159,Calle 113,Piso 1 Dto B,CABA,1,Buenos Aires,6530,AR
+3160,Calle 8700,,Santa Fe,3,Santa Fe,6855,AR
+3161,Calle 4184,,La Plata,1,Buenos Aires,3869,AR
+3162,Calle 1126,Piso 9 Dto C,Santa Fe,3,Santa Fe,5851,AR
+3163,Calle 3303,Piso 9 Dto B,CABA,1,Buenos Aires,1278,AR
+3164,Calle 7700,,Santa Fe,3,Santa Fe,8415,AR
+3165,Calle 3179,Piso 1 Dto C,Godoy Cruz,4,Mendoza,5387,AR
+3166,Calle 6738,,San Rafael,4,Mendoza,6452,AR
+3167,Calle 8761,Piso 4 Dto A,Mar del Plata,1,Buenos Aires,2133,AR
+3168,Calle 199,,Mar del Plata,1,Buenos Aires,8792,AR
+3169,Calle 7979,Piso 3 Dto B,Rafaela,3,Santa Fe,3504,AR
+3170,Calle 5941,Piso 7 Dto C,CABA,1,Buenos Aires,9628,AR
+3171,Calle 7603,Piso 4 Dto B,CABA,1,Buenos Aires,9063,AR
+3172,Calle 9389,,Mendoza,4,Mendoza,5115,AR
+3173,Calle 8987,Piso 1 Dto A,Rafaela,3,Santa Fe,1017,AR
+3174,Calle 4429,,Villa Carlos Paz,2,Córdoba,4821,AR
+3175,Calle 9839,Piso 3 Dto B,Mar del Plata,1,Buenos Aires,1287,AR
+3176,Calle 2517,,La Plata,1,Buenos Aires,8209,AR
+3177,Calle 7157,Piso 8 Dto B,Mar del Plata,1,Buenos Aires,2862,AR
+3178,Calle 4380,,La Plata,1,Buenos Aires,4300,AR
+3179,Calle 2116,Piso 10 Dto B,Mar del Plata,1,Buenos Aires,9426,AR
+3180,Calle 2608,,La Plata,1,Buenos Aires,3757,AR
+3181,Calle 5908,Piso 12 Dto C,Mar del Plata,1,Buenos Aires,5586,AR
+3182,Calle 4793,,La Plata,1,Buenos Aires,8265,AR
+3183,Calle 6601,,Villa Carlos Paz,2,Córdoba,2416,AR
+3184,Calle 1480,,Mar del Plata,1,Buenos Aires,5831,AR
+3185,Calle 5569,Piso 10 Dto B,Santa Fe,3,Santa Fe,9990,AR
+3186,Calle 3860,,Mendoza,4,Mendoza,4605,AR
+3187,Calle 8235,,Mar del Plata,1,Buenos Aires,3805,AR
+3188,Calle 928,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,6183,AR
+3189,Calle 8883,Piso 11 Dto C,Rafaela,3,Santa Fe,1911,AR
+3190,Calle 7318,Piso 10 Dto B,La Plata,1,Buenos Aires,2156,AR
+3191,Calle 5143,,La Plata,1,Buenos Aires,9923,AR
+3192,Calle 7413,Piso 12 Dto A,Córdoba,2,Córdoba,9424,AR
+3193,Calle 5250,,CABA,1,Buenos Aires,5956,AR
+3194,Calle 6400,,Mar del Plata,1,Buenos Aires,9282,AR
+3195,Calle 6735,,Villa Carlos Paz,2,Córdoba,3548,AR
+3196,Calle 1299,Piso 3 Dto A,Villa Carlos Paz,2,Córdoba,2782,AR
+3197,Calle 9874,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,2445,AR
+3198,Calle 1635,Piso 3 Dto C,Rafaela,3,Santa Fe,2610,AR
+3199,Calle 8003,Piso 1 Dto B,Rosario,3,Santa Fe,1600,AR
+3200,Calle 2162,,Mar del Plata,1,Buenos Aires,3358,AR
+3201,Calle 3669,Piso 5 Dto C,Córdoba,2,Córdoba,5977,AR
+3202,Calle 5181,Piso 1 Dto B,Mendoza,4,Mendoza,6372,AR
+3203,Calle 8497,,La Plata,1,Buenos Aires,6543,AR
+3204,Calle 7977,,Córdoba,2,Córdoba,3798,AR
+3205,Calle 5575,Piso 11 Dto A,La Plata,1,Buenos Aires,8208,AR
+3206,Calle 1534,,Mar del Plata,1,Buenos Aires,9463,AR
+3207,Calle 4316,Piso 1 Dto B,Villa Carlos Paz,2,Córdoba,9341,AR
+3208,Calle 5102,Piso 2 Dto B,CABA,1,Buenos Aires,1842,AR
+3209,Calle 5288,Piso 1 Dto A,Rosario,3,Santa Fe,9777,AR
+3210,Calle 6448,,Mar del Plata,1,Buenos Aires,1613,AR
+3211,Calle 7314,,Santa Fe,3,Santa Fe,4803,AR
+3212,Calle 4375,Piso 6 Dto B,Rafaela,3,Santa Fe,5315,AR
+3213,Calle 4808,Piso 1 Dto A,San Rafael,4,Mendoza,8000,AR
+3214,Calle 7078,Piso 4 Dto A,Rosario,3,Santa Fe,8860,AR
+3215,Calle 3413,Piso 2 Dto B,Rafaela,3,Santa Fe,6997,AR
+3216,Calle 9854,,Córdoba,2,Córdoba,8195,AR
+3217,Calle 9168,,La Plata,1,Buenos Aires,3239,AR
+3218,Calle 9163,Piso 6 Dto C,Santa Fe,3,Santa Fe,3681,AR
+3219,Calle 1483,Piso 7 Dto C,La Plata,1,Buenos Aires,2130,AR
+3220,Calle 4167,Piso 9 Dto A,Mar del Plata,1,Buenos Aires,7374,AR
+3221,Calle 4914,Piso 5 Dto B,Mendoza,4,Mendoza,5171,AR
+3222,Calle 5659,Piso 12 Dto C,CABA,1,Buenos Aires,9925,AR
+3223,Calle 7980,,Río Cuarto,2,Córdoba,7958,AR
+3224,Calle 216,,La Plata,1,Buenos Aires,9415,AR
+3225,Calle 1177,,Mar del Plata,1,Buenos Aires,4734,AR
+3226,Calle 7857,,Rafaela,3,Santa Fe,5180,AR
+3227,Calle 7369,,La Plata,1,Buenos Aires,3054,AR
+3228,Calle 3955,,Mar del Plata,1,Buenos Aires,7959,AR
+3229,Calle 485,Piso 10 Dto C,San Rafael,4,Mendoza,4066,AR
+3230,Calle 6810,Piso 7 Dto B,Córdoba,2,Córdoba,3017,AR
+3231,Calle 7136,,Godoy Cruz,4,Mendoza,6135,AR
+3232,Calle 2850,,Godoy Cruz,4,Mendoza,3189,AR
+3233,Calle 8917,,Mar del Plata,1,Buenos Aires,8171,AR
+3234,Calle 8000,,Villa Carlos Paz,2,Córdoba,2536,AR
+3235,Calle 1183,Piso 6 Dto A,Rafaela,3,Santa Fe,5523,AR
+3236,Calle 441,,La Plata,1,Buenos Aires,5019,AR
+3237,Calle 6480,Piso 6 Dto B,La Plata,1,Buenos Aires,3295,AR
+3238,Calle 9005,Piso 7 Dto A,Rosario,3,Santa Fe,3101,AR
+3239,Calle 9578,Piso 6 Dto C,Mar del Plata,1,Buenos Aires,6486,AR
+3240,Calle 2994,Piso 8 Dto C,Córdoba,2,Córdoba,7154,AR
+3241,Calle 9960,,Santa Fe,3,Santa Fe,9971,AR
+3242,Calle 5481,,CABA,1,Buenos Aires,5441,AR
+3243,Calle 9001,,Godoy Cruz,4,Mendoza,3958,AR
+3244,Calle 9383,Piso 1 Dto B,Mendoza,4,Mendoza,4951,AR
+3245,Calle 4522,,La Plata,1,Buenos Aires,7124,AR
+3246,Calle 2439,,CABA,1,Buenos Aires,5271,AR
+3247,Calle 9661,,La Plata,1,Buenos Aires,3195,AR
+3248,Calle 5280,Piso 5 Dto A,Mar del Plata,1,Buenos Aires,9119,AR
+3249,Calle 3184,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,9225,AR
+3250,Calle 8781,,Mar del Plata,1,Buenos Aires,6112,AR
+3251,Calle 1509,,Villa Carlos Paz,2,Córdoba,8096,AR
+3252,Calle 1703,,CABA,1,Buenos Aires,9991,AR
+3253,Calle 6642,Piso 11 Dto C,Mar del Plata,1,Buenos Aires,7934,AR
+3254,Calle 867,,La Plata,1,Buenos Aires,3339,AR
+3255,Calle 3243,,Rafaela,3,Santa Fe,7099,AR
+3256,Calle 3215,,Mar del Plata,1,Buenos Aires,1864,AR
+3257,Calle 8229,Piso 7 Dto B,CABA,1,Buenos Aires,1309,AR
+3258,Calle 2756,,Mendoza,4,Mendoza,2570,AR
+3259,Calle 6615,,Rosario,3,Santa Fe,2689,AR
+3260,Calle 9648,,La Plata,1,Buenos Aires,2563,AR
+3261,Calle 3372,,CABA,1,Buenos Aires,3109,AR
+3262,Calle 613,,Santa Fe,3,Santa Fe,3137,AR
+3263,Calle 6103,,Córdoba,2,Córdoba,2566,AR
+3264,Calle 3404,Piso 5 Dto C,Rosario,3,Santa Fe,4425,AR
+3265,Calle 3733,Piso 11 Dto A,Córdoba,2,Córdoba,3974,AR
+3266,Calle 3518,Piso 3 Dto A,CABA,1,Buenos Aires,6497,AR
+3267,Calle 2069,,Villa Carlos Paz,2,Córdoba,9201,AR
+3268,Calle 9985,,La Plata,1,Buenos Aires,3838,AR
+3269,Calle 7036,,Villa Carlos Paz,2,Córdoba,1893,AR
+3270,Calle 7759,Piso 11 Dto A,La Plata,1,Buenos Aires,6906,AR
+3271,Calle 5837,Piso 7 Dto A,Córdoba,2,Córdoba,3909,AR
+3272,Calle 6078,,Godoy Cruz,4,Mendoza,5382,AR
+3273,Calle 2584,,Santa Fe,3,Santa Fe,7824,AR
+3274,Calle 7746,,La Plata,1,Buenos Aires,7624,AR
+3275,Calle 4437,Piso 7 Dto B,La Plata,1,Buenos Aires,4822,AR
+3276,Calle 6681,Piso 3 Dto C,Mar del Plata,1,Buenos Aires,5093,AR
+3277,Calle 6362,,Mar del Plata,1,Buenos Aires,5879,AR
+3278,Calle 2567,Piso 11 Dto B,CABA,1,Buenos Aires,4219,AR
+3279,Calle 4448,Piso 4 Dto C,Godoy Cruz,4,Mendoza,7730,AR
+3280,Calle 7032,,Mar del Plata,1,Buenos Aires,7765,AR
+3281,Calle 2411,Piso 5 Dto C,Mar del Plata,1,Buenos Aires,4872,AR
+3282,Calle 6804,,Rosario,3,Santa Fe,9193,AR
+3283,Calle 3224,,Mar del Plata,1,Buenos Aires,1478,AR
+3284,Calle 7766,,CABA,1,Buenos Aires,8725,AR
+3285,Calle 1564,Piso 5 Dto C,Rosario,3,Santa Fe,8896,AR
+3286,Calle 9109,Piso 3 Dto B,Mendoza,4,Mendoza,4407,AR
+3287,Calle 4678,Piso 7 Dto A,CABA,1,Buenos Aires,8242,AR
+3288,Calle 4555,,Mar del Plata,1,Buenos Aires,7366,AR
+3289,Calle 3361,,La Plata,1,Buenos Aires,8536,AR
+3290,Calle 9645,,Río Cuarto,2,Córdoba,4526,AR
+3291,Calle 8285,,Santa Fe,3,Santa Fe,3974,AR
+3292,Calle 4787,,Villa Carlos Paz,2,Córdoba,7717,AR
+3293,Calle 6746,,Mendoza,4,Mendoza,4579,AR
+3294,Calle 539,,CABA,1,Buenos Aires,3782,AR
+3295,Calle 452,,Rafaela,3,Santa Fe,5458,AR
+3296,Calle 3190,Piso 4 Dto A,Rosario,3,Santa Fe,5454,AR
+3297,Calle 6870,,Mar del Plata,1,Buenos Aires,5483,AR
+3298,Calle 747,Piso 10 Dto C,Santa Fe,3,Santa Fe,2451,AR
+3299,Calle 8088,,Godoy Cruz,4,Mendoza,2210,AR
+3300,Calle 1700,Piso 7 Dto A,Mendoza,4,Mendoza,2360,AR
+3301,Calle 2647,Piso 1 Dto A,La Plata,1,Buenos Aires,7832,AR
+3302,Calle 541,,Mar del Plata,1,Buenos Aires,5037,AR
+3303,Calle 4225,Piso 9 Dto C,CABA,1,Buenos Aires,5953,AR
+3304,Calle 982,,CABA,1,Buenos Aires,2223,AR
+3305,Calle 9265,Piso 11 Dto A,La Plata,1,Buenos Aires,2633,AR
+3306,Calle 963,Piso 2 Dto B,Godoy Cruz,4,Mendoza,2620,AR
+3307,Calle 3331,,Rosario,3,Santa Fe,6069,AR
+3308,Calle 7602,,Godoy Cruz,4,Mendoza,9532,AR
+3309,Calle 4741,,Rosario,3,Santa Fe,9742,AR
+3310,Calle 5196,,Santa Fe,3,Santa Fe,4491,AR
+3311,Calle 6038,Piso 8 Dto B,Mar del Plata,1,Buenos Aires,8023,AR
+3312,Calle 9079,Piso 2 Dto A,Córdoba,2,Córdoba,5942,AR
+3313,Calle 2001,,Villa Carlos Paz,2,Córdoba,5087,AR
+3314,Calle 785,,La Plata,1,Buenos Aires,2350,AR
+3315,Calle 6734,Piso 10 Dto C,CABA,1,Buenos Aires,4039,AR
+3316,Calle 4150,,Mar del Plata,1,Buenos Aires,6294,AR
+3317,Calle 5110,,Santa Fe,3,Santa Fe,6952,AR
+3318,Calle 7644,Piso 10 Dto C,CABA,1,Buenos Aires,9529,AR
+3319,Calle 6979,Piso 7 Dto C,Godoy Cruz,4,Mendoza,9301,AR
+3320,Calle 6050,Piso 2 Dto C,Mendoza,4,Mendoza,8089,AR
+3321,Calle 6585,Piso 4 Dto B,Mar del Plata,1,Buenos Aires,9271,AR
+3322,Calle 7345,,Rosario,3,Santa Fe,8465,AR
+3323,Calle 5925,,CABA,1,Buenos Aires,5243,AR
+3324,Calle 370,,Santa Fe,3,Santa Fe,5817,AR
+3325,Calle 84,Piso 7 Dto C,CABA,1,Buenos Aires,3949,AR
+3326,Calle 8388,,Mar del Plata,1,Buenos Aires,1056,AR
+3327,Calle 967,,Mar del Plata,1,Buenos Aires,8960,AR
+3328,Calle 7729,,CABA,1,Buenos Aires,9216,AR
+3329,Calle 2644,,Mar del Plata,1,Buenos Aires,3426,AR
+3330,Calle 4652,Piso 1 Dto C,CABA,1,Buenos Aires,8717,AR
+3331,Calle 3156,Piso 6 Dto C,Rafaela,3,Santa Fe,1523,AR
+3332,Calle 9081,,CABA,1,Buenos Aires,4738,AR
+3333,Calle 1892,,Rosario,3,Santa Fe,6151,AR
+3334,Calle 2386,,La Plata,1,Buenos Aires,1125,AR
+3335,Calle 5889,,Mar del Plata,1,Buenos Aires,8608,AR
+3336,Calle 8855,,CABA,1,Buenos Aires,5916,AR
+3337,Calle 5398,,Río Cuarto,2,Córdoba,6454,AR
+3338,Calle 1567,Piso 11 Dto B,Rafaela,3,Santa Fe,8692,AR
+3339,Calle 4716,,La Plata,1,Buenos Aires,1596,AR
+3340,Calle 9101,,Mar del Plata,1,Buenos Aires,7316,AR
+3341,Calle 9163,,Santa Fe,3,Santa Fe,4724,AR
+3342,Calle 2391,Piso 2 Dto A,Córdoba,2,Córdoba,5105,AR
+3343,Calle 9770,Piso 10 Dto A,Santa Fe,3,Santa Fe,6438,AR
+3344,Calle 8078,Piso 6 Dto C,La Plata,1,Buenos Aires,1341,AR
+3345,Calle 9436,Piso 12 Dto A,Rosario,3,Santa Fe,8043,AR
+3346,Calle 2511,Piso 9 Dto C,Villa Carlos Paz,2,Córdoba,1242,AR
+3347,Calle 6366,Piso 6 Dto B,CABA,1,Buenos Aires,4941,AR
+3348,Calle 6083,,La Plata,1,Buenos Aires,7538,AR
+3349,Calle 1528,,La Plata,1,Buenos Aires,5896,AR
+3350,Calle 3604,Piso 11 Dto A,La Plata,1,Buenos Aires,4185,AR
+3351,Calle 2634,Piso 11 Dto C,Río Cuarto,2,Córdoba,5845,AR
+3352,Calle 2955,Piso 6 Dto A,La Plata,1,Buenos Aires,4017,AR
+3353,Calle 2853,,Villa Carlos Paz,2,Córdoba,1522,AR
+3354,Calle 2065,Piso 5 Dto A,Mar del Plata,1,Buenos Aires,6603,AR
+3355,Calle 9837,Piso 2 Dto B,Godoy Cruz,4,Mendoza,6166,AR
+3356,Calle 472,Piso 7 Dto A,Mar del Plata,1,Buenos Aires,7206,AR
+3357,Calle 6045,,CABA,1,Buenos Aires,4488,AR
+3358,Calle 5537,Piso 11 Dto C,Río Cuarto,2,Córdoba,6879,AR
+3359,Calle 5279,,Mendoza,4,Mendoza,9607,AR
+3360,Calle 332,Piso 3 Dto C,La Plata,1,Buenos Aires,7427,AR
+3361,Calle 9832,,San Rafael,4,Mendoza,2625,AR
+3362,Calle 9835,,CABA,1,Buenos Aires,5948,AR
+3363,Calle 2898,,Mar del Plata,1,Buenos Aires,3885,AR
+3364,Calle 7780,,CABA,1,Buenos Aires,3067,AR
+3365,Calle 1985,,Rosario,3,Santa Fe,9193,AR
+3366,Calle 125,,La Plata,1,Buenos Aires,7848,AR
+3367,Calle 1741,,Córdoba,2,Córdoba,4467,AR
+3368,Calle 9900,,Villa Carlos Paz,2,Córdoba,1033,AR
+3369,Calle 9532,Piso 11 Dto B,Córdoba,2,Córdoba,2629,AR
+3370,Calle 6170,Piso 12 Dto C,La Plata,1,Buenos Aires,9064,AR
+3371,Calle 5799,,La Plata,1,Buenos Aires,8364,AR
+3372,Calle 5639,,La Plata,1,Buenos Aires,4839,AR
+3373,Calle 7680,,San Rafael,4,Mendoza,5667,AR
+3374,Calle 4718,,La Plata,1,Buenos Aires,2937,AR
+3375,Calle 3209,,Godoy Cruz,4,Mendoza,2315,AR
+3376,Calle 6894,Piso 12 Dto B,Godoy Cruz,4,Mendoza,1957,AR
+3377,Calle 6850,,La Plata,1,Buenos Aires,3623,AR
+3378,Calle 5262,,Mar del Plata,1,Buenos Aires,7664,AR
+3379,Calle 981,,Rafaela,3,Santa Fe,2134,AR
+3380,Calle 8964,,Mar del Plata,1,Buenos Aires,7330,AR
+3381,Calle 5494,,Córdoba,2,Córdoba,4250,AR
+3382,Calle 9598,,La Plata,1,Buenos Aires,7202,AR
+3383,Calle 8399,,Río Cuarto,2,Córdoba,9158,AR
+3384,Calle 9934,,CABA,1,Buenos Aires,1656,AR
+3385,Calle 7432,,Mendoza,4,Mendoza,4986,AR
+3386,Calle 7166,Piso 6 Dto C,La Plata,1,Buenos Aires,7225,AR
+3387,Calle 8772,,La Plata,1,Buenos Aires,9042,AR
+3388,Calle 8142,,Mar del Plata,1,Buenos Aires,6584,AR
+3389,Calle 676,Piso 2 Dto A,Mendoza,4,Mendoza,1496,AR
+3390,Calle 7012,,Rosario,3,Santa Fe,8062,AR
+3391,Calle 6043,Piso 2 Dto A,Rosario,3,Santa Fe,3999,AR
+3392,Calle 3615,Piso 4 Dto B,La Plata,1,Buenos Aires,7426,AR
+3393,Calle 7689,Piso 7 Dto B,Godoy Cruz,4,Mendoza,9377,AR
+3394,Calle 2699,Piso 5 Dto C,Córdoba,2,Córdoba,7022,AR
+3395,Calle 2263,Piso 6 Dto A,La Plata,1,Buenos Aires,3123,AR
+3396,Calle 5470,,Mar del Plata,1,Buenos Aires,7909,AR
+3397,Calle 8065,,Santa Fe,3,Santa Fe,6235,AR
+3398,Calle 3531,Piso 5 Dto C,Río Cuarto,2,Córdoba,3268,AR
+3399,Calle 4935,Piso 7 Dto C,CABA,1,Buenos Aires,1071,AR
+3400,Calle 4796,,CABA,1,Buenos Aires,5700,AR
+3401,Calle 9294,Piso 8 Dto A,San Rafael,4,Mendoza,2904,AR
+3402,Calle 851,,Mar del Plata,1,Buenos Aires,4771,AR
+3403,Calle 7419,,La Plata,1,Buenos Aires,4981,AR
+3404,Calle 2557,Piso 12 Dto A,Mar del Plata,1,Buenos Aires,6188,AR
+3405,Calle 8000,Piso 7 Dto C,Villa Carlos Paz,2,Córdoba,1192,AR
+3406,Calle 3600,Piso 11 Dto A,Mar del Plata,1,Buenos Aires,4284,AR
+3407,Calle 2483,Piso 1 Dto A,CABA,1,Buenos Aires,9247,AR
+3408,Calle 8899,,La Plata,1,Buenos Aires,7928,AR
+3409,Calle 376,Piso 9 Dto A,Villa Carlos Paz,2,Córdoba,9171,AR
+3410,Calle 143,Piso 6 Dto C,Villa Carlos Paz,2,Córdoba,5686,AR
+3411,Calle 2181,Piso 1 Dto C,Rafaela,3,Santa Fe,7869,AR
+3412,Calle 1864,Piso 4 Dto A,Córdoba,2,Córdoba,7055,AR
+3413,Calle 6131,,Mendoza,4,Mendoza,2268,AR
+3414,Calle 6415,Piso 2 Dto B,Santa Fe,3,Santa Fe,9693,AR
+3415,Calle 3552,,CABA,1,Buenos Aires,5683,AR
+3416,Calle 4618,,Córdoba,2,Córdoba,2046,AR
+3417,Calle 5570,,Mar del Plata,1,Buenos Aires,6409,AR
+3418,Calle 1689,,Mar del Plata,1,Buenos Aires,8820,AR
+3419,Calle 8286,,La Plata,1,Buenos Aires,1196,AR
+3420,Calle 5207,Piso 7 Dto B,San Rafael,4,Mendoza,2802,AR
+3421,Calle 8994,,Santa Fe,3,Santa Fe,1609,AR
+3422,Calle 1683,,Rafaela,3,Santa Fe,8925,AR
+3423,Calle 5994,Piso 9 Dto B,CABA,1,Buenos Aires,9476,AR
+3424,Calle 9360,Piso 8 Dto B,Mar del Plata,1,Buenos Aires,6836,AR
+3425,Calle 2619,Piso 7 Dto A,CABA,1,Buenos Aires,1682,AR
+3426,Calle 8787,,Santa Fe,3,Santa Fe,5187,AR
+3427,Calle 9635,Piso 6 Dto B,Córdoba,2,Córdoba,8204,AR
+3428,Calle 5976,,CABA,1,Buenos Aires,5625,AR
+3429,Calle 2327,Piso 2 Dto B,Mar del Plata,1,Buenos Aires,6491,AR
+3430,Calle 5411,Piso 9 Dto B,Mar del Plata,1,Buenos Aires,8008,AR
+3431,Calle 71,,CABA,1,Buenos Aires,9444,AR
+3432,Calle 2929,Piso 8 Dto B,La Plata,1,Buenos Aires,4636,AR
+3433,Calle 6079,,Mar del Plata,1,Buenos Aires,3696,AR
+3434,Calle 6073,,Mar del Plata,1,Buenos Aires,4908,AR
+3435,Calle 3121,Piso 1 Dto C,Santa Fe,3,Santa Fe,3049,AR
+3436,Calle 9103,Piso 12 Dto A,Córdoba,2,Córdoba,8784,AR
+3437,Calle 1900,Piso 2 Dto C,Mar del Plata,1,Buenos Aires,3297,AR
+3438,Calle 7877,Piso 11 Dto C,Mar del Plata,1,Buenos Aires,4250,AR
+3439,Calle 142,,Rosario,3,Santa Fe,2199,AR
+3440,Calle 4566,Piso 3 Dto A,Rafaela,3,Santa Fe,5755,AR
+3441,Calle 850,Piso 6 Dto C,Mar del Plata,1,Buenos Aires,8324,AR
+3442,Calle 7000,Piso 2 Dto C,Mar del Plata,1,Buenos Aires,2774,AR
+3443,Calle 7119,Piso 6 Dto B,Mar del Plata,1,Buenos Aires,8458,AR
+3444,Calle 9985,Piso 12 Dto C,Mar del Plata,1,Buenos Aires,9585,AR
+3445,Calle 264,Piso 1 Dto C,La Plata,1,Buenos Aires,3495,AR
+3446,Calle 2268,Piso 11 Dto B,Godoy Cruz,4,Mendoza,4215,AR
+3447,Calle 2987,,Río Cuarto,2,Córdoba,5233,AR
+3448,Calle 218,Piso 8 Dto A,San Rafael,4,Mendoza,5661,AR
+3449,Calle 821,Piso 2 Dto B,Villa Carlos Paz,2,Córdoba,2872,AR
+3450,Calle 609,,Godoy Cruz,4,Mendoza,1718,AR
+3451,Calle 6866,,CABA,1,Buenos Aires,3204,AR
+3452,Calle 3424,Piso 11 Dto B,Mar del Plata,1,Buenos Aires,6509,AR
+3453,Calle 3616,,Rosario,3,Santa Fe,6868,AR
+3454,Calle 3063,Piso 2 Dto B,Rafaela,3,Santa Fe,8733,AR
+3455,Calle 3973,Piso 12 Dto C,Santa Fe,3,Santa Fe,7346,AR
+3456,Calle 2553,,Córdoba,2,Córdoba,9107,AR
+3457,Calle 6936,,Santa Fe,3,Santa Fe,6085,AR
+3458,Calle 9704,Piso 3 Dto C,La Plata,1,Buenos Aires,3105,AR
+3459,Calle 2315,Piso 1 Dto C,CABA,1,Buenos Aires,1813,AR
+3460,Calle 6177,,Mar del Plata,1,Buenos Aires,1394,AR
+3461,Calle 3416,,Santa Fe,3,Santa Fe,7564,AR
+3462,Calle 3247,Piso 4 Dto B,Río Cuarto,2,Córdoba,4556,AR
+3463,Calle 211,,Córdoba,2,Córdoba,1617,AR
+3464,Calle 9645,Piso 4 Dto A,Mar del Plata,1,Buenos Aires,9536,AR
+3465,Calle 8712,,Villa Carlos Paz,2,Córdoba,6503,AR
+3466,Calle 9833,,Mar del Plata,1,Buenos Aires,4770,AR
+3467,Calle 3615,Piso 11 Dto B,San Rafael,4,Mendoza,7958,AR
+3468,Calle 6454,,La Plata,1,Buenos Aires,9386,AR
+3469,Calle 7031,Piso 9 Dto A,CABA,1,Buenos Aires,5965,AR
+3470,Calle 7504,,Santa Fe,3,Santa Fe,2206,AR
+3471,Calle 8987,,La Plata,1,Buenos Aires,1137,AR
+3472,Calle 9907,Piso 8 Dto C,CABA,1,Buenos Aires,3285,AR
+3473,Calle 5054,Piso 3 Dto C,Córdoba,2,Córdoba,4813,AR
+3474,Calle 5833,,San Rafael,4,Mendoza,7644,AR
+3475,Calle 1611,Piso 9 Dto B,Mar del Plata,1,Buenos Aires,7522,AR
+3476,Calle 3552,Piso 7 Dto A,Río Cuarto,2,Córdoba,9925,AR
+3477,Calle 5858,Piso 1 Dto A,San Rafael,4,Mendoza,3645,AR
+3478,Calle 9702,Piso 3 Dto A,Mendoza,4,Mendoza,8082,AR
+3479,Calle 8436,,Mar del Plata,1,Buenos Aires,8332,AR
+3480,Calle 5323,,La Plata,1,Buenos Aires,8598,AR
+3481,Calle 5210,,Córdoba,2,Córdoba,3221,AR
+3482,Calle 7869,Piso 8 Dto A,La Plata,1,Buenos Aires,6287,AR
+3483,Calle 8996,Piso 4 Dto C,CABA,1,Buenos Aires,9719,AR
+3484,Calle 4767,,CABA,1,Buenos Aires,7349,AR
+3485,Calle 3088,,Mar del Plata,1,Buenos Aires,6775,AR
+3486,Calle 8756,,CABA,1,Buenos Aires,2870,AR
+3487,Calle 919,,CABA,1,Buenos Aires,1071,AR
+3488,Calle 2965,Piso 9 Dto B,Mar del Plata,1,Buenos Aires,6727,AR
+3489,Calle 3817,,San Rafael,4,Mendoza,4214,AR
+3490,Calle 2457,,Mar del Plata,1,Buenos Aires,2045,AR
+3491,Calle 592,,Mar del Plata,1,Buenos Aires,1376,AR
+3492,Calle 5647,,Río Cuarto,2,Córdoba,4720,AR
+3493,Calle 1951,,CABA,1,Buenos Aires,7298,AR
+3494,Calle 8168,,Rosario,3,Santa Fe,3229,AR
+3495,Calle 6939,Piso 3 Dto B,Santa Fe,3,Santa Fe,6955,AR
+3496,Calle 4724,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,9107,AR
+3497,Calle 4999,Piso 7 Dto C,Santa Fe,3,Santa Fe,7684,AR
+3498,Calle 6233,,Mar del Plata,1,Buenos Aires,6929,AR
+3499,Calle 3586,,La Plata,1,Buenos Aires,5598,AR
+3500,Calle 8790,Piso 11 Dto B,Río Cuarto,2,Córdoba,9423,AR
+3501,Calle 8302,,Villa Carlos Paz,2,Córdoba,6786,AR
+3502,Calle 2622,,San Rafael,4,Mendoza,8113,AR
+3503,Calle 5132,,Rafaela,3,Santa Fe,8548,AR
+3504,Calle 75,Piso 9 Dto C,La Plata,1,Buenos Aires,4992,AR
+3505,Calle 6694,,Rafaela,3,Santa Fe,5125,AR
+3506,Calle 7056,Piso 10 Dto C,Mar del Plata,1,Buenos Aires,9774,AR
+3507,Calle 5007,Piso 6 Dto A,Mar del Plata,1,Buenos Aires,1522,AR
+3508,Calle 7594,,La Plata,1,Buenos Aires,1837,AR
+3509,Calle 9888,,CABA,1,Buenos Aires,8658,AR
+3510,Calle 8029,Piso 3 Dto C,Mar del Plata,1,Buenos Aires,5417,AR
+3511,Calle 79,,Río Cuarto,2,Córdoba,2039,AR
+3512,Calle 5754,,Mar del Plata,1,Buenos Aires,3173,AR
+3513,Calle 380,,La Plata,1,Buenos Aires,6106,AR
+3514,Calle 2282,Piso 8 Dto C,CABA,1,Buenos Aires,4809,AR
+3515,Calle 5417,,Rafaela,3,Santa Fe,2829,AR
+3516,Calle 9439,,La Plata,1,Buenos Aires,7571,AR
+3517,Calle 4329,Piso 3 Dto C,La Plata,1,Buenos Aires,7230,AR
+3518,Calle 1819,Piso 12 Dto A,Santa Fe,3,Santa Fe,9124,AR
+3519,Calle 5736,Piso 6 Dto B,Mar del Plata,1,Buenos Aires,2314,AR
+3520,Calle 672,,Villa Carlos Paz,2,Córdoba,4803,AR
+3521,Calle 4988,Piso 6 Dto B,La Plata,1,Buenos Aires,4603,AR
+3522,Calle 2224,,Villa Carlos Paz,2,Córdoba,7811,AR
+3523,Calle 4099,,La Plata,1,Buenos Aires,2423,AR
+3524,Calle 6934,,Santa Fe,3,Santa Fe,7969,AR
+3525,Calle 6952,Piso 1 Dto C,Rosario,3,Santa Fe,9613,AR
+3526,Calle 7243,,Mar del Plata,1,Buenos Aires,1970,AR
+3527,Calle 9888,,Córdoba,2,Córdoba,4848,AR
+3528,Calle 8095,Piso 1 Dto B,Godoy Cruz,4,Mendoza,1532,AR
+3529,Calle 8845,Piso 3 Dto A,Río Cuarto,2,Córdoba,8220,AR
+3530,Calle 2839,,Córdoba,2,Córdoba,9700,AR
+3531,Calle 5056,,CABA,1,Buenos Aires,5780,AR
+3532,Calle 9959,Piso 4 Dto B,La Plata,1,Buenos Aires,7000,AR
+3533,Calle 9060,,Rosario,3,Santa Fe,2754,AR
+3534,Calle 5928,Piso 6 Dto B,La Plata,1,Buenos Aires,8644,AR
+3535,Calle 1806,Piso 12 Dto B,Córdoba,2,Córdoba,1397,AR
+3536,Calle 1394,,Córdoba,2,Córdoba,5901,AR
+3537,Calle 6104,,Mar del Plata,1,Buenos Aires,3568,AR
+3538,Calle 1757,Piso 6 Dto A,Mar del Plata,1,Buenos Aires,3409,AR
+3539,Calle 9912,Piso 3 Dto B,Godoy Cruz,4,Mendoza,2052,AR
+3540,Calle 8344,,CABA,1,Buenos Aires,2366,AR
+3541,Calle 3746,,Villa Carlos Paz,2,Córdoba,2604,AR
+3542,Calle 1238,,Mar del Plata,1,Buenos Aires,8544,AR
+3543,Calle 441,Piso 6 Dto A,Rosario,3,Santa Fe,8984,AR
+3544,Calle 5674,,La Plata,1,Buenos Aires,7113,AR
+3545,Calle 5207,,La Plata,1,Buenos Aires,1096,AR
+3546,Calle 8532,Piso 4 Dto C,Santa Fe,3,Santa Fe,1560,AR
+3547,Calle 5673,Piso 1 Dto A,Villa Carlos Paz,2,Córdoba,9241,AR
+3548,Calle 774,,La Plata,1,Buenos Aires,5459,AR
+3549,Calle 3371,Piso 5 Dto B,Río Cuarto,2,Córdoba,6701,AR
+3550,Calle 2396,,Río Cuarto,2,Córdoba,1731,AR
+3551,Calle 2166,,Rafaela,3,Santa Fe,1794,AR
+3552,Calle 4601,,CABA,1,Buenos Aires,9937,AR
+3553,Calle 1615,,CABA,1,Buenos Aires,6925,AR
+3554,Calle 3228,,Mar del Plata,1,Buenos Aires,7336,AR
+3555,Calle 6736,,Mar del Plata,1,Buenos Aires,4892,AR
+3556,Calle 1409,Piso 11 Dto C,Río Cuarto,2,Córdoba,5022,AR
+3557,Calle 8361,Piso 10 Dto C,Villa Carlos Paz,2,Córdoba,8964,AR
+3558,Calle 701,,CABA,1,Buenos Aires,2323,AR
+3559,Calle 826,Piso 8 Dto A,Córdoba,2,Córdoba,2870,AR
+3560,Calle 5984,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,2707,AR
+3561,Calle 8669,,CABA,1,Buenos Aires,2318,AR
+3562,Calle 5928,Piso 5 Dto B,Santa Fe,3,Santa Fe,8743,AR
+3563,Calle 5545,,Villa Carlos Paz,2,Córdoba,8430,AR
+3564,Calle 7196,,CABA,1,Buenos Aires,9208,AR
+3565,Calle 6974,Piso 4 Dto C,CABA,1,Buenos Aires,7566,AR
+3566,Calle 6254,,La Plata,1,Buenos Aires,1413,AR
+3567,Calle 7517,Piso 2 Dto A,CABA,1,Buenos Aires,5693,AR
+3568,Calle 3563,Piso 11 Dto C,CABA,1,Buenos Aires,7238,AR
+3569,Calle 6247,Piso 3 Dto B,La Plata,1,Buenos Aires,4355,AR
+3570,Calle 1810,Piso 2 Dto B,Mar del Plata,1,Buenos Aires,2585,AR
+3571,Calle 1676,Piso 6 Dto A,Mar del Plata,1,Buenos Aires,9378,AR
+3572,Calle 8715,,La Plata,1,Buenos Aires,7810,AR
+3573,Calle 6362,Piso 6 Dto B,La Plata,1,Buenos Aires,9364,AR
+3574,Calle 6184,,Mendoza,4,Mendoza,1048,AR
+3575,Calle 7970,,CABA,1,Buenos Aires,7579,AR
+3576,Calle 5645,,Córdoba,2,Córdoba,2861,AR
+3577,Calle 6281,,CABA,1,Buenos Aires,5590,AR
+3578,Calle 818,,La Plata,1,Buenos Aires,2543,AR
+3579,Calle 2102,Piso 9 Dto A,CABA,1,Buenos Aires,8861,AR
+3580,Calle 1434,Piso 9 Dto A,CABA,1,Buenos Aires,7561,AR
+3581,Calle 5484,Piso 11 Dto B,Santa Fe,3,Santa Fe,8816,AR
+3582,Calle 9835,,Villa Carlos Paz,2,Córdoba,3208,AR
+3583,Calle 4574,Piso 9 Dto B,CABA,1,Buenos Aires,7840,AR
+3584,Calle 9059,,CABA,1,Buenos Aires,1154,AR
+3585,Calle 5135,,CABA,1,Buenos Aires,7683,AR
+3586,Calle 9772,Piso 8 Dto B,Rosario,3,Santa Fe,8350,AR
+3587,Calle 1694,Piso 7 Dto C,Villa Carlos Paz,2,Córdoba,7725,AR
+3588,Calle 8309,,Mar del Plata,1,Buenos Aires,9610,AR
+3589,Calle 776,,CABA,1,Buenos Aires,9185,AR
+3590,Calle 5703,,La Plata,1,Buenos Aires,2882,AR
+3591,Calle 3187,,Mar del Plata,1,Buenos Aires,2259,AR
+3592,Calle 5398,,Río Cuarto,2,Córdoba,1743,AR
+3593,Calle 3976,,Córdoba,2,Córdoba,6853,AR
+3594,Calle 8250,Piso 4 Dto B,La Plata,1,Buenos Aires,4840,AR
+3595,Calle 2510,,Rosario,3,Santa Fe,3525,AR
+3596,Calle 1735,,Godoy Cruz,4,Mendoza,4018,AR
+3597,Calle 4163,,Córdoba,2,Córdoba,2741,AR
+3598,Calle 612,Piso 2 Dto C,Villa Carlos Paz,2,Córdoba,4821,AR
+3599,Calle 3407,Piso 12 Dto C,CABA,1,Buenos Aires,6215,AR
+3600,Calle 3566,,La Plata,1,Buenos Aires,1142,AR
+3601,Calle 5533,Piso 10 Dto A,Río Cuarto,2,Córdoba,6011,AR
+3602,Calle 8821,Piso 8 Dto A,Rafaela,3,Santa Fe,1526,AR
+3603,Calle 9919,,San Rafael,4,Mendoza,8551,AR
+3604,Calle 5385,Piso 11 Dto A,Córdoba,2,Córdoba,7561,AR
+3605,Calle 3536,,CABA,1,Buenos Aires,8025,AR
+3606,Calle 2230,,Mar del Plata,1,Buenos Aires,5812,AR
+3607,Calle 5008,,Córdoba,2,Córdoba,3797,AR
+3608,Calle 8606,,Mar del Plata,1,Buenos Aires,7746,AR
+3609,Calle 7109,,CABA,1,Buenos Aires,2542,AR
+3610,Calle 4755,Piso 5 Dto A,La Plata,1,Buenos Aires,5435,AR
+3611,Calle 505,Piso 3 Dto C,Río Cuarto,2,Córdoba,5008,AR
+3612,Calle 5041,Piso 8 Dto B,Mar del Plata,1,Buenos Aires,2488,AR
+3613,Calle 6977,Piso 11 Dto A,Río Cuarto,2,Córdoba,7824,AR
+3614,Calle 4670,Piso 2 Dto B,Mar del Plata,1,Buenos Aires,6759,AR
+3615,Calle 1065,,Río Cuarto,2,Córdoba,6241,AR
+3616,Calle 4917,,Rosario,3,Santa Fe,9332,AR
+3617,Calle 1157,,CABA,1,Buenos Aires,6215,AR
+3618,Calle 2970,,La Plata,1,Buenos Aires,1577,AR
+3619,Calle 6253,Piso 7 Dto C,La Plata,1,Buenos Aires,3838,AR
+3620,Calle 3797,,Córdoba,2,Córdoba,5096,AR
+3621,Calle 8877,,Rafaela,3,Santa Fe,4776,AR
+3622,Calle 2438,Piso 5 Dto A,Mar del Plata,1,Buenos Aires,7957,AR
+3623,Calle 4427,,CABA,1,Buenos Aires,5913,AR
+3624,Calle 3902,Piso 5 Dto A,CABA,1,Buenos Aires,7077,AR
+3625,Calle 8632,Piso 7 Dto B,San Rafael,4,Mendoza,1610,AR
+3626,Calle 4719,,La Plata,1,Buenos Aires,3893,AR
+3627,Calle 9085,,Mendoza,4,Mendoza,8368,AR
+3628,Calle 9464,Piso 6 Dto A,CABA,1,Buenos Aires,5456,AR
+3629,Calle 4076,Piso 10 Dto B,Rosario,3,Santa Fe,5642,AR
+3630,Calle 1575,Piso 8 Dto B,Mar del Plata,1,Buenos Aires,1734,AR
+3631,Calle 8570,,Mar del Plata,1,Buenos Aires,6574,AR
+3632,Calle 7461,Piso 4 Dto B,Mar del Plata,1,Buenos Aires,7585,AR
+3633,Calle 7041,Piso 8 Dto C,La Plata,1,Buenos Aires,8487,AR
+3634,Calle 7497,,CABA,1,Buenos Aires,8098,AR
+3635,Calle 7215,,La Plata,1,Buenos Aires,4520,AR
+3636,Calle 7341,Piso 2 Dto B,Mar del Plata,1,Buenos Aires,8871,AR
+3637,Calle 5338,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,2254,AR
+3638,Calle 328,Piso 11 Dto A,Villa Carlos Paz,2,Córdoba,9051,AR
+3639,Calle 2961,,Mar del Plata,1,Buenos Aires,7028,AR
+3640,Calle 306,,Villa Carlos Paz,2,Córdoba,6490,AR
+3641,Calle 9448,Piso 4 Dto B,Mar del Plata,1,Buenos Aires,6093,AR
+3642,Calle 4331,Piso 3 Dto C,Mar del Plata,1,Buenos Aires,2181,AR
+3643,Calle 9631,Piso 3 Dto B,Rafaela,3,Santa Fe,3037,AR
+3644,Calle 5414,,Mendoza,4,Mendoza,9829,AR
+3645,Calle 7010,Piso 12 Dto A,Santa Fe,3,Santa Fe,5929,AR
+3646,Calle 6739,Piso 4 Dto C,Mendoza,4,Mendoza,5005,AR
+3647,Calle 6314,Piso 4 Dto B,Rosario,3,Santa Fe,4616,AR
+3648,Calle 357,Piso 2 Dto A,Córdoba,2,Córdoba,9999,AR
+3649,Calle 3415,Piso 1 Dto B,Córdoba,2,Córdoba,3415,AR
+3650,Calle 6162,,Mar del Plata,1,Buenos Aires,7345,AR
+3651,Calle 3184,,CABA,1,Buenos Aires,5157,AR
+3652,Calle 9751,Piso 5 Dto B,Córdoba,2,Córdoba,5007,AR
+3653,Calle 2467,Piso 4 Dto A,CABA,1,Buenos Aires,8204,AR
+3654,Calle 784,,Mar del Plata,1,Buenos Aires,8315,AR
+3655,Calle 7553,,La Plata,1,Buenos Aires,7774,AR
+3656,Calle 7283,,La Plata,1,Buenos Aires,9346,AR
+3657,Calle 8002,Piso 8 Dto B,San Rafael,4,Mendoza,7133,AR
+3658,Calle 3923,Piso 5 Dto C,Río Cuarto,2,Córdoba,3266,AR
+3659,Calle 7532,,Santa Fe,3,Santa Fe,8802,AR
+3660,Calle 7788,Piso 5 Dto A,Mar del Plata,1,Buenos Aires,3462,AR
+3661,Calle 6902,,Godoy Cruz,4,Mendoza,6048,AR
+3662,Calle 1447,Piso 2 Dto B,La Plata,1,Buenos Aires,4402,AR
+3663,Calle 954,,Mar del Plata,1,Buenos Aires,5550,AR
+3664,Calle 6528,,Santa Fe,3,Santa Fe,4967,AR
+3665,Calle 4001,Piso 9 Dto B,Villa Carlos Paz,2,Córdoba,6987,AR
+3666,Calle 3282,Piso 11 Dto A,CABA,1,Buenos Aires,8042,AR
+3667,Calle 221,Piso 1 Dto B,Río Cuarto,2,Córdoba,1473,AR
+3668,Calle 4023,Piso 5 Dto C,Mar del Plata,1,Buenos Aires,7904,AR
+3669,Calle 9796,Piso 9 Dto C,Mar del Plata,1,Buenos Aires,6150,AR
+3670,Calle 5215,Piso 9 Dto A,CABA,1,Buenos Aires,5533,AR
+3671,Calle 5021,Piso 8 Dto B,La Plata,1,Buenos Aires,2523,AR
+3672,Calle 6691,,Río Cuarto,2,Córdoba,5598,AR
+3673,Calle 6552,Piso 11 Dto C,Villa Carlos Paz,2,Córdoba,9971,AR
+3674,Calle 6110,Piso 12 Dto A,Córdoba,2,Córdoba,7621,AR
+3675,Calle 6143,,San Rafael,4,Mendoza,5525,AR
+3676,Calle 3794,,Río Cuarto,2,Córdoba,4046,AR
+3677,Calle 285,Piso 6 Dto B,La Plata,1,Buenos Aires,4964,AR
+3678,Calle 1100,Piso 5 Dto A,CABA,1,Buenos Aires,2101,AR
+3679,Calle 6366,Piso 7 Dto A,Rafaela,3,Santa Fe,8938,AR
+3680,Calle 3494,,CABA,1,Buenos Aires,5150,AR
+3681,Calle 5564,Piso 3 Dto B,Río Cuarto,2,Córdoba,5902,AR
+3682,Calle 3080,Piso 6 Dto C,Rosario,3,Santa Fe,5620,AR
+3683,Calle 2728,Piso 12 Dto A,Mar del Plata,1,Buenos Aires,4697,AR
+3684,Calle 6657,Piso 7 Dto B,San Rafael,4,Mendoza,8849,AR
+3685,Calle 3336,,CABA,1,Buenos Aires,1141,AR
+3686,Calle 3205,Piso 5 Dto B,La Plata,1,Buenos Aires,9757,AR
+3687,Calle 8639,,Mar del Plata,1,Buenos Aires,2948,AR
+3688,Calle 5632,,Villa Carlos Paz,2,Córdoba,9560,AR
+3689,Calle 1245,Piso 3 Dto C,Río Cuarto,2,Córdoba,6411,AR
+3690,Calle 6174,,Rosario,3,Santa Fe,4524,AR
+3691,Calle 9628,,CABA,1,Buenos Aires,9974,AR
+3692,Calle 8731,Piso 2 Dto B,Córdoba,2,Córdoba,4097,AR
+3693,Calle 2836,,Mar del Plata,1,Buenos Aires,7061,AR
+3694,Calle 853,,Córdoba,2,Córdoba,3840,AR
+3695,Calle 7737,,CABA,1,Buenos Aires,2427,AR
+3696,Calle 3222,Piso 4 Dto A,Córdoba,2,Córdoba,6838,AR
+3697,Calle 1029,,CABA,1,Buenos Aires,4109,AR
+3698,Calle 169,,Santa Fe,3,Santa Fe,2635,AR
+3699,Calle 6673,Piso 6 Dto C,Río Cuarto,2,Córdoba,6125,AR
+3700,Calle 7081,Piso 4 Dto C,Mar del Plata,1,Buenos Aires,6333,AR
+3701,Calle 3011,,Mar del Plata,1,Buenos Aires,3316,AR
+3702,Calle 4373,,San Rafael,4,Mendoza,7831,AR
+3703,Calle 1688,,Río Cuarto,2,Córdoba,7265,AR
+3704,Calle 283,,Córdoba,2,Córdoba,3622,AR
+3705,Calle 2024,,Mar del Plata,1,Buenos Aires,7838,AR
+3706,Calle 1372,Piso 11 Dto B,Mendoza,4,Mendoza,7588,AR
+3707,Calle 9314,,Villa Carlos Paz,2,Córdoba,9668,AR
+3708,Calle 9387,,Villa Carlos Paz,2,Córdoba,1182,AR
+3709,Calle 5763,,Córdoba,2,Córdoba,8468,AR
+3710,Calle 2389,Piso 1 Dto A,Córdoba,2,Córdoba,5379,AR
+3711,Calle 2111,Piso 5 Dto A,La Plata,1,Buenos Aires,3000,AR
+3712,Calle 4838,,Córdoba,2,Córdoba,6426,AR
+3713,Calle 378,Piso 12 Dto A,Rafaela,3,Santa Fe,1261,AR
+3714,Calle 470,Piso 3 Dto A,Mar del Plata,1,Buenos Aires,1209,AR
+3715,Calle 7817,Piso 5 Dto B,Santa Fe,3,Santa Fe,6588,AR
+3716,Calle 4214,Piso 2 Dto C,Córdoba,2,Córdoba,8137,AR
+3717,Calle 3347,Piso 1 Dto A,Godoy Cruz,4,Mendoza,6394,AR
+3718,Calle 3614,Piso 9 Dto C,CABA,1,Buenos Aires,9697,AR
+3719,Calle 6241,,Godoy Cruz,4,Mendoza,2213,AR
+3720,Calle 6828,,CABA,1,Buenos Aires,1377,AR
+3721,Calle 3171,,San Rafael,4,Mendoza,5578,AR
+3722,Calle 7328,,Santa Fe,3,Santa Fe,4511,AR
+3723,Calle 1987,Piso 12 Dto C,La Plata,1,Buenos Aires,9536,AR
+3724,Calle 2761,Piso 12 Dto C,Río Cuarto,2,Córdoba,6046,AR
+3725,Calle 4254,,Córdoba,2,Córdoba,6925,AR
+3726,Calle 9189,Piso 4 Dto C,CABA,1,Buenos Aires,2523,AR
+3727,Calle 923,,Mar del Plata,1,Buenos Aires,3065,AR
+3728,Calle 4192,Piso 9 Dto C,Mar del Plata,1,Buenos Aires,9662,AR
+3729,Calle 6226,,Santa Fe,3,Santa Fe,3732,AR
+3730,Calle 8763,,Rafaela,3,Santa Fe,9610,AR
+3731,Calle 1816,,Córdoba,2,Córdoba,5021,AR
+3732,Calle 8356,Piso 9 Dto B,La Plata,1,Buenos Aires,9768,AR
+3733,Calle 7946,Piso 7 Dto C,Villa Carlos Paz,2,Córdoba,9231,AR
+3734,Calle 4564,,Villa Carlos Paz,2,Córdoba,8858,AR
+3735,Calle 5333,Piso 10 Dto B,Río Cuarto,2,Córdoba,3401,AR
+3736,Calle 3288,Piso 2 Dto B,Mar del Plata,1,Buenos Aires,6646,AR
+3737,Calle 8241,Piso 12 Dto C,Córdoba,2,Córdoba,5498,AR
+3738,Calle 1426,Piso 11 Dto A,Villa Carlos Paz,2,Córdoba,9627,AR
+3739,Calle 7022,,Córdoba,2,Córdoba,2930,AR
+3740,Calle 3671,Piso 5 Dto C,La Plata,1,Buenos Aires,6826,AR
+3741,Calle 7141,Piso 5 Dto A,La Plata,1,Buenos Aires,8218,AR
+3742,Calle 131,,Córdoba,2,Córdoba,6750,AR
+3743,Calle 1807,,Rosario,3,Santa Fe,2406,AR
+3744,Calle 2544,,Río Cuarto,2,Córdoba,3068,AR
+3745,Calle 3523,,Mar del Plata,1,Buenos Aires,8857,AR
+3746,Calle 9302,Piso 11 Dto C,CABA,1,Buenos Aires,8141,AR
+3747,Calle 8293,,San Rafael,4,Mendoza,4342,AR
+3748,Calle 83,,San Rafael,4,Mendoza,8186,AR
+3749,Calle 6540,Piso 7 Dto C,Mar del Plata,1,Buenos Aires,2709,AR
+3750,Calle 6830,,La Plata,1,Buenos Aires,3527,AR
+3751,Calle 7939,Piso 5 Dto C,La Plata,1,Buenos Aires,3257,AR
+3752,Calle 5452,Piso 12 Dto A,Mar del Plata,1,Buenos Aires,5897,AR
+3753,Calle 2510,Piso 12 Dto C,Mar del Plata,1,Buenos Aires,7697,AR
+3754,Calle 2516,,Río Cuarto,2,Córdoba,3796,AR
+3755,Calle 5259,,Santa Fe,3,Santa Fe,5028,AR
+3756,Calle 5574,,Villa Carlos Paz,2,Córdoba,2463,AR
+3757,Calle 4257,Piso 4 Dto C,La Plata,1,Buenos Aires,7515,AR
+3758,Calle 4728,,Villa Carlos Paz,2,Córdoba,8304,AR
+3759,Calle 7873,,Córdoba,2,Córdoba,9271,AR
+3760,Calle 6068,Piso 2 Dto A,La Plata,1,Buenos Aires,5897,AR
+3761,Calle 2707,,Rafaela,3,Santa Fe,8036,AR
+3762,Calle 8520,Piso 11 Dto A,Córdoba,2,Córdoba,8796,AR
+3763,Calle 5743,,La Plata,1,Buenos Aires,8887,AR
+3764,Calle 4315,,La Plata,1,Buenos Aires,6012,AR
+3765,Calle 8799,Piso 8 Dto C,Godoy Cruz,4,Mendoza,2668,AR
+3766,Calle 2863,,Rafaela,3,Santa Fe,5352,AR
+3767,Calle 3949,Piso 5 Dto A,Mar del Plata,1,Buenos Aires,4448,AR
+3768,Calle 2048,,Villa Carlos Paz,2,Córdoba,2798,AR
+3769,Calle 4134,,San Rafael,4,Mendoza,5714,AR
+3770,Calle 4300,Piso 12 Dto C,CABA,1,Buenos Aires,3187,AR
+3771,Calle 7673,Piso 9 Dto B,La Plata,1,Buenos Aires,5170,AR
+3772,Calle 7993,Piso 5 Dto A,La Plata,1,Buenos Aires,9748,AR
+3773,Calle 7662,Piso 4 Dto C,Santa Fe,3,Santa Fe,3484,AR
+3774,Calle 6009,,Rafaela,3,Santa Fe,6636,AR
+3775,Calle 7993,,Villa Carlos Paz,2,Córdoba,7697,AR
+3776,Calle 4301,,Mar del Plata,1,Buenos Aires,4168,AR
+3777,Calle 4948,Piso 8 Dto A,CABA,1,Buenos Aires,1298,AR
+3778,Calle 9715,,La Plata,1,Buenos Aires,5169,AR
+3779,Calle 4024,Piso 5 Dto A,Villa Carlos Paz,2,Córdoba,6232,AR
+3780,Calle 3552,Piso 8 Dto B,San Rafael,4,Mendoza,7593,AR
+3781,Calle 3129,,CABA,1,Buenos Aires,1316,AR
+3782,Calle 512,,Mar del Plata,1,Buenos Aires,8181,AR
+3783,Calle 9385,,Godoy Cruz,4,Mendoza,9009,AR
+3784,Calle 2918,Piso 9 Dto B,Mar del Plata,1,Buenos Aires,2603,AR
+3785,Calle 1800,,Mendoza,4,Mendoza,7950,AR
+3786,Calle 5783,Piso 4 Dto B,CABA,1,Buenos Aires,4934,AR
+3787,Calle 8638,,Santa Fe,3,Santa Fe,9012,AR
+3788,Calle 8749,Piso 9 Dto A,CABA,1,Buenos Aires,2398,AR
+3789,Calle 1745,,La Plata,1,Buenos Aires,2219,AR
+3790,Calle 7670,Piso 5 Dto A,Mar del Plata,1,Buenos Aires,6075,AR
+3791,Calle 3687,Piso 6 Dto B,Mar del Plata,1,Buenos Aires,8235,AR
+3792,Calle 8523,,Godoy Cruz,4,Mendoza,1844,AR
+3793,Calle 5968,Piso 11 Dto B,Córdoba,2,Córdoba,3512,AR
+3794,Calle 2853,Piso 6 Dto A,Rafaela,3,Santa Fe,4887,AR
+3795,Calle 1120,Piso 3 Dto C,Santa Fe,3,Santa Fe,8031,AR
+3796,Calle 2105,,CABA,1,Buenos Aires,5322,AR
+3797,Calle 6187,Piso 2 Dto A,CABA,1,Buenos Aires,9954,AR
+3798,Calle 5016,Piso 7 Dto B,Rafaela,3,Santa Fe,5327,AR
+3799,Calle 3519,Piso 3 Dto B,La Plata,1,Buenos Aires,5590,AR
+3800,Calle 8533,Piso 2 Dto C,Mendoza,4,Mendoza,2398,AR
+3801,Calle 3074,Piso 9 Dto A,La Plata,1,Buenos Aires,3365,AR
+3802,Calle 8846,,Mar del Plata,1,Buenos Aires,8283,AR
+3803,Calle 8800,,CABA,1,Buenos Aires,5262,AR
+3804,Calle 458,,Córdoba,2,Córdoba,4249,AR
+3805,Calle 1597,Piso 2 Dto A,CABA,1,Buenos Aires,3768,AR
+3806,Calle 188,Piso 4 Dto A,La Plata,1,Buenos Aires,7469,AR
+3807,Calle 758,,La Plata,1,Buenos Aires,7910,AR
+3808,Calle 3887,,Mar del Plata,1,Buenos Aires,7114,AR
+3809,Calle 7910,Piso 12 Dto A,Mar del Plata,1,Buenos Aires,4039,AR
+3810,Calle 4620,Piso 9 Dto C,CABA,1,Buenos Aires,1808,AR
+3811,Calle 9410,,La Plata,1,Buenos Aires,3651,AR
+3812,Calle 5383,Piso 7 Dto B,Rafaela,3,Santa Fe,8655,AR
+3813,Calle 1366,Piso 7 Dto A,Mar del Plata,1,Buenos Aires,4779,AR
+3814,Calle 9325,Piso 1 Dto C,La Plata,1,Buenos Aires,1253,AR
+3815,Calle 1876,Piso 12 Dto C,La Plata,1,Buenos Aires,1869,AR
+3816,Calle 6124,,Río Cuarto,2,Córdoba,4077,AR
+3817,Calle 9496,,Mendoza,4,Mendoza,8575,AR
+3818,Calle 4041,,La Plata,1,Buenos Aires,7520,AR
+3819,Calle 2816,,Santa Fe,3,Santa Fe,3854,AR
+3820,Calle 411,Piso 9 Dto C,Mar del Plata,1,Buenos Aires,7010,AR
+3821,Calle 9888,Piso 4 Dto A,CABA,1,Buenos Aires,9933,AR
+3822,Calle 3148,,Santa Fe,3,Santa Fe,1069,AR
+3823,Calle 5346,Piso 2 Dto B,CABA,1,Buenos Aires,6538,AR
+3824,Calle 5656,,CABA,1,Buenos Aires,2335,AR
+3825,Calle 2467,,CABA,1,Buenos Aires,2421,AR
+3826,Calle 9551,,Mar del Plata,1,Buenos Aires,4613,AR
+3827,Calle 7435,Piso 2 Dto B,Rafaela,3,Santa Fe,2334,AR
+3828,Calle 536,Piso 6 Dto B,Córdoba,2,Córdoba,1933,AR
+3829,Calle 6259,,La Plata,1,Buenos Aires,7425,AR
+3830,Calle 9098,,CABA,1,Buenos Aires,4916,AR
+3831,Calle 1890,Piso 9 Dto B,La Plata,1,Buenos Aires,8495,AR
+3832,Calle 994,Piso 1 Dto B,Santa Fe,3,Santa Fe,4677,AR
+3833,Calle 9620,,Mar del Plata,1,Buenos Aires,2311,AR
+3834,Calle 3730,Piso 4 Dto A,Rosario,3,Santa Fe,7884,AR
+3835,Calle 4326,,La Plata,1,Buenos Aires,5951,AR
+3836,Calle 708,Piso 10 Dto B,Mar del Plata,1,Buenos Aires,4558,AR
+3837,Calle 6341,Piso 1 Dto B,La Plata,1,Buenos Aires,3657,AR
+3838,Calle 9563,Piso 6 Dto C,Mar del Plata,1,Buenos Aires,8820,AR
+3839,Calle 1762,Piso 1 Dto B,Rosario,3,Santa Fe,7425,AR
+3840,Calle 4751,Piso 11 Dto C,Santa Fe,3,Santa Fe,7853,AR
+3841,Calle 9262,,Mar del Plata,1,Buenos Aires,7347,AR
+3842,Calle 4397,,La Plata,1,Buenos Aires,1170,AR
+3843,Calle 6230,Piso 9 Dto B,Mar del Plata,1,Buenos Aires,1186,AR
+3844,Calle 9789,Piso 3 Dto C,Mar del Plata,1,Buenos Aires,2108,AR
+3845,Calle 8977,Piso 8 Dto A,La Plata,1,Buenos Aires,8220,AR
+3846,Calle 7675,,La Plata,1,Buenos Aires,7656,AR
+3847,Calle 7675,Piso 10 Dto A,La Plata,1,Buenos Aires,2142,AR
+3848,Calle 3906,,La Plata,1,Buenos Aires,7872,AR
+3849,Calle 6667,,CABA,1,Buenos Aires,5709,AR
+3850,Calle 3963,,CABA,1,Buenos Aires,4764,AR
+3851,Calle 6573,Piso 12 Dto A,CABA,1,Buenos Aires,5236,AR
+3852,Calle 6535,,Córdoba,2,Córdoba,4124,AR
+3853,Calle 5294,Piso 3 Dto C,La Plata,1,Buenos Aires,2480,AR
+3854,Calle 7904,,CABA,1,Buenos Aires,7267,AR
+3855,Calle 5511,Piso 5 Dto C,Mar del Plata,1,Buenos Aires,6581,AR
+3856,Calle 8525,,Mar del Plata,1,Buenos Aires,6932,AR
+3857,Calle 8674,,Mendoza,4,Mendoza,8275,AR
+3858,Calle 2163,,Santa Fe,3,Santa Fe,8858,AR
+3859,Calle 9022,Piso 9 Dto C,Santa Fe,3,Santa Fe,9918,AR
+3860,Calle 689,,CABA,1,Buenos Aires,3765,AR
+3861,Calle 7874,Piso 1 Dto A,CABA,1,Buenos Aires,7574,AR
+3862,Calle 9449,Piso 11 Dto A,San Rafael,4,Mendoza,9593,AR
+3863,Calle 8144,,Mar del Plata,1,Buenos Aires,5122,AR
+3864,Calle 5936,,Rafaela,3,Santa Fe,8764,AR
+3865,Calle 6998,,CABA,1,Buenos Aires,3994,AR
+3866,Calle 7717,Piso 1 Dto A,Córdoba,2,Córdoba,2287,AR
+3867,Calle 5116,,La Plata,1,Buenos Aires,3458,AR
+3868,Calle 60,Piso 2 Dto C,CABA,1,Buenos Aires,6912,AR
+3869,Calle 1095,Piso 7 Dto B,La Plata,1,Buenos Aires,3252,AR
+3870,Calle 6649,Piso 7 Dto A,La Plata,1,Buenos Aires,6235,AR
+3871,Calle 2804,Piso 7 Dto C,Santa Fe,3,Santa Fe,5142,AR
+3872,Calle 3766,,CABA,1,Buenos Aires,8885,AR
+3873,Calle 4790,,Godoy Cruz,4,Mendoza,4304,AR
+3874,Calle 8318,,Villa Carlos Paz,2,Córdoba,4541,AR
+3875,Calle 172,,Mar del Plata,1,Buenos Aires,5253,AR
+3876,Calle 2516,Piso 4 Dto A,Mar del Plata,1,Buenos Aires,8953,AR
+3877,Calle 8709,,Mar del Plata,1,Buenos Aires,8541,AR
+3878,Calle 1751,Piso 10 Dto B,CABA,1,Buenos Aires,8919,AR
+3879,Calle 5741,,CABA,1,Buenos Aires,1757,AR
+3880,Calle 9007,Piso 12 Dto C,Rosario,3,Santa Fe,3069,AR
+3881,Calle 9259,Piso 8 Dto A,CABA,1,Buenos Aires,4239,AR
+3882,Calle 2647,Piso 10 Dto A,Río Cuarto,2,Córdoba,9774,AR
+3883,Calle 1267,Piso 7 Dto A,Mendoza,4,Mendoza,2364,AR
+3884,Calle 7646,Piso 6 Dto B,Córdoba,2,Córdoba,2813,AR
+3885,Calle 9197,Piso 8 Dto A,Godoy Cruz,4,Mendoza,3596,AR
+3886,Calle 1307,,Mar del Plata,1,Buenos Aires,2148,AR
+3887,Calle 7698,,Mar del Plata,1,Buenos Aires,8114,AR
+3888,Calle 4868,Piso 4 Dto C,La Plata,1,Buenos Aires,4236,AR
+3889,Calle 7577,,Rafaela,3,Santa Fe,7166,AR
+3890,Calle 6654,,La Plata,1,Buenos Aires,9495,AR
+3891,Calle 9362,Piso 1 Dto A,Rafaela,3,Santa Fe,9748,AR
+3892,Calle 4801,Piso 8 Dto C,Córdoba,2,Córdoba,1828,AR
+3893,Calle 4704,,Río Cuarto,2,Córdoba,7864,AR
+3894,Calle 6803,,La Plata,1,Buenos Aires,7643,AR
+3895,Calle 2268,Piso 3 Dto B,Río Cuarto,2,Córdoba,3519,AR
+3896,Calle 3784,,Mar del Plata,1,Buenos Aires,5397,AR
+3897,Calle 5441,,San Rafael,4,Mendoza,2781,AR
+3898,Calle 2987,,Rosario,3,Santa Fe,5237,AR
+3899,Calle 6900,,Godoy Cruz,4,Mendoza,2077,AR
+3900,Calle 3650,Piso 4 Dto B,Mar del Plata,1,Buenos Aires,8346,AR
+3901,Calle 8827,Piso 11 Dto A,Mar del Plata,1,Buenos Aires,7836,AR
+3902,Calle 7810,,Godoy Cruz,4,Mendoza,1325,AR
+3903,Calle 4935,,CABA,1,Buenos Aires,7597,AR
+3904,Calle 3323,,Mar del Plata,1,Buenos Aires,1621,AR
+3905,Calle 6662,Piso 2 Dto C,La Plata,1,Buenos Aires,5933,AR
+3906,Calle 4087,Piso 12 Dto C,La Plata,1,Buenos Aires,6211,AR
+3907,Calle 4656,,Córdoba,2,Córdoba,3047,AR
+3908,Calle 2353,,Río Cuarto,2,Córdoba,8092,AR
+3909,Calle 9354,,Godoy Cruz,4,Mendoza,6009,AR
+3910,Calle 9626,Piso 1 Dto B,Villa Carlos Paz,2,Córdoba,4473,AR
+3911,Calle 5682,Piso 3 Dto C,Rafaela,3,Santa Fe,4644,AR
+3912,Calle 8372,,CABA,1,Buenos Aires,1322,AR
+3913,Calle 4073,,La Plata,1,Buenos Aires,1826,AR
+3914,Calle 5083,,Godoy Cruz,4,Mendoza,5802,AR
+3915,Calle 9340,,Mendoza,4,Mendoza,8514,AR
+3916,Calle 5683,,CABA,1,Buenos Aires,7549,AR
+3917,Calle 5352,Piso 2 Dto A,CABA,1,Buenos Aires,2470,AR
+3918,Calle 8755,Piso 8 Dto A,Godoy Cruz,4,Mendoza,1857,AR
+3919,Calle 4902,Piso 6 Dto B,Mar del Plata,1,Buenos Aires,2166,AR
+3920,Calle 6084,,Córdoba,2,Córdoba,6255,AR
+3921,Calle 7968,,CABA,1,Buenos Aires,5087,AR
+3922,Calle 3658,Piso 12 Dto C,Godoy Cruz,4,Mendoza,5160,AR
+3923,Calle 1804,Piso 6 Dto C,Villa Carlos Paz,2,Córdoba,6145,AR
+3924,Calle 6428,,CABA,1,Buenos Aires,9436,AR
+3925,Calle 4031,,Godoy Cruz,4,Mendoza,7725,AR
+3926,Calle 8790,Piso 11 Dto B,Rosario,3,Santa Fe,4890,AR
+3927,Calle 7508,Piso 7 Dto A,CABA,1,Buenos Aires,1680,AR
+3928,Calle 9947,Piso 9 Dto C,La Plata,1,Buenos Aires,9207,AR
+3929,Calle 9760,,Villa Carlos Paz,2,Córdoba,6014,AR
+3930,Calle 6922,,Río Cuarto,2,Córdoba,1621,AR
+3931,Calle 6842,,La Plata,1,Buenos Aires,4547,AR
+3932,Calle 8593,,Mar del Plata,1,Buenos Aires,9813,AR
+3933,Calle 1878,,La Plata,1,Buenos Aires,7678,AR
+3934,Calle 5773,Piso 2 Dto C,Mar del Plata,1,Buenos Aires,7888,AR
+3935,Calle 577,Piso 11 Dto C,San Rafael,4,Mendoza,6473,AR
+3936,Calle 2627,,Rafaela,3,Santa Fe,9585,AR
+3937,Calle 8000,,CABA,1,Buenos Aires,5757,AR
+3938,Calle 7506,Piso 4 Dto B,CABA,1,Buenos Aires,5632,AR
+3939,Calle 472,,CABA,1,Buenos Aires,7559,AR
+3940,Calle 9805,Piso 10 Dto C,San Rafael,4,Mendoza,2691,AR
+3941,Calle 9955,Piso 9 Dto A,La Plata,1,Buenos Aires,8560,AR
+3942,Calle 4317,Piso 10 Dto A,La Plata,1,Buenos Aires,7208,AR
+3943,Calle 7364,Piso 6 Dto A,La Plata,1,Buenos Aires,9051,AR
+3944,Calle 5806,Piso 7 Dto A,La Plata,1,Buenos Aires,6987,AR
+3945,Calle 4079,,La Plata,1,Buenos Aires,8190,AR
+3946,Calle 267,,Córdoba,2,Córdoba,6726,AR
+3947,Calle 7021,,Santa Fe,3,Santa Fe,8695,AR
+3948,Calle 302,,CABA,1,Buenos Aires,7201,AR
+3949,Calle 1774,Piso 10 Dto A,Villa Carlos Paz,2,Córdoba,2765,AR
+3950,Calle 2519,,La Plata,1,Buenos Aires,5302,AR
+3951,Calle 4753,,La Plata,1,Buenos Aires,1947,AR
+3952,Calle 8312,,CABA,1,Buenos Aires,4420,AR
+3953,Calle 3882,Piso 9 Dto C,La Plata,1,Buenos Aires,3213,AR
+3954,Calle 3516,Piso 1 Dto A,La Plata,1,Buenos Aires,5075,AR
+3955,Calle 974,,Mar del Plata,1,Buenos Aires,5768,AR
+3956,Calle 5034,,Mar del Plata,1,Buenos Aires,9056,AR
+3957,Calle 9280,Piso 11 Dto B,Mar del Plata,1,Buenos Aires,5447,AR
+3958,Calle 8389,,Rosario,3,Santa Fe,6885,AR
+3959,Calle 2569,,La Plata,1,Buenos Aires,8411,AR
+3960,Calle 69,,Córdoba,2,Córdoba,1612,AR
+3961,Calle 639,Piso 6 Dto B,La Plata,1,Buenos Aires,8399,AR
+3962,Calle 6046,,CABA,1,Buenos Aires,5299,AR
+3963,Calle 2720,Piso 9 Dto A,San Rafael,4,Mendoza,2137,AR
+3964,Calle 8885,,CABA,1,Buenos Aires,3082,AR
+3965,Calle 4513,,La Plata,1,Buenos Aires,7252,AR
+3966,Calle 2303,Piso 8 Dto B,La Plata,1,Buenos Aires,5617,AR
+3967,Calle 2372,,CABA,1,Buenos Aires,5113,AR
+3968,Calle 3136,,La Plata,1,Buenos Aires,8561,AR
+3969,Calle 6013,,La Plata,1,Buenos Aires,2800,AR
+3970,Calle 6231,,CABA,1,Buenos Aires,5318,AR
+3971,Calle 9401,Piso 7 Dto A,Córdoba,2,Córdoba,2397,AR
+3972,Calle 8215,,CABA,1,Buenos Aires,2670,AR
+3973,Calle 9819,Piso 3 Dto B,Villa Carlos Paz,2,Córdoba,7704,AR
+3974,Calle 4743,,Córdoba,2,Córdoba,5289,AR
+3975,Calle 1143,,CABA,1,Buenos Aires,2696,AR
+3976,Calle 1408,,La Plata,1,Buenos Aires,3565,AR
+3977,Calle 9622,Piso 11 Dto A,Villa Carlos Paz,2,Córdoba,6108,AR
+3978,Calle 6785,Piso 1 Dto C,La Plata,1,Buenos Aires,1782,AR
+3979,Calle 8247,,La Plata,1,Buenos Aires,2133,AR
+3980,Calle 5795,Piso 7 Dto B,La Plata,1,Buenos Aires,8762,AR
+3981,Calle 7500,Piso 6 Dto C,Mendoza,4,Mendoza,5403,AR
+3982,Calle 448,Piso 4 Dto A,La Plata,1,Buenos Aires,5350,AR
+3983,Calle 8606,,Río Cuarto,2,Córdoba,5045,AR
+3984,Calle 4734,Piso 2 Dto A,Villa Carlos Paz,2,Córdoba,5922,AR
+3985,Calle 278,Piso 4 Dto A,La Plata,1,Buenos Aires,8387,AR
+3986,Calle 9119,Piso 1 Dto B,CABA,1,Buenos Aires,7497,AR
+3987,Calle 1331,Piso 1 Dto C,CABA,1,Buenos Aires,6444,AR
+3988,Calle 2716,Piso 6 Dto A,CABA,1,Buenos Aires,1613,AR
+3989,Calle 1007,Piso 5 Dto B,Mendoza,4,Mendoza,9536,AR
+3990,Calle 9199,Piso 7 Dto C,La Plata,1,Buenos Aires,9335,AR
+3991,Calle 199,Piso 11 Dto A,La Plata,1,Buenos Aires,2745,AR
+3992,Calle 7677,Piso 1 Dto A,Godoy Cruz,4,Mendoza,8967,AR
+3993,Calle 9407,,Villa Carlos Paz,2,Córdoba,4309,AR
+3994,Calle 1813,,CABA,1,Buenos Aires,7932,AR
+3995,Calle 388,Piso 3 Dto A,Godoy Cruz,4,Mendoza,5695,AR
+3996,Calle 5476,Piso 10 Dto B,La Plata,1,Buenos Aires,5576,AR
+3997,Calle 8504,Piso 5 Dto C,Mar del Plata,1,Buenos Aires,6610,AR
+3998,Calle 9299,,Mendoza,4,Mendoza,4458,AR
+3999,Calle 908,,CABA,1,Buenos Aires,7303,AR
+4000,Calle 6323,Piso 12 Dto A,Mendoza,4,Mendoza,8477,AR
+4001,Calle 3547,Piso 10 Dto B,La Plata,1,Buenos Aires,3535,AR
+4002,Calle 2495,Piso 4 Dto C,Mar del Plata,1,Buenos Aires,9618,AR
+4003,Calle 3992,Piso 10 Dto A,Rafaela,3,Santa Fe,7357,AR
+4004,Calle 4273,,CABA,1,Buenos Aires,5480,AR
+4005,Calle 9978,,Santa Fe,3,Santa Fe,8052,AR
+4006,Calle 1660,Piso 8 Dto A,Mar del Plata,1,Buenos Aires,8577,AR
+4007,Calle 1990,Piso 7 Dto A,Mar del Plata,1,Buenos Aires,1401,AR
+4008,Calle 9131,Piso 10 Dto A,Río Cuarto,2,Córdoba,5308,AR
+4009,Calle 9709,Piso 9 Dto C,CABA,1,Buenos Aires,1255,AR
+4010,Calle 5369,,San Rafael,4,Mendoza,4781,AR
+4011,Calle 7790,Piso 12 Dto A,CABA,1,Buenos Aires,7513,AR
+4012,Calle 9902,Piso 11 Dto A,CABA,1,Buenos Aires,1390,AR
+4013,Calle 117,,CABA,1,Buenos Aires,2820,AR
+4014,Calle 6949,,La Plata,1,Buenos Aires,8531,AR
+4015,Calle 8426,,Villa Carlos Paz,2,Córdoba,4784,AR
+4016,Calle 9111,,Mar del Plata,1,Buenos Aires,9697,AR
+4017,Calle 9388,Piso 10 Dto A,Villa Carlos Paz,2,Córdoba,8832,AR
+4018,Calle 1206,Piso 1 Dto B,CABA,1,Buenos Aires,9670,AR
+4019,Calle 4015,Piso 11 Dto B,La Plata,1,Buenos Aires,6193,AR
+4020,Calle 2072,,CABA,1,Buenos Aires,3288,AR
+4021,Calle 8623,Piso 12 Dto B,CABA,1,Buenos Aires,2991,AR
+4022,Calle 3660,,Mar del Plata,1,Buenos Aires,7774,AR
+4023,Calle 7150,Piso 10 Dto A,Rafaela,3,Santa Fe,9302,AR
+4024,Calle 9986,Piso 10 Dto A,Mar del Plata,1,Buenos Aires,8576,AR
+4025,Calle 2415,,CABA,1,Buenos Aires,4737,AR
+4026,Calle 8744,Piso 3 Dto C,Mendoza,4,Mendoza,8441,AR
+4027,Calle 3939,Piso 8 Dto C,Mar del Plata,1,Buenos Aires,6257,AR
+4028,Calle 3032,Piso 10 Dto B,Godoy Cruz,4,Mendoza,5229,AR
+4029,Calle 4069,Piso 12 Dto C,Villa Carlos Paz,2,Córdoba,9882,AR
+4030,Calle 1219,,CABA,1,Buenos Aires,1759,AR
+4031,Calle 8516,Piso 1 Dto B,Mar del Plata,1,Buenos Aires,8846,AR
+4032,Calle 5698,,Santa Fe,3,Santa Fe,7367,AR
+4033,Calle 7847,,Rafaela,3,Santa Fe,6838,AR
+4034,Calle 4366,Piso 7 Dto A,Córdoba,2,Córdoba,3757,AR
+4035,Calle 6502,,Mar del Plata,1,Buenos Aires,4544,AR
+4036,Calle 4866,,Mar del Plata,1,Buenos Aires,3870,AR
+4037,Calle 9658,Piso 10 Dto B,Mar del Plata,1,Buenos Aires,4725,AR
+4038,Calle 3205,Piso 10 Dto B,San Rafael,4,Mendoza,6174,AR
+4039,Calle 2393,Piso 5 Dto C,Mar del Plata,1,Buenos Aires,5414,AR
+4040,Calle 3549,,La Plata,1,Buenos Aires,4578,AR
+4041,Calle 6439,Piso 11 Dto B,La Plata,1,Buenos Aires,2705,AR
+4042,Calle 4779,,Mar del Plata,1,Buenos Aires,4407,AR
+4043,Calle 704,,Rafaela,3,Santa Fe,1525,AR
+4044,Calle 2722,,Río Cuarto,2,Córdoba,9376,AR
+4045,Calle 1813,,CABA,1,Buenos Aires,2363,AR
+4046,Calle 6993,Piso 6 Dto B,Córdoba,2,Córdoba,3446,AR
+4047,Calle 108,Piso 2 Dto C,CABA,1,Buenos Aires,1368,AR
+4048,Calle 7700,,Mar del Plata,1,Buenos Aires,8157,AR
+4049,Calle 7044,Piso 4 Dto C,Mar del Plata,1,Buenos Aires,6345,AR
+4050,Calle 5362,,Mar del Plata,1,Buenos Aires,1319,AR
+4051,Calle 531,Piso 9 Dto A,Mendoza,4,Mendoza,9810,AR
+4052,Calle 7034,,Córdoba,2,Córdoba,1210,AR
+4053,Calle 2206,Piso 3 Dto A,La Plata,1,Buenos Aires,1627,AR
+4054,Calle 3784,,Río Cuarto,2,Córdoba,5451,AR
+4055,Calle 4500,Piso 4 Dto B,Rafaela,3,Santa Fe,4353,AR
+4056,Calle 2320,,San Rafael,4,Mendoza,7808,AR
+4057,Calle 6985,Piso 10 Dto B,La Plata,1,Buenos Aires,6006,AR
+4058,Calle 4166,Piso 6 Dto B,CABA,1,Buenos Aires,2053,AR
+4059,Calle 6406,Piso 5 Dto C,La Plata,1,Buenos Aires,1070,AR
+4060,Calle 4754,,Villa Carlos Paz,2,Córdoba,2635,AR
+4061,Calle 8025,,Córdoba,2,Córdoba,7764,AR
+4062,Calle 2124,,Mar del Plata,1,Buenos Aires,6876,AR
+4063,Calle 9992,Piso 7 Dto C,CABA,1,Buenos Aires,2617,AR
+4064,Calle 5430,,CABA,1,Buenos Aires,3664,AR
+4065,Calle 787,,Río Cuarto,2,Córdoba,8471,AR
+4066,Calle 5732,,Córdoba,2,Córdoba,6014,AR
+4067,Calle 5569,,Mendoza,4,Mendoza,6965,AR
+4068,Calle 1898,Piso 6 Dto A,Rosario,3,Santa Fe,6232,AR
+4069,Calle 7586,,Córdoba,2,Córdoba,7584,AR
+4070,Calle 4528,,La Plata,1,Buenos Aires,4898,AR
+4071,Calle 8744,Piso 9 Dto A,La Plata,1,Buenos Aires,2928,AR
+4072,Calle 2151,,La Plata,1,Buenos Aires,7028,AR
+4073,Calle 5972,,Godoy Cruz,4,Mendoza,6340,AR
+4074,Calle 5263,,Villa Carlos Paz,2,Córdoba,2752,AR
+4075,Calle 8983,Piso 4 Dto A,Rafaela,3,Santa Fe,6428,AR
+4076,Calle 7245,,CABA,1,Buenos Aires,2437,AR
+4077,Calle 5844,Piso 9 Dto C,Mar del Plata,1,Buenos Aires,1638,AR
+4078,Calle 2751,,Rafaela,3,Santa Fe,4300,AR
+4079,Calle 6160,,Río Cuarto,2,Córdoba,5461,AR
+4080,Calle 1153,,Mar del Plata,1,Buenos Aires,1115,AR
+4081,Calle 1915,Piso 12 Dto A,CABA,1,Buenos Aires,3074,AR
+4082,Calle 6455,,La Plata,1,Buenos Aires,9533,AR
+4083,Calle 5780,Piso 3 Dto C,Río Cuarto,2,Córdoba,9390,AR
+4084,Calle 8948,Piso 5 Dto A,CABA,1,Buenos Aires,7486,AR
+4085,Calle 141,Piso 11 Dto A,Mar del Plata,1,Buenos Aires,4886,AR
+4086,Calle 9542,Piso 10 Dto C,Río Cuarto,2,Córdoba,5533,AR
+4087,Calle 4140,,Mar del Plata,1,Buenos Aires,1708,AR
+4088,Calle 6981,Piso 3 Dto B,CABA,1,Buenos Aires,5666,AR
+4089,Calle 5811,Piso 10 Dto A,La Plata,1,Buenos Aires,1507,AR
+4090,Calle 8445,Piso 4 Dto C,Mar del Plata,1,Buenos Aires,1887,AR
+4091,Calle 9377,Piso 7 Dto B,Rafaela,3,Santa Fe,8380,AR
+4092,Calle 8141,,Rafaela,3,Santa Fe,7199,AR
+4093,Calle 5024,Piso 11 Dto A,CABA,1,Buenos Aires,4449,AR
+4094,Calle 1604,Piso 11 Dto B,San Rafael,4,Mendoza,7355,AR
+4095,Calle 3168,,Rafaela,3,Santa Fe,1042,AR
+4096,Calle 6356,,CABA,1,Buenos Aires,4125,AR
+4097,Calle 5269,,Río Cuarto,2,Córdoba,4098,AR
+4098,Calle 5572,Piso 3 Dto C,Río Cuarto,2,Córdoba,1708,AR
+4099,Calle 6433,,CABA,1,Buenos Aires,8513,AR
+4100,Calle 5424,Piso 2 Dto B,Mar del Plata,1,Buenos Aires,3553,AR
+4101,Calle 3087,,Córdoba,2,Córdoba,5388,AR
+4102,Calle 6945,,La Plata,1,Buenos Aires,4981,AR
+4103,Calle 7398,,La Plata,1,Buenos Aires,1670,AR
+4104,Calle 1207,Piso 4 Dto B,La Plata,1,Buenos Aires,5349,AR
+4105,Calle 6417,,Villa Carlos Paz,2,Córdoba,5084,AR
+4106,Calle 7826,,Mendoza,4,Mendoza,7856,AR
+4107,Calle 6640,,Mar del Plata,1,Buenos Aires,3448,AR
+4108,Calle 433,Piso 6 Dto B,Río Cuarto,2,Córdoba,5641,AR
+4109,Calle 4069,Piso 11 Dto A,Villa Carlos Paz,2,Córdoba,7078,AR
+4110,Calle 9514,,La Plata,1,Buenos Aires,7682,AR
+4111,Calle 109,Piso 8 Dto B,Villa Carlos Paz,2,Córdoba,9829,AR
+4112,Calle 3803,Piso 11 Dto A,Mendoza,4,Mendoza,7716,AR
+4113,Calle 1012,Piso 5 Dto C,Río Cuarto,2,Córdoba,1579,AR
+4114,Calle 4001,Piso 7 Dto C,Mar del Plata,1,Buenos Aires,3328,AR
+4115,Calle 285,,Rafaela,3,Santa Fe,3452,AR
+4116,Calle 5525,Piso 11 Dto A,Villa Carlos Paz,2,Córdoba,2706,AR
+4117,Calle 7073,,Rosario,3,Santa Fe,2099,AR
+4118,Calle 634,,Córdoba,2,Córdoba,5142,AR
+4119,Calle 7151,,Villa Carlos Paz,2,Córdoba,2876,AR
+4120,Calle 9032,,CABA,1,Buenos Aires,4788,AR
+4121,Calle 9470,,Córdoba,2,Córdoba,2842,AR
+4122,Calle 408,,Rosario,3,Santa Fe,3839,AR
+4123,Calle 9163,,CABA,1,Buenos Aires,8590,AR
+4124,Calle 7439,Piso 1 Dto B,Córdoba,2,Córdoba,6310,AR
+4125,Calle 7290,,Río Cuarto,2,Córdoba,2018,AR
+4126,Calle 8496,,CABA,1,Buenos Aires,2296,AR
+4127,Calle 9068,Piso 1 Dto B,Mar del Plata,1,Buenos Aires,7815,AR
+4128,Calle 5310,Piso 3 Dto C,Mar del Plata,1,Buenos Aires,9045,AR
+4129,Calle 6832,Piso 12 Dto A,Mar del Plata,1,Buenos Aires,5346,AR
+4130,Calle 4212,Piso 6 Dto A,Mar del Plata,1,Buenos Aires,8553,AR
+4131,Calle 4106,Piso 8 Dto B,La Plata,1,Buenos Aires,1230,AR
+4132,Calle 9929,Piso 5 Dto B,Mar del Plata,1,Buenos Aires,8840,AR
+4133,Calle 7111,Piso 2 Dto A,CABA,1,Buenos Aires,3509,AR
+4134,Calle 8560,,La Plata,1,Buenos Aires,9399,AR
+4135,Calle 1167,Piso 12 Dto C,Rafaela,3,Santa Fe,5213,AR
+4136,Calle 5597,,CABA,1,Buenos Aires,9453,AR
+4137,Calle 6518,,La Plata,1,Buenos Aires,4297,AR
+4138,Calle 6577,Piso 7 Dto B,Río Cuarto,2,Córdoba,7024,AR
+4139,Calle 8581,,Mar del Plata,1,Buenos Aires,5300,AR
+4140,Calle 3904,Piso 6 Dto C,Villa Carlos Paz,2,Córdoba,2363,AR
+4141,Calle 9451,Piso 10 Dto A,Rosario,3,Santa Fe,1323,AR
+4142,Calle 1942,Piso 8 Dto A,Mar del Plata,1,Buenos Aires,8960,AR
+4143,Calle 7857,,CABA,1,Buenos Aires,1898,AR
+4144,Calle 4670,Piso 4 Dto A,Rosario,3,Santa Fe,9977,AR
+4145,Calle 6215,,Río Cuarto,2,Córdoba,5811,AR
+4146,Calle 5367,,CABA,1,Buenos Aires,1008,AR
+4147,Calle 1739,Piso 8 Dto C,Córdoba,2,Córdoba,1460,AR
+4148,Calle 2435,Piso 6 Dto C,CABA,1,Buenos Aires,8758,AR
+4149,Calle 3763,,Río Cuarto,2,Córdoba,1536,AR
+4150,Calle 2821,Piso 10 Dto B,Mar del Plata,1,Buenos Aires,8755,AR
+4151,Calle 5469,Piso 11 Dto A,Río Cuarto,2,Córdoba,6264,AR
+4152,Calle 2737,Piso 6 Dto A,Villa Carlos Paz,2,Córdoba,5225,AR
+4153,Calle 6627,Piso 5 Dto A,CABA,1,Buenos Aires,4460,AR
+4154,Calle 6003,,Mar del Plata,1,Buenos Aires,8513,AR
+4155,Calle 6480,Piso 12 Dto C,Santa Fe,3,Santa Fe,7214,AR
+4156,Calle 6173,Piso 1 Dto C,Mar del Plata,1,Buenos Aires,6627,AR
+4157,Calle 4935,,Santa Fe,3,Santa Fe,6950,AR
+4158,Calle 6406,,Mar del Plata,1,Buenos Aires,5506,AR
+4159,Calle 8447,Piso 1 Dto A,Córdoba,2,Córdoba,9246,AR
+4160,Calle 740,Piso 11 Dto B,Mar del Plata,1,Buenos Aires,5185,AR
+4161,Calle 9463,,Mar del Plata,1,Buenos Aires,3992,AR
+4162,Calle 5200,,CABA,1,Buenos Aires,2592,AR
+4163,Calle 8489,,CABA,1,Buenos Aires,9752,AR
+4164,Calle 8384,Piso 10 Dto C,La Plata,1,Buenos Aires,4643,AR
+4165,Calle 9452,,La Plata,1,Buenos Aires,1857,AR
+4166,Calle 4506,,Córdoba,2,Córdoba,1653,AR
+4167,Calle 4337,Piso 3 Dto B,La Plata,1,Buenos Aires,3199,AR
+4168,Calle 4858,Piso 9 Dto A,La Plata,1,Buenos Aires,9979,AR
+4169,Calle 1053,Piso 5 Dto B,Córdoba,2,Córdoba,9844,AR
+4170,Calle 81,,La Plata,1,Buenos Aires,8465,AR
+4171,Calle 4130,,Mar del Plata,1,Buenos Aires,2320,AR
+4172,Calle 3001,,La Plata,1,Buenos Aires,5447,AR
+4173,Calle 2965,Piso 7 Dto B,Rafaela,3,Santa Fe,9248,AR
+4174,Calle 9662,Piso 9 Dto C,Villa Carlos Paz,2,Córdoba,8710,AR
+4175,Calle 8401,Piso 5 Dto B,La Plata,1,Buenos Aires,2134,AR
+4176,Calle 2232,,CABA,1,Buenos Aires,7814,AR
+4177,Calle 7127,Piso 3 Dto C,Río Cuarto,2,Córdoba,6453,AR
+4178,Calle 3421,,San Rafael,4,Mendoza,9453,AR
+4179,Calle 8651,Piso 5 Dto B,La Plata,1,Buenos Aires,4971,AR
+4180,Calle 5726,,Río Cuarto,2,Córdoba,6900,AR
+4181,Calle 2230,,Villa Carlos Paz,2,Córdoba,2017,AR
+4182,Calle 5494,,La Plata,1,Buenos Aires,6178,AR
+4183,Calle 2152,Piso 12 Dto A,CABA,1,Buenos Aires,5907,AR
+4184,Calle 7209,Piso 11 Dto A,CABA,1,Buenos Aires,2104,AR
+4185,Calle 2654,Piso 5 Dto B,Mar del Plata,1,Buenos Aires,6769,AR
+4186,Calle 1723,,CABA,1,Buenos Aires,4435,AR
+4187,Calle 8922,Piso 3 Dto C,Villa Carlos Paz,2,Córdoba,9840,AR
+4188,Calle 1271,Piso 6 Dto C,Godoy Cruz,4,Mendoza,6680,AR
+4189,Calle 6172,Piso 4 Dto B,La Plata,1,Buenos Aires,6342,AR
+4190,Calle 2708,,CABA,1,Buenos Aires,6547,AR
+4191,Calle 8574,Piso 12 Dto C,CABA,1,Buenos Aires,8090,AR
+4192,Calle 4465,Piso 7 Dto C,Godoy Cruz,4,Mendoza,3877,AR
+4193,Calle 8727,,CABA,1,Buenos Aires,6379,AR
+4194,Calle 3609,Piso 11 Dto A,CABA,1,Buenos Aires,2493,AR
+4195,Calle 275,Piso 4 Dto B,CABA,1,Buenos Aires,9568,AR
+4196,Calle 7251,Piso 12 Dto B,Mendoza,4,Mendoza,3231,AR
+4197,Calle 5537,,San Rafael,4,Mendoza,9670,AR
+4198,Calle 3985,Piso 3 Dto A,Córdoba,2,Córdoba,8353,AR
+4199,Calle 7171,,La Plata,1,Buenos Aires,7663,AR
+4200,Calle 3636,Piso 5 Dto C,Córdoba,2,Córdoba,7033,AR

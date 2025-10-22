@@ -1,0 +1,4 @@
+category_id,name,parent_id,parent_category_id,parent_name,parent_parent_id
+1,Bottles,,,,
+2,Classic,1.0,1.0,Bottles,
+3,Sport,1.0,1.0,Bottles,

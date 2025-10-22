@@ -1,0 +1,5 @@
+store_key,name,address_id,addr_address_id,addr_line1,addr_line2,addr_city,addr_province_id,addr_postal_code,addr_country_code,addr_created_at,addr_province_name,addr_province_code
+1,Tienda BA,1,1,Sucursal Buenos Aires - Av. Principal 101,,Buenos Aires,1,1001,AR,2023-12-13 10:49:04,Buenos Aires,BA
+2,Tienda CBA,2,2,Sucursal Córdoba - Av. Principal 102,,Córdoba,2,1002,AR,2023-11-13 13:09:24,Córdoba,CBA
+3,Tienda SF,3,3,Sucursal Santa Fe - Av. Principal 103,,Santa Fe,3,1003,AR,2023-07-31 15:36:04,Santa Fe,SF
+4,Tienda MZA,4,4,Sucursal Mendoza - Av. Principal 104,,Mendoza,4,1004,AR,2023-09-16 13:54:28,Mendoza,MZA
