@@ -157,10 +157,8 @@ def build_dims_and_facts(staging_dir: Path, dw_dir: Path):
             fact_sales["channel_key"] = fact_sales["channel_id"].map(mappings["channel_id"]).astype(pd.Int64Dtype())
         if "store_id" in fact_sales.columns and "store_id" in mappings:
             fact_sales["store_key"] = fact_sales["store_id"].map(mappings["store_id"]).astype(pd.Int64Dtype())
-        # Keep useful datetime columns as-is; drop natural key columns to avoid confusion in DW facts
         drop_cols = [c for c in ["order_id", "customer_id", "channel_id", "store_id"] if c in fact_sales.columns]
         fact_sales = fact_sales.drop(columns=drop_cols)
-        # Reorder: surrogate id, foreign keys, then remaining columns
         cols = [c for c in ["order_key"] if c in fact_sales.columns]
         cols += [c for c in ["customer_key", "channel_key", "store_key"] if c in fact_sales.columns]
         cols += [c for c in fact_sales.columns if c not in cols]
@@ -170,22 +168,43 @@ def build_dims_and_facts(staging_dir: Path, dw_dir: Path):
     else:
         print("fact_sales_order skipped (no sales orders)")
 
+    order_to_customer_key = {}
+    order_to_channel_key = {}
+    order_to_store_key = {}
+    if not sales.empty and "order_id" in sales.columns:
+        if "customer_id" in sales.columns:
+            order_to_customer_natural = dict(zip(sales["order_id"], sales["customer_id"]))
+            if "customer_id" in mappings:
+                order_to_customer_key = {o: mappings["customer_id"].get(c) for o, c in order_to_customer_natural.items()}
+        if "channel_id" in sales.columns:
+            order_to_channel_natural = dict(zip(sales["order_id"], sales["channel_id"]))
+            if "channel_id" in mappings:
+                order_to_channel_key = {o: mappings["channel_id"].get(ch) for o, ch in order_to_channel_natural.items()}
+        if "store_id" in sales.columns:
+            order_to_store_natural = dict(zip(sales["order_id"], sales["store_id"]))
+            if "store_id" in mappings:
+                order_to_store_key = {o: mappings["store_id"].get(s) for o, s in order_to_store_natural.items()}
+
     
     if not payments.empty:
         fact_payments = payments.copy()
-        keep = [c for c in ["payment_id", "order_id", "amount", "created_at"] if c in fact_payments.columns]
+        keep = [c for c in ["payment_id", "order_id", "amount", "created_at", "method", "status", "paid_at", "transaction_ref"] if c in fact_payments.columns]
         fact_payments = fact_payments[keep]
         if "payment_id" in fact_payments.columns:
             pay_map = make_mapping(fact_payments["payment_id"])
             mappings["payment_id"] = pay_map
             fact_payments["payment_key"] = fact_payments["payment_id"].map(pay_map).astype(pd.Int64Dtype())
-        if "order_id" in fact_payments.columns and "order_id" in mappings:
-            fact_payments["order_key"] = fact_payments["order_id"].map(mappings["order_id"]).astype(pd.Int64Dtype())
+        if "order_id" in fact_payments.columns:
+            if order_to_customer_key:
+                fact_payments["customer_key"] = fact_payments["order_id"].map(order_to_customer_key).astype(pd.Int64Dtype())
+            if order_to_channel_key:
+                fact_payments["channel_key"] = fact_payments["order_id"].map(order_to_channel_key).astype(pd.Int64Dtype())
+            if order_to_store_key:
+                fact_payments["store_key"] = fact_payments["order_id"].map(order_to_store_key).astype(pd.Int64Dtype())
         drop_cols = [c for c in ["payment_id", "order_id"] if c in fact_payments.columns]
         fact_payments = fact_payments.drop(columns=drop_cols)
-        # Reorder: payment surrogate, order surrogate, then other columns
         cols = [c for c in ["payment_key"] if c in fact_payments.columns]
-        cols += [c for c in ["order_key"] if c in fact_payments.columns]
+        cols += [c for c in ["customer_key", "channel_key", "store_key"] if c in fact_payments.columns]
         cols += [c for c in fact_payments.columns if c not in cols]
         fact_payments = fact_payments[cols]
         fact_payments.to_csv(dw_dir / "fact_payments.csv", index=False)
@@ -202,15 +221,20 @@ def build_dims_and_facts(staging_dir: Path, dw_dir: Path):
             oi_map = make_mapping(fact_items["order_item_id"])
             mappings["order_item_id"] = oi_map
             fact_items["order_item_key"] = fact_items["order_item_id"].map(oi_map).astype(pd.Int64Dtype())
-        if "order_id" in fact_items.columns and "order_id" in mappings:
-            fact_items["order_key"] = fact_items["order_id"].map(mappings["order_id"]).astype(pd.Int64Dtype())
+        if "order_id" in fact_items.columns:
+            if order_to_customer_key:
+                fact_items["customer_key"] = fact_items["order_id"].map(order_to_customer_key).astype(pd.Int64Dtype())
+            if order_to_channel_key:
+                fact_items["channel_key"] = fact_items["order_id"].map(order_to_channel_key).astype(pd.Int64Dtype())
+            if order_to_store_key:
+                fact_items["store_key"] = fact_items["order_id"].map(order_to_store_key).astype(pd.Int64Dtype())
         if "product_id" in fact_items.columns and "product_id" in mappings:
             fact_items["product_key"] = fact_items["product_id"].map(mappings["product_id"]).astype(pd.Int64Dtype())
         drop_cols = [c for c in ["order_item_id", "order_id", "product_id"] if c in fact_items.columns]
         fact_items = fact_items.drop(columns=drop_cols)
-        # Reorder: order_item surrogate, order surrogate, product surrogate, then other columns
         cols = [c for c in ["order_item_key"] if c in fact_items.columns]
-        cols += [c for c in ["order_key", "product_key"] if c in fact_items.columns]
+        cols += [c for c in ["customer_key", "channel_key", "store_key"] if c in fact_items.columns]
+        cols += [c for c in ["product_key"] if c in fact_items.columns]
         cols += [c for c in fact_items.columns if c not in cols]
         fact_items = fact_items[cols]
         fact_items.to_csv(dw_dir / "fact_sales_order_item.csv", index=False)
@@ -218,8 +242,7 @@ def build_dims_and_facts(staging_dir: Path, dw_dir: Path):
     else:
         print("fact_sales_order_item skipped (no sales order items)")
 
-    
-    # Removed duplicate fact_order_items (same as fact_sales_order_item)
+
 
     
     if not shipments.empty:
@@ -230,13 +253,17 @@ def build_dims_and_facts(staging_dir: Path, dw_dir: Path):
             sh_map = make_mapping(fact_shipments["shipment_id"])
             mappings["shipment_id"] = sh_map
             fact_shipments["shipment_key"] = fact_shipments["shipment_id"].map(sh_map).astype(pd.Int64Dtype())
-        if "order_id" in fact_shipments.columns and "order_id" in mappings:
-            fact_shipments["order_key"] = fact_shipments["order_id"].map(mappings["order_id"]).astype(pd.Int64Dtype())
+        if "order_id" in fact_shipments.columns:
+            if order_to_customer_key:
+                fact_shipments["customer_key"] = fact_shipments["order_id"].map(order_to_customer_key).astype(pd.Int64Dtype())
+            if order_to_channel_key:
+                fact_shipments["channel_key"] = fact_shipments["order_id"].map(order_to_channel_key).astype(pd.Int64Dtype())
+            if order_to_store_key:
+                fact_shipments["store_key"] = fact_shipments["order_id"].map(order_to_store_key).astype(pd.Int64Dtype())
         drop_cols = [c for c in ["shipment_id", "order_id"] if c in fact_shipments.columns]
         fact_shipments = fact_shipments.drop(columns=drop_cols)
-        # Reorder: shipment surrogate, order surrogate, then other columns
         cols = [c for c in ["shipment_key"] if c in fact_shipments.columns]
-        cols += [c for c in ["order_key"] if c in fact_shipments.columns]
+        cols += [c for c in ["customer_key", "channel_key", "store_key"] if c in fact_shipments.columns]
         cols += [c for c in fact_shipments.columns if c not in cols]
         fact_shipments = fact_shipments[cols]
         fact_shipments.to_csv(dw_dir / "fact_shipments.csv", index=False)
@@ -257,7 +284,6 @@ def build_dims_and_facts(staging_dir: Path, dw_dir: Path):
             fact_web_sessions["customer_key"] = fact_web_sessions["customer_id"].map(mappings["customer_id"]).astype(pd.Int64Dtype())
         drop_cols = [c for c in ["session_id", "customer_id"] if c in fact_web_sessions.columns]
         fact_web_sessions = fact_web_sessions.drop(columns=drop_cols)
-        # Reorder: session surrogate, customer surrogate, then other columns
         cols = [c for c in ["session_key"] if c in fact_web_sessions.columns]
         cols += [c for c in ["customer_key"] if c in fact_web_sessions.columns]
         cols += [c for c in fact_web_sessions.columns if c not in cols]
@@ -282,7 +308,6 @@ def build_dims_and_facts(staging_dir: Path, dw_dir: Path):
             fact_nps["channel_key"] = fact_nps["channel_id"].map(mappings["channel_id"]).astype(pd.Int64Dtype())
         drop_cols = [c for c in ["nps_id", "customer_id", "channel_id"] if c in fact_nps.columns]
         fact_nps = fact_nps.drop(columns=drop_cols)
-        # Reorder: nps surrogate, customer surrogate, channel surrogate, then other columns
         cols = [c for c in ["nps_key"] if c in fact_nps.columns]
         cols += [c for c in ["customer_key", "channel_key"] if c in fact_nps.columns]
         cols += [c for c in fact_nps.columns if c not in cols]
